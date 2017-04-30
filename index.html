@@ -4,18 +4,18 @@
 		<title>Earth Diagnosis</title>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" href="style/w3.css">
-		<link rel="stylesheet" href="css/main_style.css">
+		<link rel="stylesheet" href="/spaceapp/style/w3.css">
+		<link rel="stylesheet" href="/spaceapp/css/main_style.css">
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-		<link rel="stylesheet" href="style/font_awesome/css/font-awesome.min.css">
-		
+		<link rel="stylesheet" href="/spaceapp/style/font_awesome/css/font-awesome.min.css">
+
 		<script async defer src="https://maps.googleapis.com/maps/api/js?libraries=places&sensor=false?key=AIzaSyBLeAxeOcZUKeYQAlvj739VQvT1_Y9-Tl0&callback=initMap"></script>
-		
-		<script src="scripts/pollution-by-city.js"></script>
-		<script src="scripts/map_script.js"></script>
-		
+
+		<script src="/spaceapp/scripts/pollution-by-city.js"></script>
+		<script src="/spaceapp/scripts/map_script.js"></script>
+
 	</head>
-	
+
 	<body>
 		<!--Splash Screen-->
 		<div id="splash-screen" class="w3-card-4">
@@ -23,7 +23,7 @@
 			<div class="loader"></div>
 			<div id="author-title">Created by BITeam.</div>
 		</div>
-		
+
 		<!--Search box-->
 		<input id="nav-search-box" placeholder="Enter a location..." class="w3-input w3-border w3-round-xxlarge w3-col w3-rest controls" type="text" autocomplete="on">
 		<button id="btn-menu" onclick="toggle_buttons()" class="w3-btn w3-circle w3-blue w3-col round-btn-main w3-white controls">
@@ -67,11 +67,11 @@
 				<img id="lwf-btn-img" class="btn-icon gas-btn-img" src="icons/lwf_icon.svg"/>
 			</button>
 		</div>
-		
-		
-		
+
+
+
 		<!--Map-->
 		<div id="map"></div>
-		
+
 	</body>
 </html>
