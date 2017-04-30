@@ -57,6 +57,8 @@ Bash script para generar json
 
 Reference: [Giovanni - The Bridge Between Data and Science v 4.21.6](https://giovanni.gsfc.nasa.gov/giovanni)
 
+Getting time average map with all available data in this time
+
 ![Panoply netCDF, HDF and GRIB Data Viewer](/images/panoply.png "Panoply netCDF, HDF and GRIB Data Viewer")
 
 Procesamiento de datos netCDF4 con [Panoply netCDF, HDF and GRIB Data Viewer](https://www.giss.nasa.gov/tools/panoply/)
@@ -83,16 +85,17 @@ Procesamiento de datos netCDF4 con [Panoply netCDF, HDF and GRIB Data Viewer](ht
 * attr: lw_flux
 * python: --nc=pollution-data/g4.timeAvgMap.GLDAS_NOAH10_M_2_1_Swnet_tavg.20101130-20170130.180W_60S_180E_90N.nc --variable=GLDAS_NOAH10_M_2_1_Swnet_tavg --attr=sw_flux
 
-### CO Emissions
+### Carbon Monoxide Total Column (Daytime/Ascending)
 
-![CO Emissions](/images/co.png "CO Emissions")
+![Carbon Monoxide Total Column (Daytime/Ascending)](/images/co.png "Carbon Monoxide Total Column (Daytime/Ascending)")
 
 * unit: kg m-2 s-1
 * quantity_type: CO
-* nc: g4.timeAvgMap.M2TMNXCHM_5_12_4_COEM.20101130-20170130.180W_90S_180E_90N.nc
-* variable: M2TMNXCHM_5_12_4_COEM
+* nc: g4.timeAvgMap.AIRX3STD_006_TotCO_A.20091231-20101229.180W_90S_180E_90N.nc
+* variable: AIRX3STD_006_TotCO_A
 * attr: co
-* python: --nc=pollution-data/g4.timeAvgMap.M2TMNXCHM_5_12_4_COEM.20101130-20170130.180W_90S_180E_90N.nc --variable=M2TMNXCHM_5_12_4_COEM --attr=co
+* python: --nc=pollution-data/g4.timeAvgMap.AIRX3STD_006_TotCO_A.20091231-20101229.180W_90S_180E_90N.nc --variable=AIRX3STD_006_TotCO_A --attr=co
+
 ### Carbon Dioxide, Mole Fraction in Free Troposphere, IR-Only
 
 ![Carbon Dioxide, Mole Fraction in Free Troposphere, IR-Only](/images/co2.png "Carbon Dioxide, Mole Fraction in Free Troposphere, IR-Only")
