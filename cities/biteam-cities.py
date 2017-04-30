@@ -14,4 +14,4 @@ for city in cities.values():
     changedata(city)
 
 with open('cities-biteam.json', 'w') as outfile:
-    json.dump(cities, outfile)
+    json.dump(cities, outfile, sort_keys=True, indent=2)
