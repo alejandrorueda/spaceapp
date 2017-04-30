@@ -10,6 +10,7 @@ var citymap=
     "co2": 397.90700810650986, 
     "dust": 0.00016661066911183298, 
     "lw_flux": -76.53173065185547, 
+    "sw_flux": 125.10530853271484, 
     "wikipedia": "%C3%9Cr%C3%BCmqi"
   }, 
   "%c4%b0zmir": {
@@ -22,6 +23,7 @@ var citymap=
     "co2": 398.3661287929863, 
     "dust": 7.866517989896238e-05, 
     "lw_flux": -67.7991714477539, 
+    "sw_flux": 167.66543579101562, 
     "wikipedia": "%C4%B0zmir"
   }, 
   "aarhus": {
@@ -34,6 +36,7 @@ var citymap=
     "co2": 397.4651506481071, 
     "dust": 1.9580211301217787e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Aarhus"
   }, 
   "aberdeen": {
@@ -46,6 +49,7 @@ var citymap=
     "co2": 397.1024742821936, 
     "dust": 1.5460187569260597e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Aberdeen"
   }, 
   "abidjan": {
@@ -58,6 +62,7 @@ var citymap=
     "co2": 395.5892000036935, 
     "dust": 0.00030088474159128964, 
     "lw_flux": -47.303199768066406, 
+    "sw_flux": 173.6843719482422, 
     "wikipedia": "Abidjan"
   }, 
   "abudhabi": {
@@ -70,6 +75,7 @@ var citymap=
     "co2": 396.9902148763713, 
     "dust": 0.0004172930202912539, 
     "lw_flux": -86.910888671875, 
+    "sw_flux": 162.578857421875, 
     "wikipedia": "Abu_Dhabi"
   }, 
   "abuja": {
@@ -82,6 +88,7 @@ var citymap=
     "co2": 395.93475619921276, 
     "dust": 0.00043021305464208126, 
     "lw_flux": -73.38031005859375, 
+    "sw_flux": 203.01475524902344, 
     "wikipedia": "Abuja"
   }, 
   "accra": {
@@ -94,6 +101,7 @@ var citymap=
     "co2": 395.96724207513034, 
     "dust": 0.0003422690206207335, 
     "lw_flux": -60.65719985961914, 
+    "sw_flux": 192.1377716064453, 
     "wikipedia": "Accra"
   }, 
   "adak": {
@@ -106,6 +114,7 @@ var citymap=
     "co2": 396.8961482834337, 
     "dust": 2.2987243937677704e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Adak,_Alaska"
   }, 
   "adamstown": {
@@ -118,6 +127,7 @@ var citymap=
     "co2": 396.44337026402354, 
     "dust": 2.628971287776949e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Adamstown,_Pitcairn_Islands"
   }, 
   "adana": {
@@ -130,6 +140,7 @@ var citymap=
     "co2": 397.20093715004623, 
     "dust": 0.00011966734746238217, 
     "lw_flux": -70.5556869506836, 
+    "sw_flux": 167.76820373535156, 
     "wikipedia": "Adana"
   }, 
   "addisababa": {
@@ -142,6 +153,7 @@ var citymap=
     "co2": 395.4087566429128, 
     "dust": 0.00013200525427237153, 
     "lw_flux": -51.01644515991211, 
+    "sw_flux": 212.02273559570312, 
     "wikipedia": "Addis_Ababa"
   }, 
   "adelaide": {
@@ -154,6 +166,7 @@ var citymap=
     "co2": 397.2501684135447, 
     "dust": 2.892296834033914e-05, 
     "lw_flux": -69.89140319824219, 
+    "sw_flux": 166.47886657714844, 
     "wikipedia": "Adelaide"
   }, 
   "agartala": {
@@ -166,6 +179,7 @@ var citymap=
     "co2": 396.0583245777206, 
     "dust": 8.733776485314593e-05, 
     "lw_flux": -59.6141242980957, 
+    "sw_flux": 173.1582489013672, 
     "wikipedia": "Agartala"
   }, 
   "ahmedabad": {
@@ -178,6 +192,7 @@ var citymap=
     "co2": 396.561472977434, 
     "dust": 0.00019121191871818155, 
     "lw_flux": -85.86248016357422, 
+    "sw_flux": 183.86526489257812, 
     "wikipedia": "Ahmedabad"
   }, 
   "albuquerque": {
@@ -190,6 +205,7 @@ var citymap=
     "co2": 397.2902540893604, 
     "dust": 1.953819446498528e-05, 
     "lw_flux": -94.329833984375, 
+    "sw_flux": 186.61380004882812, 
     "wikipedia": "Albuquerque,_New_Mexico"
   }, 
   "alexandria": {
@@ -202,6 +218,7 @@ var citymap=
     "co2": 397.8375221292178, 
     "dust": 0.00015012681251391768, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Alexandria"
   }, 
   "algiers": {
@@ -214,6 +231,7 @@ var citymap=
     "co2": 397.6811992470175, 
     "dust": 0.00012742861872538924, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Algiers"
   }, 
   "almaty": {
@@ -226,6 +244,7 @@ var citymap=
     "co2": 398.2867393642664, 
     "dust": 0.00012810868793167174, 
     "lw_flux": -47.24223327636719, 
+    "sw_flux": 111.02761840820312, 
     "wikipedia": "Almaty"
   }, 
   "alofi": {
@@ -238,6 +257,7 @@ var citymap=
     "co2": 396.3580758621295, 
     "dust": 2.241914671685663e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Alofi"
   }, 
   "alorstar": {
@@ -250,6 +270,7 @@ var citymap=
     "co2": 396.9128247782854, 
     "dust": 1.0524091521801893e-05, 
     "lw_flux": -38.7702751159668, 
+    "sw_flux": 168.99880981445312, 
     "wikipedia": "Alor_Star"
   }, 
   "ambon": {
@@ -262,6 +283,7 @@ var citymap=
     "co2": 396.61244168323844, 
     "dust": 9.750497156346682e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Ambon,_Maluku"
   }, 
   "amman": {
@@ -274,6 +296,7 @@ var citymap=
     "co2": 397.4798364409556, 
     "dust": 0.00015176234592217952, 
     "lw_flux": -76.91864013671875, 
+    "sw_flux": 171.23202514648438, 
     "wikipedia": "Amman"
   }, 
   "amritsar": {
@@ -286,6 +309,7 @@ var citymap=
     "co2": 397.90799524376376, 
     "dust": 0.0002919000980909914, 
     "lw_flux": -98.33058166503906, 
+    "sw_flux": 190.35166931152344, 
     "wikipedia": "Amritsar"
   }, 
   "amsterdam": {
@@ -298,6 +322,7 @@ var citymap=
     "co2": 397.1510101109743, 
     "dust": 2.2152475139591843e-05, 
     "lw_flux": -48.78738021850586, 
+    "sw_flux": 100.82469940185547, 
     "wikipedia": "Amsterdam"
   }, 
   "anadyr": {
@@ -310,6 +335,7 @@ var citymap=
     "co2": 396.8312776621992, 
     "dust": 2.0297495211707428e-05, 
     "lw_flux": -42.942657470703125, 
+    "sw_flux": 59.24671936035156, 
     "wikipedia": "Anadyr_(town)"
   }, 
   "anchorage": {
@@ -322,6 +348,7 @@ var citymap=
     "co2": 397.1862209476279, 
     "dust": 1.64549273904413e-05, 
     "lw_flux": -45.225101470947266, 
+    "sw_flux": 70.9776382446289, 
     "wikipedia": "Anchorage,_Alaska"
   }, 
   "andorralavella": {
@@ -334,6 +361,7 @@ var citymap=
     "co2": 397.85464759916067, 
     "dust": 3.161519271088764e-05, 
     "lw_flux": -45.675106048583984, 
+    "sw_flux": 151.97215270996094, 
     "wikipedia": "Andorra_la_Vella"
   }, 
   "angradohero%c3%adsmo": {
@@ -346,6 +374,7 @@ var citymap=
     "co2": 396.9090851023793, 
     "dust": 1.9565331967896782e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Angra_do_Hero%C3%ADsmo"
   }, 
   "ankara": {
@@ -358,6 +387,7 @@ var citymap=
     "co2": 397.6380522362888, 
     "dust": 5.927014353801496e-05, 
     "lw_flux": -61.58259201049805, 
+    "sw_flux": 145.4330291748047, 
     "wikipedia": "Ankara"
   }, 
   "antananarivo": {
@@ -370,6 +400,7 @@ var citymap=
     "co2": 395.85782026217595, 
     "dust": 4.5146325646783225e-06, 
     "lw_flux": -55.40170669555664, 
+    "sw_flux": 212.6213836669922, 
     "wikipedia": "Antananarivo"
   }, 
   "antofagasta": {
@@ -382,6 +413,7 @@ var citymap=
     "co2": 396.2566398832997, 
     "dust": 1.701971996226348e-05, 
     "lw_flux": -125.99921417236328, 
+    "sw_flux": 230.40087890625, 
     "wikipedia": "Antofagasta"
   }, 
   "antwerp": {
@@ -394,6 +426,7 @@ var citymap=
     "co2": 397.6196690928191, 
     "dust": 2.356022559979465e-05, 
     "lw_flux": -52.326881408691406, 
+    "sw_flux": 96.34280395507812, 
     "wikipedia": "Antwerp"
   }, 
   "apia": {
@@ -406,6 +439,7 @@ var citymap=
     "co2": 396.32886457823315, 
     "dust": 1.3438519772535074e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Apia"
   }, 
   "arbil": {
@@ -418,6 +452,7 @@ var citymap=
     "co2": 397.3322342305134, 
     "dust": 0.00019485039229039103, 
     "lw_flux": -90.14990997314453, 
+    "sw_flux": 168.87147521972656, 
     "wikipedia": "Arbil"
   }, 
   "arequipa": {
@@ -430,6 +465,7 @@ var citymap=
     "co2": 394.40131985355873, 
     "dust": 8.948935828811955e-06, 
     "lw_flux": -44.943809509277344, 
+    "sw_flux": 201.68711853027344, 
     "wikipedia": "Arequipa"
   }, 
   "ashgabat": {
@@ -442,6 +478,7 @@ var citymap=
     "co2": 397.7513250939497, 
     "dust": 0.00030332800815813243, 
     "lw_flux": -86.67642211914062, 
+    "sw_flux": 144.87741088867188, 
     "wikipedia": "Ashgabat"
   }, 
   "asmara": {
@@ -454,6 +491,7 @@ var citymap=
     "co2": 396.02838989270674, 
     "dust": 0.000330780545482412, 
     "lw_flux": -87.69127655029297, 
+    "sw_flux": 210.1063690185547, 
     "wikipedia": "Asmara"
   }, 
   "assis": {
@@ -466,6 +504,7 @@ var citymap=
     "co2": 396.1605256578575, 
     "dust": 1.3323121493158396e-05, 
     "lw_flux": -54.33432388305664, 
+    "sw_flux": 185.8245849609375, 
     "wikipedia": "Assis"
   }, 
   "astana": {
@@ -478,6 +517,7 @@ var citymap=
     "co2": 397.1224173437804, 
     "dust": 5.680583126377314e-05, 
     "lw_flux": -54.570770263671875, 
+    "sw_flux": 104.5119857788086, 
     "wikipedia": "Astana"
   }, 
   "asunci%c3%b3n": {
@@ -490,6 +530,7 @@ var citymap=
     "co2": 396.333736134693, 
     "dust": 4.183623241260648e-05, 
     "lw_flux": -55.189788818359375, 
+    "sw_flux": 191.15467834472656, 
     "wikipedia": "Asunci%C3%B3n"
   }, 
   "athens": {
@@ -502,6 +543,7 @@ var citymap=
     "co2": 398.00849471551675, 
     "dust": 8.22384245111607e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Athens"
   }, 
   "atlanta": {
@@ -514,6 +556,7 @@ var citymap=
     "co2": 397.73009717464447, 
     "dust": 1.865779995569028e-05, 
     "lw_flux": -59.572052001953125, 
+    "sw_flux": 162.71751403808594, 
     "wikipedia": "Atlanta"
   }, 
   "auckland": {
@@ -526,6 +569,7 @@ var citymap=
     "co2": 397.06190194313723, 
     "dust": 7.244216703838902e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Auckland"
   }, 
   "austin": {
@@ -538,6 +582,7 @@ var citymap=
     "co2": 397.96471091297764, 
     "dust": 2.2282018107944168e-05, 
     "lw_flux": -63.47372817993164, 
+    "sw_flux": 172.50340270996094, 
     "wikipedia": "Austin,_Texas"
   }, 
   "avarua": {
@@ -550,6 +595,7 @@ var citymap=
     "co2": 396.305019967258, 
     "dust": 2.4973778636194766e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Avarua"
   }, 
   "baghdad": {
@@ -562,6 +608,7 @@ var citymap=
     "co2": 396.9970877935541, 
     "dust": 0.0004250719794072211, 
     "lw_flux": -103.68122863769531, 
+    "sw_flux": 174.2161865234375, 
     "wikipedia": "Baghdad"
   }, 
   "bah%c3%adablanca": {
@@ -574,6 +621,7 @@ var citymap=
     "co2": 397.2247479638706, 
     "dust": 4.301065928302705e-05, 
     "lw_flux": -64.92636108398438, 
+    "sw_flux": 172.03724670410156, 
     "wikipedia": "Bah%C3%ADa_Blanca"
   }, 
   "baku": {
@@ -586,6 +634,7 @@ var citymap=
     "co2": 398.4341110723714, 
     "dust": 0.0002263034402858466, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Baku"
   }, 
   "balikpapan": {
@@ -598,6 +647,7 @@ var citymap=
     "co2": 396.09642826939285, 
     "dust": 4.9819973355624825e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Balikpapan"
   }, 
   "baltimore": {
@@ -610,6 +660,7 @@ var citymap=
     "co2": 397.64124124524864, 
     "dust": 2.234859493910335e-05, 
     "lw_flux": -51.98869705200195, 
+    "sw_flux": 137.93063354492188, 
     "wikipedia": "Baltimore"
   }, 
   "bamako": {
@@ -622,6 +673,7 @@ var citymap=
     "co2": 396.0110611531067, 
     "dust": 0.00039943106821738183, 
     "lw_flux": -81.65918731689453, 
+    "sw_flux": 198.51988220214844, 
     "wikipedia": "Bamako"
   }, 
   "bandaaceh": {
@@ -634,6 +686,7 @@ var citymap=
     "co2": 396.75760116162047, 
     "dust": 1.1937796443817206e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Banda_Aceh"
   }, 
   "bandarseribegawan": {
@@ -646,6 +699,7 @@ var citymap=
     "co2": 397.4231512984261, 
     "dust": 5.198598501010565e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Bandar_Seri_Begawan"
   }, 
   "bandung": {
@@ -658,6 +712,7 @@ var citymap=
     "co2": 396.3391570973077, 
     "dust": 4.399027602630667e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Bandung"
   }, 
   "bangalore": {
@@ -670,6 +725,7 @@ var citymap=
     "co2": 396.2506020349831, 
     "dust": 5.815304029965773e-05, 
     "lw_flux": -59.67109298706055, 
+    "sw_flux": 195.79571533203125, 
     "wikipedia": "Bangalore"
   }, 
   "bangkok": {
@@ -682,6 +738,7 @@ var citymap=
     "co2": 396.36634842756746, 
     "dust": 1.7690554159344174e-05, 
     "lw_flux": -58.39274978637695, 
+    "sw_flux": 183.62765502929688, 
     "wikipedia": "Bangkok"
   }, 
   "bangui": {
@@ -694,6 +751,7 @@ var citymap=
     "co2": 395.8468118918524, 
     "dust": 0.00016111278091557324, 
     "lw_flux": -57.438297271728516, 
+    "sw_flux": 199.52005004882812, 
     "wikipedia": "Bangui"
   }, 
   "banjul": {
@@ -706,6 +764,7 @@ var citymap=
     "co2": 396.20289765617315, 
     "dust": 0.00043561478378251195, 
     "lw_flux": -73.19841766357422, 
+    "sw_flux": 203.50390625, 
     "wikipedia": "Banjul"
   }, 
   "barcelona": {
@@ -718,6 +777,7 @@ var citymap=
     "co2": 397.6520585517089, 
     "dust": 5.435664934339002e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Barcelona"
   }, 
   "barranquilla": {
@@ -730,6 +790,7 @@ var citymap=
     "co2": 396.97877247817814, 
     "dust": 3.484065746306442e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Barranquilla"
   }, 
   "basra": {
@@ -742,6 +803,7 @@ var citymap=
     "co2": 397.0524432244585, 
     "dust": 0.0004931329749524593, 
     "lw_flux": -108.02731323242188, 
+    "sw_flux": 176.2271728515625, 
     "wikipedia": "Basra"
   }, 
   "basseterre": {
@@ -754,6 +816,7 @@ var citymap=
     "co2": 396.44322474487126, 
     "dust": 5.590739237959497e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Basse-Terre"
   }, 
   "batticaloa": {
@@ -766,6 +829,7 @@ var citymap=
     "co2": 396.52681332209136, 
     "dust": 4.317389539210126e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Batticaloa"
   }, 
   "beijing": {
@@ -778,6 +842,7 @@ var citymap=
     "co2": 398.28238581928116, 
     "dust": 9.712512110127136e-05, 
     "lw_flux": -66.72884368896484, 
+    "sw_flux": 149.43251037597656, 
     "wikipedia": "Beijing"
   }, 
   "beirut": {
@@ -790,6 +855,7 @@ var citymap=
     "co2": 397.6567807242375, 
     "dust": 0.00012075224367436022, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Beirut"
   }, 
   "bel%c3%a9m": {
@@ -802,6 +868,7 @@ var citymap=
     "co2": 396.23454950439435, 
     "dust": 2.6163288566749543e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Bel%C3%A9m"
   }, 
   "belfast": {
@@ -814,6 +881,7 @@ var citymap=
     "co2": 397.2212598206195, 
     "dust": 1.6042482457123697e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Belfast"
   }, 
   "belgrade": {
@@ -826,6 +894,7 @@ var citymap=
     "co2": 397.6898780092597, 
     "dust": 4.921256913803518e-05, 
     "lw_flux": -55.75746536254883, 
+    "sw_flux": 124.90611267089844, 
     "wikipedia": "Belgrade"
   }, 
   "belizecity": {
@@ -838,6 +907,7 @@ var citymap=
     "co2": 396.91143752566563, 
     "dust": 1.8126469512935728e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Belize_City"
   }, 
   "belmopan": {
@@ -850,6 +920,7 @@ var citymap=
     "co2": 396.91143752566563, 
     "dust": 1.706934199319221e-05, 
     "lw_flux": -41.88909912109375, 
+    "sw_flux": 174.26031494140625, 
     "wikipedia": "Belmopan"
   }, 
   "bergen": {
@@ -862,6 +933,7 @@ var citymap=
     "co2": 396.9238519268504, 
     "dust": 1.4429507245949935e-05, 
     "lw_flux": -45.05664825439453, 
+    "sw_flux": 86.6786880493164, 
     "wikipedia": "Bergen"
   }, 
   "berlin": {
@@ -874,6 +946,7 @@ var citymap=
     "co2": 397.6635871610294, 
     "dust": 2.544623930589296e-05, 
     "lw_flux": -49.99818420410156, 
+    "sw_flux": 94.2813720703125, 
     "wikipedia": "Berlin"
   }, 
   "bern": {
@@ -886,6 +959,7 @@ var citymap=
     "co2": 397.4194556940347, 
     "dust": 2.7942036467720754e-05, 
     "lw_flux": -48.0859260559082, 
+    "sw_flux": 105.78504943847656, 
     "wikipedia": "Bern"
   }, 
   "bilbao": {
@@ -898,6 +972,7 @@ var citymap=
     "co2": 397.2244879696518, 
     "dust": 3.0438179237535223e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Bilbao"
   }, 
   "birkirkara": {
@@ -910,6 +985,7 @@ var citymap=
     "co2": 397.94311043806374, 
     "dust": 0.0001316436828346923, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Birkirkara"
   }, 
   "birmingham": {
@@ -922,6 +998,7 @@ var citymap=
     "co2": 397.56538211116316, 
     "dust": 1.8138804080081172e-05, 
     "lw_flux": -46.11111831665039, 
+    "sw_flux": 87.24991607666016, 
     "wikipedia": "Birmingham"
   }, 
   "bishkek": {
@@ -934,6 +1011,7 @@ var citymap=
     "co2": 398.35526918371517, 
     "dust": 0.00012551312102004886, 
     "lw_flux": -64.90361785888672, 
+    "sw_flux": 129.99786376953125, 
     "wikipedia": "Bishkek"
   }, 
   "bissau": {
@@ -946,6 +1024,7 @@ var citymap=
     "co2": 395.95713450883824, 
     "dust": 0.0003500737948343158, 
     "lw_flux": -80.06797790527344, 
+    "sw_flux": 206.6212615966797, 
     "wikipedia": "Bissau"
   }, 
   "blantyre": {
@@ -958,6 +1037,7 @@ var citymap=
     "co2": 395.1844584662467, 
     "dust": 7.360216841334477e-06, 
     "lw_flux": -63.84410858154297, 
+    "sw_flux": 211.4365997314453, 
     "wikipedia": "Blantyre,_Malawi"
   }, 
   "bloemfontein": {
@@ -970,6 +1050,7 @@ var citymap=
     "co2": 396.2159195604424, 
     "dust": 1.0397752703283913e-05, 
     "lw_flux": -91.48114013671875, 
+    "sw_flux": 203.40785217285156, 
     "wikipedia": "Bloemfontein"
   }, 
   "boavista": {
@@ -982,6 +1063,7 @@ var citymap=
     "co2": 395.9041422543426, 
     "dust": 2.5567396733094938e-05, 
     "lw_flux": -62.59561538696289, 
+    "sw_flux": 214.5703582763672, 
     "wikipedia": "Boa_Vista,_Roraima"
   }, 
   "bogor": {
@@ -994,6 +1076,7 @@ var citymap=
     "co2": 396.03747011694526, 
     "dust": 3.730541720869951e-06, 
     "lw_flux": -43.05757141113281, 
+    "sw_flux": 172.07330322265625, 
     "wikipedia": "Bogor"
   }, 
   "bogot%c3%a1": {
@@ -1006,6 +1089,7 @@ var citymap=
     "co2": 395.19529792875664, 
     "dust": 7.444998573191697e-06, 
     "lw_flux": -22.881824493408203, 
+    "sw_flux": 199.92808532714844, 
     "wikipedia": "Bogot%C3%A1"
   }, 
   "boston": {
@@ -1018,6 +1102,7 @@ var citymap=
     "co2": 397.8081241560479, 
     "dust": 1.8272807210450992e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Boston"
   }, 
   "bras%c3%adlia": {
@@ -1030,6 +1115,7 @@ var citymap=
     "co2": 395.41918008277815, 
     "dust": 6.155930805107346e-06, 
     "lw_flux": -57.2106819152832, 
+    "sw_flux": 203.69769287109375, 
     "wikipedia": "Bras%C3%ADlia"
   }, 
   "bratislava": {
@@ -1042,6 +1128,7 @@ var citymap=
     "co2": 397.62076960566145, 
     "dust": 3.571564593585208e-05, 
     "lw_flux": -48.750282287597656, 
+    "sw_flux": 108.54151153564453, 
     "wikipedia": "Bratislava"
   }, 
   "bratsk": {
@@ -1054,6 +1141,7 @@ var citymap=
     "co2": 397.08490716293454, 
     "dust": 3.112417834927328e-05, 
     "lw_flux": -46.249351501464844, 
+    "sw_flux": 100.52387237548828, 
     "wikipedia": "Bratsk"
   }, 
   "brazzaville": {
@@ -1066,6 +1154,7 @@ var citymap=
     "co2": 395.4249476858725, 
     "dust": 6.342631240841001e-05, 
     "lw_flux": -47.24542999267578, 
+    "sw_flux": 171.1526336669922, 
     "wikipedia": "Brazzaville"
   }, 
   "bridgetown": {
@@ -1078,6 +1167,7 @@ var citymap=
     "co2": 396.2158993817866, 
     "dust": 6.389994086930528e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Bridgetown"
   }, 
   "brikama": {
@@ -1090,6 +1180,7 @@ var citymap=
     "co2": 396.20289765617315, 
     "dust": 0.00043561478378251195, 
     "lw_flux": -73.19841766357422, 
+    "sw_flux": 203.50390625, 
     "wikipedia": "Brikama"
   }, 
   "brisbane": {
@@ -1102,6 +1193,7 @@ var citymap=
     "co2": 396.99084164264303, 
     "dust": 1.329398037341889e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Brisbane"
   }, 
   "brussels": {
@@ -1114,6 +1206,7 @@ var citymap=
     "co2": 397.6196690928191, 
     "dust": 2.3751334083499387e-05, 
     "lw_flux": -52.326881408691406, 
+    "sw_flux": 96.34280395507812, 
     "wikipedia": "Brussels"
   }, 
   "bucharest": {
@@ -1126,6 +1219,7 @@ var citymap=
     "co2": 398.07402916873497, 
     "dust": 5.2305400458863005e-05, 
     "lw_flux": -54.816532135009766, 
+    "sw_flux": 123.04065704345703, 
     "wikipedia": "Bucharest"
   }, 
   "budapest": {
@@ -1138,6 +1232,7 @@ var citymap=
     "co2": 397.6470325142145, 
     "dust": 4.046925459988415e-05, 
     "lw_flux": -50.511962890625, 
+    "sw_flux": 113.17662048339844, 
     "wikipedia": "Budapest"
   }, 
   "buenosaires": {
@@ -1150,6 +1245,7 @@ var citymap=
     "co2": 397.6804538009067, 
     "dust": 4.047473339596763e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Buenos_Aires"
   }, 
   "buffalo": {
@@ -1162,6 +1258,7 @@ var citymap=
     "co2": 397.7098416847487, 
     "dust": 2.0659854271798395e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Buffalo,_New_York"
   }, 
   "bujumbura": {
@@ -1174,6 +1271,7 @@ var citymap=
     "co2": 394.9202962119032, 
     "dust": 3.153570287395269e-05, 
     "lw_flux": -41.620216369628906, 
+    "sw_flux": 169.00782775878906, 
     "wikipedia": "Bujumbura"
   }, 
   "bulawayo": {
@@ -1186,6 +1284,7 @@ var citymap=
     "co2": 395.87420217382413, 
     "dust": 6.450326509366278e-06, 
     "lw_flux": -81.18867492675781, 
+    "sw_flux": 221.98162841796875, 
     "wikipedia": "Bulawayo"
   }, 
   "bursa": {
@@ -1198,6 +1297,7 @@ var citymap=
     "co2": 398.1083309433113, 
     "dust": 6.796259549446404e-05, 
     "lw_flux": -57.66250991821289, 
+    "sw_flux": 144.55322265625, 
     "wikipedia": "Bursa"
   }, 
   "busan": {
@@ -1210,6 +1310,7 @@ var citymap=
     "co2": 397.9643032023985, 
     "dust": 5.9563240938587114e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Busan"
   }, 
   "c%c3%b3rdoba": {
@@ -1222,6 +1323,7 @@ var citymap=
     "co2": 397.35678816214204, 
     "dust": 3.557372838258743e-05, 
     "lw_flux": -65.7128677368164, 
+    "sw_flux": 186.1349639892578, 
     "wikipedia": "C%C3%B3rdoba,_Argentina"
   }, 
   "cairns": {
@@ -1234,6 +1336,7 @@ var citymap=
     "co2": 396.0952713775138, 
     "dust": 1.0865748663491104e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Cairns"
   }, 
   "cairo": {
@@ -1246,6 +1349,7 @@ var citymap=
     "co2": 397.8184890002012, 
     "dust": 0.00020660620066337287, 
     "lw_flux": -90.48502349853516, 
+    "sw_flux": 182.4046630859375, 
     "wikipedia": "Cairo"
   }, 
   "calama": {
@@ -1258,6 +1362,7 @@ var citymap=
     "co2": 394.1532490284157, 
     "dust": 9.999459507525899e-06, 
     "lw_flux": -87.69426727294922, 
+    "sw_flux": 240.00616455078125, 
     "wikipedia": "Calama,_Chile"
   }, 
   "calgary": {
@@ -1270,6 +1375,7 @@ var citymap=
     "co2": 397.6850036997348, 
     "dust": 1.733283897920046e-05, 
     "lw_flux": -54.506893157958984, 
+    "sw_flux": 110.77611541748047, 
     "wikipedia": "Calgary"
   }, 
   "cali": {
@@ -1282,6 +1388,7 @@ var citymap=
     "co2": 395.1553698169772, 
     "dust": 7.18049750503269e-06, 
     "lw_flux": -42.790794372558594, 
+    "sw_flux": 158.354248046875, 
     "wikipedia": "Cali"
   }, 
   "campinas": {
@@ -1294,6 +1401,7 @@ var citymap=
     "co2": 395.6521290820092, 
     "dust": 9.649443200032692e-06, 
     "lw_flux": -54.66978454589844, 
+    "sw_flux": 192.2518768310547, 
     "wikipedia": "Campinas"
   }, 
   "campogrande": {
@@ -1306,6 +1414,7 @@ var citymap=
     "co2": 396.0880256878833, 
     "dust": 2.2581403754884377e-05, 
     "lw_flux": -56.02504348754883, 
+    "sw_flux": 192.905517578125, 
     "wikipedia": "Campo_Grande"
   }, 
   "canberra": {
@@ -1318,6 +1427,7 @@ var citymap=
     "co2": 397.24568797585863, 
     "dust": 1.4169282621878665e-05, 
     "lw_flux": -61.012351989746094, 
+    "sw_flux": 172.64926147460938, 
     "wikipedia": "Canberra"
   }, 
   "cannes": {
@@ -1330,6 +1440,7 @@ var citymap=
     "co2": 397.6863238494843, 
     "dust": 3.718458901857957e-05, 
     "lw_flux": -45.97643280029297, 
+    "sw_flux": 118.6340103149414, 
     "wikipedia": "Cannes"
   }, 
   "capetown": {
@@ -1342,6 +1453,7 @@ var citymap=
     "co2": 397.2522867843509, 
     "dust": 9.984643838834018e-06, 
     "lw_flux": -78.80354309082031, 
+    "sw_flux": 208.3289031982422, 
     "wikipedia": "Cape_Town"
   }, 
   "caracas": {
@@ -1354,6 +1466,7 @@ var citymap=
     "co2": 396.83501119725406, 
     "dust": 3.254215698689222e-05, 
     "lw_flux": -45.47817611694336, 
+    "sw_flux": 205.58824157714844, 
     "wikipedia": "Caracas"
   }, 
   "cardiff": {
@@ -1366,6 +1479,7 @@ var citymap=
     "co2": 397.503828862682, 
     "dust": 1.8266053302795626e-05, 
     "lw_flux": -48.9078483581543, 
+    "sw_flux": 89.84964752197266, 
     "wikipedia": "Cardiff"
   }, 
   "cartagena": {
@@ -1378,6 +1492,7 @@ var citymap=
     "co2": 396.8907644351323, 
     "dust": 3.593657675082795e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Cartagena,_Colombia"
   }, 
   "casablanca": {
@@ -1390,6 +1505,7 @@ var citymap=
     "co2": 397.2846983621518, 
     "dust": 0.00011885529238497838, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Casablanca"
   }, 
   "castries": {
@@ -1402,6 +1518,7 @@ var citymap=
     "co2": 396.44322474487126, 
     "dust": 6.031326120137237e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Castries"
   }, 
   "cayenne": {
@@ -1414,6 +1531,7 @@ var citymap=
     "co2": 396.507332722346, 
     "dust": 4.200739931548014e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Cayenne"
   }, 
   "cebucity": {
@@ -1426,6 +1544,7 @@ var citymap=
     "co2": 397.2953516593505, 
     "dust": 4.348563379608095e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Cebu_City"
   }, 
   "chaguanas": {
@@ -1438,6 +1557,7 @@ var citymap=
     "co2": 396.51770881998044, 
     "dust": 4.999354496248998e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Chaguanas"
   }, 
   "changchun": {
@@ -1450,6 +1570,7 @@ var citymap=
     "co2": 397.5757195924719, 
     "dust": 5.8120749599765986e-05, 
     "lw_flux": -52.295249938964844, 
+    "sw_flux": 127.20983123779297, 
     "wikipedia": "Changchun"
   }, 
   "charlotte": {
@@ -1462,6 +1583,7 @@ var citymap=
     "co2": 397.77003034638864, 
     "dust": 1.905223871290218e-05, 
     "lw_flux": -59.9119758605957, 
+    "sw_flux": 156.50254821777344, 
     "wikipedia": "Charlotte,_North_Carolina"
   }, 
   "charlotteamalie": {
@@ -1474,6 +1596,7 @@ var citymap=
     "co2": 395.9631318381677, 
     "dust": 9.467880772717763e-06, 
     "lw_flux": -49.07854461669922, 
+    "sw_flux": 172.11062622070312, 
     "wikipedia": "Charlotte_Amalie,_United_States_Virgin_Islands"
   }, 
   "charlottetown": {
@@ -1486,6 +1609,7 @@ var citymap=
     "co2": 397.6667122851598, 
     "dust": 1.6052947103162296e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Charlottetown"
   }, 
   "chengdu": {
@@ -1498,6 +1622,7 @@ var citymap=
     "co2": 396.86055621132255, 
     "dust": 9.266222332371399e-05, 
     "lw_flux": -59.78009033203125, 
+    "sw_flux": 114.82962799072266, 
     "wikipedia": "Chengdu"
   }, 
   "chennai": {
@@ -1510,6 +1635,7 @@ var citymap=
     "co2": 396.68565206165897, 
     "dust": 7.820017344783992e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Chennai"
   }, 
   "chi%c5%9fin%c4%83u": {
@@ -1522,6 +1648,7 @@ var citymap=
     "co2": 397.67872852583724, 
     "dust": 4.706008257926442e-05, 
     "lw_flux": -52.98039245605469, 
+    "sw_flux": 118.18706512451172, 
     "wikipedia": "Chi%C5%9Fin%C4%83u"
   }, 
   "chiangmai": {
@@ -1534,6 +1661,7 @@ var citymap=
     "co2": 395.29749463401635, 
     "dust": 2.504159783711657e-05, 
     "lw_flux": -63.27684020996094, 
+    "sw_flux": 179.1980743408203, 
     "wikipedia": "Chiang_Mai"
   }, 
   "chicago": {
@@ -1546,6 +1674,7 @@ var citymap=
     "co2": 397.89331223194796, 
     "dust": 2.4562006728956476e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Chicago"
   }, 
   "chihuahua": {
@@ -1558,6 +1687,7 @@ var citymap=
     "co2": 397.113673388958, 
     "dust": 1.6784804756753147e-05, 
     "lw_flux": -100.09710693359375, 
+    "sw_flux": 201.26702880859375, 
     "wikipedia": "Chihuahua,_Chihuahua"
   }, 
   "chittagong": {
@@ -1570,6 +1700,7 @@ var citymap=
     "co2": 396.0583245777206, 
     "dust": 7.818623998900875e-05, 
     "lw_flux": -61.88711929321289, 
+    "sw_flux": 180.2457275390625, 
     "wikipedia": "Chittagong"
   }, 
   "chongjin": {
@@ -1582,6 +1713,7 @@ var citymap=
     "co2": 397.5297082876283, 
     "dust": 5.4205007472774014e-05, 
     "lw_flux": -52.32651901245117, 
+    "sw_flux": 129.9432373046875, 
     "wikipedia": "Chongjin"
   }, 
   "chongqing": {
@@ -1594,6 +1726,7 @@ var citymap=
     "co2": 397.2468737235947, 
     "dust": 6.755711365258321e-05, 
     "lw_flux": -44.45661544799805, 
+    "sw_flux": 99.28247833251953, 
     "wikipedia": "Chongqing"
   }, 
   "christchurch": {
@@ -1606,6 +1739,7 @@ var citymap=
     "co2": 396.78144094068557, 
     "dust": 7.774718142172787e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Christchurch"
   }, 
   "chu%c3%ad": {
@@ -1618,6 +1752,7 @@ var citymap=
     "co2": 397.1401000550638, 
     "dust": 2.6876015908783302e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Chu%C3%AD"
   }, 
   "cincinnati": {
@@ -1630,6 +1765,7 @@ var citymap=
     "co2": 397.76464148114127, 
     "dust": 2.35711268032901e-05, 
     "lw_flux": -53.05624771118164, 
+    "sw_flux": 132.68577575683594, 
     "wikipedia": "Cincinnati"
   }, 
   "cityofhalifax": {
@@ -1642,6 +1778,7 @@ var citymap=
     "co2": 397.7060306351632, 
     "dust": 1.6094627426355146e-05, 
     "lw_flux": -39.77495193481445, 
+    "sw_flux": 114.46837615966797, 
     "wikipedia": "City_of_Halifax"
   }, 
   "cityofsanmarino": {
@@ -1654,6 +1791,7 @@ var citymap=
     "co2": 397.9254234582186, 
     "dust": 5.018883166485466e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "City_of_San_Marino"
   }, 
   "ciudaddeleste": {
@@ -1666,6 +1804,7 @@ var citymap=
     "co2": 396.18939471741515, 
     "dust": 2.3616374164703302e-05, 
     "lw_flux": -49.233177185058594, 
+    "sw_flux": 184.22802734375, 
     "wikipedia": "Ciudad_del_Este"
   }, 
   "cleveland": {
@@ -1678,6 +1817,7 @@ var citymap=
     "co2": 398.08275798956555, 
     "dust": 2.278646206832491e-05, 
     "lw_flux": -54.21749496459961, 
+    "sw_flux": 133.39308166503906, 
     "wikipedia": "Cleveland"
   }, 
   "cockburntown": {
@@ -1690,6 +1830,7 @@ var citymap=
     "co2": 396.92240455691274, 
     "dust": 2.878288614738267e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Cockburn_Town"
   }, 
   "cologne": {
@@ -1702,6 +1843,7 @@ var citymap=
     "co2": 397.55077528146404, 
     "dust": 2.3837566914153285e-05, 
     "lw_flux": -47.95181655883789, 
+    "sw_flux": 95.76016998291016, 
     "wikipedia": "Cologne"
   }, 
   "colombo": {
@@ -1714,6 +1856,7 @@ var citymap=
     "co2": 396.2844166879172, 
     "dust": 4.052982330904342e-05, 
     "lw_flux": -48.951229095458984, 
+    "sw_flux": 206.49305725097656, 
     "wikipedia": "Colombo"
   }, 
   "columbus": {
@@ -1726,6 +1869,7 @@ var citymap=
     "co2": 397.76464148114127, 
     "dust": 2.3195239919004962e-05, 
     "lw_flux": -49.66203308105469, 
+    "sw_flux": 129.89820861816406, 
     "wikipedia": "Columbus,_Ohio"
   }, 
   "conakry": {
@@ -1738,6 +1882,7 @@ var citymap=
     "co2": 395.73415958633024, 
     "dust": 0.0002682760532479733, 
     "lw_flux": -68.3443832397461, 
+    "sw_flux": 201.2364501953125, 
     "wikipedia": "Conakry"
   }, 
   "concepci%c3%b3n": {
@@ -1750,6 +1895,7 @@ var citymap=
     "co2": 397.4792279768735, 
     "dust": 9.520654202788137e-06, 
     "lw_flux": -74.49697875976562, 
+    "sw_flux": 192.97349548339844, 
     "wikipedia": "Concepci%C3%B3n,_Chile"
   }, 
   "copenhagen": {
@@ -1762,6 +1908,7 @@ var citymap=
     "co2": 397.46269350871444, 
     "dust": 2.0708197553176433e-05, 
     "lw_flux": -50.452064514160156, 
+    "sw_flux": 102.8539810180664, 
     "wikipedia": "Copenhagen"
   }, 
   "cork": {
@@ -1774,6 +1921,7 @@ var citymap=
     "co2": 397.4947636015713, 
     "dust": 1.663707553234417e-05, 
     "lw_flux": -42.04427719116211, 
+    "sw_flux": 87.18063354492188, 
     "wikipedia": "Cork_(city)"
   }, 
   "cotonou": {
@@ -1786,6 +1934,7 @@ var citymap=
     "co2": 395.6052935554659, 
     "dust": 0.00038674709503538907, 
     "lw_flux": -53.69233703613281, 
+    "sw_flux": 184.9818878173828, 
     "wikipedia": "Cotonou"
   }, 
   "cuiab%c3%a1": {
@@ -1798,6 +1947,7 @@ var citymap=
     "co2": 395.8354665539102, 
     "dust": 3.037953683815431e-05, 
     "lw_flux": -52.490570068359375, 
+    "sw_flux": 189.38156127929688, 
     "wikipedia": "Cuiab%C3%A1"
   }, 
   "curitiba": {
@@ -1810,6 +1960,7 @@ var citymap=
     "co2": 396.31605924417573, 
     "dust": 1.1365824320819229e-05, 
     "lw_flux": -43.96345901489258, 
+    "sw_flux": 165.5779266357422, 
     "wikipedia": "Curitiba"
   }, 
   "cusco": {
@@ -1822,6 +1973,7 @@ var citymap=
     "co2": 395.1197396963835, 
     "dust": 3.6630904105550144e-06, 
     "lw_flux": -42.7419548034668, 
+    "sw_flux": 187.19607543945312, 
     "wikipedia": "Cusco"
   }, 
   "d%c3%bcsseldorf": {
@@ -1834,6 +1986,7 @@ var citymap=
     "co2": 397.55077528146404, 
     "dust": 2.3822916773497127e-05, 
     "lw_flux": -47.95181655883789, 
+    "sw_flux": 95.76016998291016, 
     "wikipedia": "D%C3%BCsseldorf"
   }, 
   "daegu": {
@@ -1846,6 +1999,7 @@ var citymap=
     "co2": 397.9643032023985, 
     "dust": 6.0322148783598095e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Daegu"
   }, 
   "dakar": {
@@ -1858,6 +2012,7 @@ var citymap=
     "co2": 395.77470050898154, 
     "dust": 0.0005091312923468649, 
     "lw_flux": -70.5980453491211, 
+    "sw_flux": 174.17178344726562, 
     "wikipedia": "Dakar"
   }, 
   "dalian": {
@@ -1870,6 +2025,7 @@ var citymap=
     "co2": 398.37613274964195, 
     "dust": 7.92114224168472e-05, 
     "lw_flux": -51.25932693481445, 
+    "sw_flux": 136.0452423095703, 
     "wikipedia": "Dalian"
   }, 
   "dallas": {
@@ -1882,6 +2038,7 @@ var citymap=
     "co2": 397.8597916041811, 
     "dust": 2.4264321837108582e-05, 
     "lw_flux": -60.98713302612305, 
+    "sw_flux": 167.56797790527344, 
     "wikipedia": "Dallas"
   }, 
   "damascus": {
@@ -1894,6 +2051,7 @@ var citymap=
     "co2": 397.6567807242375, 
     "dust": 0.00013876095181331038, 
     "lw_flux": -83.82510375976562, 
+    "sw_flux": 167.77622985839844, 
     "wikipedia": "Damascus"
   }, 
   "dammam": {
@@ -1906,6 +2064,7 @@ var citymap=
     "co2": 397.2877174432219, 
     "dust": 0.00044556407374329865, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Dammam"
   }, 
   "danang": {
@@ -1918,6 +2077,7 @@ var citymap=
     "co2": 396.35806122631135, 
     "dust": 1.368481207464356e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Da_Nang"
   }, 
   "daressalaam": {
@@ -1930,6 +2090,7 @@ var citymap=
     "co2": 395.75571815172833, 
     "dust": 2.7237625545240007e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Dar_es_Salaam"
   }, 
   "darwin": {
@@ -1942,6 +2103,7 @@ var citymap=
     "co2": 396.42999409635024, 
     "dust": 2.604479232104495e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Darwin,_Northern_Territory"
   }, 
   "davaocity": {
@@ -1954,6 +2116,7 @@ var citymap=
     "co2": 397.0284993152341, 
     "dust": 3.855623162962729e-06, 
     "lw_flux": -24.808961868286133, 
+    "sw_flux": 172.02627563476562, 
     "wikipedia": "Davao_City"
   }, 
   "dededo": {
@@ -1966,6 +2129,7 @@ var citymap=
     "co2": 396.60300749043626, 
     "dust": 4.7739649744471535e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Dededo,_Guam"
   }, 
   "denpasar": {
@@ -1978,6 +2142,7 @@ var citymap=
     "co2": 396.9780219661404, 
     "dust": 7.998939508979674e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Denpasar"
   }, 
   "denver": {
@@ -1990,6 +2155,7 @@ var citymap=
     "co2": 398.11746527751285, 
     "dust": 2.099739867844619e-05, 
     "lw_flux": -75.48719024658203, 
+    "sw_flux": 146.14524841308594, 
     "wikipedia": "Denver"
   }, 
   "detroit": {
@@ -2002,6 +2168,7 @@ var citymap=
     "co2": 397.9527670890093, 
     "dust": 2.3390455680782907e-05, 
     "lw_flux": -50.37459945678711, 
+    "sw_flux": 125.29644012451172, 
     "wikipedia": "Detroit"
   }, 
   "dhaka": {
@@ -2014,6 +2181,7 @@ var citymap=
     "co2": 396.0583245777206, 
     "dust": 9.582345956005156e-05, 
     "lw_flux": -61.16217041015625, 
+    "sw_flux": 168.74850463867188, 
     "wikipedia": "Dhaka"
   }, 
   "dibrugarh": {
@@ -2026,6 +2194,7 @@ var citymap=
     "co2": 395.9723431358321, 
     "dust": 7.152455509640276e-05, 
     "lw_flux": -78.23358917236328, 
+    "sw_flux": 159.8587646484375, 
     "wikipedia": "Dibrugarh"
   }, 
   "dili": {
@@ -2038,6 +2207,7 @@ var citymap=
     "co2": 396.58536560535947, 
     "dust": 2.0251749447197653e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Dili"
   }, 
   "djibouti": {
@@ -2050,6 +2220,7 @@ var citymap=
     "co2": 396.1149438871198, 
     "dust": 0.00035693973768502474, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Djibouti_(city)"
   }, 
   "dodoma": {
@@ -2062,6 +2233,7 @@ var citymap=
     "co2": 395.1488803916921, 
     "dust": 2.0339917682576925e-05, 
     "lw_flux": -68.7223129272461, 
+    "sw_flux": 221.333251953125, 
     "wikipedia": "Dodoma"
   }, 
   "doha": {
@@ -2074,6 +2246,7 @@ var citymap=
     "co2": 396.90749262051327, 
     "dust": 0.0004270402423571795, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Doha"
   }, 
   "dongguan": {
@@ -2086,6 +2259,7 @@ var citymap=
     "co2": 396.49385183332237, 
     "dust": 2.5320201530121267e-05, 
     "lw_flux": -44.26869201660156, 
+    "sw_flux": 137.54986572265625, 
     "wikipedia": "Dongguan"
   }, 
   "douala": {
@@ -2098,6 +2272,7 @@ var citymap=
     "co2": 395.5780408189942, 
     "dust": 0.000266989809460938, 
     "lw_flux": -53.23487854003906, 
+    "sw_flux": 176.0164794921875, 
     "wikipedia": "Douala"
   }, 
   "douglas": {
@@ -2110,6 +2285,7 @@ var citymap=
     "co2": 397.24243065898514, 
     "dust": 1.6261230484815314e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Douglas,_Isle_of_Man"
   }, 
   "dresden": {
@@ -2122,6 +2298,7 @@ var citymap=
     "co2": 397.622586072733, 
     "dust": 2.7339776352164336e-05, 
     "lw_flux": -48.17069625854492, 
+    "sw_flux": 97.40769958496094, 
     "wikipedia": "Dresden"
   }, 
   "dubai": {
@@ -2134,6 +2311,7 @@ var citymap=
     "co2": 396.6782947727926, 
     "dust": 0.00039613977423869073, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Dubai"
   }, 
   "dublin": {
@@ -2146,6 +2324,7 @@ var citymap=
     "co2": 397.23197162495796, 
     "dust": 1.627187702979427e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Dublin"
   }, 
   "dunedin": {
@@ -2158,6 +2337,7 @@ var citymap=
     "co2": 396.4205672083473, 
     "dust": 7.911573447927367e-06, 
     "lw_flux": -52.07318115234375, 
+    "sw_flux": 145.65602111816406, 
     "wikipedia": "Dunedin"
   }, 
   "durango": {
@@ -2170,6 +2350,7 @@ var citymap=
     "co2": 396.51898861241835, 
     "dust": 8.897554835129995e-06, 
     "lw_flux": -89.39497375488281, 
+    "sw_flux": 213.1522216796875, 
     "wikipedia": "Durango,_Durango"
   }, 
   "durban": {
@@ -2182,6 +2363,7 @@ var citymap=
     "co2": 396.6383119889845, 
     "dust": 8.964300832303707e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Durban"
   }, 
   "dushanbe": {
@@ -2194,6 +2376,7 @@ var citymap=
     "co2": 397.91168698381324, 
     "dust": 0.0001178308084490709, 
     "lw_flux": -40.206748962402344, 
+    "sw_flux": 146.043701171875, 
     "wikipedia": "Dushanbe"
   }, 
   "edinburgh": {
@@ -2206,6 +2389,7 @@ var citymap=
     "co2": 397.24243065898514, 
     "dust": 1.5637297110515647e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Edinburgh"
   }, 
   "edmonton": {
@@ -2218,6 +2402,7 @@ var citymap=
     "co2": 397.44221217309433, 
     "dust": 1.7302832929999568e-05, 
     "lw_flux": -50.687400817871094, 
+    "sw_flux": 101.59676361083984, 
     "wikipedia": "Edmonton"
   }, 
   "elaai%c3%ban": {
@@ -2230,6 +2415,7 @@ var citymap=
     "co2": 396.7908051951478, 
     "dust": 0.00026877300115302205, 
     "lw_flux": -69.90119934082031, 
+    "sw_flux": 154.1525421142578, 
     "wikipedia": "El_Aai%C3%BAn"
   }, 
   "elpaso": {
@@ -2242,6 +2428,7 @@ var citymap=
     "co2": 397.4584226186077, 
     "dust": 2.3925851564854383e-05, 
     "lw_flux": -87.27347564697266, 
+    "sw_flux": 191.2489776611328, 
     "wikipedia": "El_Paso,_Texas"
   }, 
   "enugu": {
@@ -2254,6 +2441,7 @@ var citymap=
     "co2": 395.7581213520219, 
     "dust": 0.0003842171572614461, 
     "lw_flux": -58.387603759765625, 
+    "sw_flux": 185.86099243164062, 
     "wikipedia": "Enugu"
   }, 
   "espoo": {
@@ -2266,6 +2454,7 @@ var citymap=
     "co2": 397.4373898624132, 
     "dust": 1.8765469576464966e-05, 
     "lw_flux": -46.89762878417969, 
+    "sw_flux": 92.92811584472656, 
     "wikipedia": "Espoo"
   }, 
   "fairbanks": {
@@ -2278,6 +2467,7 @@ var citymap=
     "co2": 396.7233885666483, 
     "dust": 1.60442286869511e-05, 
     "lw_flux": -41.143409729003906, 
+    "sw_flux": 84.10042572021484, 
     "wikipedia": "Fairbanks,_Alaska"
   }, 
   "faisalabad": {
@@ -2290,6 +2480,7 @@ var citymap=
     "co2": 397.90799524376376, 
     "dust": 0.0003383743460290134, 
     "lw_flux": -92.68536376953125, 
+    "sw_flux": 180.56143188476562, 
     "wikipedia": "Faisalabad"
   }, 
   "forkedriver": {
@@ -2302,6 +2493,7 @@ var citymap=
     "co2": 397.8978784289211, 
     "dust": 2.188579492212739e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Forked_River"
   }, 
   "fortaleza": {
@@ -2314,6 +2506,7 @@ var citymap=
     "co2": 395.5574706196785, 
     "dust": 1.8842836652765982e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Fortaleza"
   }, 
   "fortdefrance": {
@@ -2326,6 +2519,7 @@ var citymap=
     "co2": 396.44322474487126, 
     "dust": 5.9470272390171885e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Fort-de-France"
   }, 
   "francistown": {
@@ -2338,6 +2532,7 @@ var citymap=
     "co2": 395.8780854009092, 
     "dust": 7.2748534876154736e-06, 
     "lw_flux": -87.84559631347656, 
+    "sw_flux": 215.82421875, 
     "wikipedia": "Francistown"
   }, 
   "frankfurt": {
@@ -2350,6 +2545,7 @@ var citymap=
     "co2": 397.61208385849994, 
     "dust": 2.5102737708948553e-05, 
     "lw_flux": -46.090702056884766, 
+    "sw_flux": 98.41776275634766, 
     "wikipedia": "Frankfurt"
   }, 
   "fredericton": {
@@ -2362,6 +2558,7 @@ var citymap=
     "co2": 397.855305817683, 
     "dust": 1.6250651242444292e-05, 
     "lw_flux": -42.38429641723633, 
+    "sw_flux": 111.0524673461914, 
     "wikipedia": "Fredericton"
   }, 
   "freetown": {
@@ -2374,6 +2571,7 @@ var citymap=
     "co2": 395.73415958633024, 
     "dust": 0.00028087367536500096, 
     "lw_flux": -58.71778106689453, 
+    "sw_flux": 186.16419982910156, 
     "wikipedia": "Freetown"
   }, 
   "fukuoka": {
@@ -2386,6 +2584,7 @@ var citymap=
     "co2": 397.2350301531454, 
     "dust": 5.4168693168321624e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Fukuoka"
   }, 
   "funafuti": {
@@ -2398,6 +2597,7 @@ var citymap=
     "co2": "error", 
     "dust": 9.645890486353892e-07, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Funafuti"
   }, 
   "gaborone": {
@@ -2410,6 +2610,7 @@ var citymap=
     "co2": 396.1478383280337, 
     "dust": 9.123044947045855e-06, 
     "lw_flux": -92.87398529052734, 
+    "sw_flux": 217.24935913085938, 
     "wikipedia": "Gaborone"
   }, 
   "gangtok": {
@@ -2422,6 +2623,7 @@ var citymap=
     "co2": 394.95370583608747, 
     "dust": 3.7780177081003785e-05, 
     "lw_flux": -31.103883743286133, 
+    "sw_flux": 156.4915008544922, 
     "wikipedia": "Gangtok"
   }, 
   "gaza": {
@@ -2434,6 +2636,7 @@ var citymap=
     "co2": 397.6394946221262, 
     "dust": 0.0001572788751218468, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Gaza"
   }, 
   "gaziantep": {
@@ -2446,6 +2649,7 @@ var citymap=
     "co2": 397.20093715004623, 
     "dust": 0.0001007518294500187, 
     "lw_flux": -78.48167419433594, 
+    "sw_flux": 166.35887145996094, 
     "wikipedia": "Gaziantep"
   }, 
   "gda%c5%84sk": {
@@ -2458,6 +2662,7 @@ var citymap=
     "co2": 397.51810136540615, 
     "dust": 2.5203185941791162e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Gda%C5%84sk"
   }, 
   "geelong": {
@@ -2470,6 +2675,7 @@ var citymap=
     "co2": 396.6590657364577, 
     "dust": 1.7602555089979433e-05, 
     "lw_flux": -50.818363189697266, 
+    "sw_flux": 150.06285095214844, 
     "wikipedia": "Geelong"
   }, 
   "geneva": {
@@ -2482,6 +2688,7 @@ var citymap=
     "co2": 397.4194556940347, 
     "dust": 2.954218871309422e-05, 
     "lw_flux": -47.50911331176758, 
+    "sw_flux": 104.26068878173828, 
     "wikipedia": "Geneva"
   }, 
   "georgetown": {
@@ -2494,6 +2701,7 @@ var citymap=
     "co2": 396.7137085529019, 
     "dust": 9.797596248972695e-06, 
     "lw_flux": -32.92881774902344, 
+    "sw_flux": 179.98300170898438, 
     "wikipedia": "George_Town,_Penang"
   }, 
   "gibraltar": {
@@ -2506,6 +2714,7 @@ var citymap=
     "co2": 397.6505249738693, 
     "dust": 8.68936549522914e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Gibraltar"
   }, 
   "glasgow": {
@@ -2518,6 +2727,7 @@ var citymap=
     "co2": 397.24243065898514, 
     "dust": 1.5439283743035048e-05, 
     "lw_flux": -45.894264221191406, 
+    "sw_flux": 83.6312255859375, 
     "wikipedia": "Glasgow"
   }, 
   "goldcoast": {
@@ -2530,6 +2740,7 @@ var citymap=
     "co2": 397.26595821169514, 
     "dust": 1.30539065139601e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Gold_Coast,_Queensland"
   }, 
   "gothenburg": {
@@ -2542,6 +2753,7 @@ var citymap=
     "co2": 397.4651506481071, 
     "dust": 1.783396874088794e-05, 
     "lw_flux": -51.45112228393555, 
+    "sw_flux": 93.74999237060547, 
     "wikipedia": "Gothenburg"
   }, 
   "graz": {
@@ -2554,6 +2766,7 @@ var citymap=
     "co2": 397.7406882473293, 
     "dust": 3.264630140620284e-05, 
     "lw_flux": -44.900325775146484, 
+    "sw_flux": 110.46924591064453, 
     "wikipedia": "Graz"
   }, 
   "greenwich": {
@@ -2566,6 +2779,7 @@ var citymap=
     "co2": 397.6665340470956, 
     "dust": 2.0941954062436707e-05, 
     "lw_flux": -49.38941955566406, 
+    "sw_flux": 94.74651336669922, 
     "wikipedia": "Greenwich"
   }, 
   "guadalajara": {
@@ -2578,6 +2792,7 @@ var citymap=
     "co2": 395.44492106263834, 
     "dust": 6.4382065829704516e-06, 
     "lw_flux": -87.07559967041016, 
+    "sw_flux": 213.65402221679688, 
     "wikipedia": "Guadalajara,_Jalisco"
   }, 
   "guangzhou": {
@@ -2590,6 +2805,7 @@ var citymap=
     "co2": 396.49385183332237, 
     "dust": 2.5320201530121267e-05, 
     "lw_flux": -43.8490104675293, 
+    "sw_flux": 131.25962829589844, 
     "wikipedia": "Guangzhou"
   }, 
   "guatemalacity": {
@@ -2602,6 +2818,7 @@ var citymap=
     "co2": 395.9129548942049, 
     "dust": 8.561558388464618e-06, 
     "lw_flux": -43.17428970336914, 
+    "sw_flux": 180.69544982910156, 
     "wikipedia": "Guatemala_City"
   }, 
   "guayaquil": {
@@ -2614,6 +2831,7 @@ var citymap=
     "co2": 396.01319197875756, 
     "dust": 1.1717784218490124e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Guayaquil"
   }, 
   "guwahati": {
@@ -2626,6 +2844,7 @@ var citymap=
     "co2": 395.2764079440385, 
     "dust": 8.910282485885546e-05, 
     "lw_flux": -79.9333267211914, 
+    "sw_flux": 178.12623596191406, 
     "wikipedia": "Guwahati"
   }, 
   "hag%c3%a5t%c3%b1a": {
@@ -2638,6 +2857,7 @@ var citymap=
     "co2": 396.60300749043626, 
     "dust": 4.512005489232251e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Hag%C3%A5t%C3%B1a,_Guam"
   }, 
   "haiphong": {
@@ -2650,6 +2870,7 @@ var citymap=
     "co2": 396.143648636285, 
     "dust": 2.5363784516230226e-05, 
     "lw_flux": -35.718177795410156, 
+    "sw_flux": 128.5533447265625, 
     "wikipedia": "Hai_Phong"
   }, 
   "hamburg": {
@@ -2662,6 +2883,7 @@ var citymap=
     "co2": 397.6469428744167, 
     "dust": 2.2649917809758335e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Hamburg"
   }, 
   "hamilton": {
@@ -2674,6 +2896,7 @@ var citymap=
     "co2": 397.36834160673124, 
     "dust": 7.11641450834577e-06, 
     "lw_flux": -48.237152099609375, 
+    "sw_flux": 142.32115173339844, 
     "wikipedia": "Hamilton,_New_Zealand"
   }, 
   "handan": {
@@ -2686,6 +2909,7 @@ var citymap=
     "co2": 398.3314028785874, 
     "dust": 0.00011119237751699984, 
     "lw_flux": -64.21246337890625, 
+    "sw_flux": 137.55487060546875, 
     "wikipedia": "Handan"
   }, 
   "hangaroa": {
@@ -2698,6 +2922,7 @@ var citymap=
     "co2": 396.13576179059845, 
     "dust": 1.9455230358289555e-05, 
     "lw_flux": -84.44312286376953, 
+    "sw_flux": 224.41856384277344, 
     "wikipedia": "Hanga_Roa"
   }, 
   "hangzhou": {
@@ -2710,6 +2935,7 @@ var citymap=
     "co2": 397.80049071949276, 
     "dust": 5.817658529849723e-05, 
     "lw_flux": -48.65693664550781, 
+    "sw_flux": 126.9549560546875, 
     "wikipedia": "Hangzhou"
   }, 
   "hanoi": {
@@ -2722,6 +2948,7 @@ var citymap=
     "co2": 396.143648636285, 
     "dust": 2.7259309717919677e-05, 
     "lw_flux": -42.84800720214844, 
+    "sw_flux": 133.308349609375, 
     "wikipedia": "Hanoi"
   }, 
   "hanover": {
@@ -2734,6 +2961,7 @@ var citymap=
     "co2": 397.6469428744167, 
     "dust": 2.399663753749337e-05, 
     "lw_flux": -49.39181900024414, 
+    "sw_flux": 92.70954132080078, 
     "wikipedia": "Hanover"
   }, 
   "harare": {
@@ -2746,6 +2974,7 @@ var citymap=
     "co2": 395.3331218547867, 
     "dust": 6.212173957464984e-06, 
     "lw_flux": -75.8619384765625, 
+    "sw_flux": 214.99020385742188, 
     "wikipedia": "Harare"
   }, 
   "harbin": {
@@ -2758,6 +2987,7 @@ var citymap=
     "co2": 397.29359598519903, 
     "dust": 5.071797204436734e-05, 
     "lw_flux": -52.39225769042969, 
+    "sw_flux": 125.3837890625, 
     "wikipedia": "Harbin"
   }, 
   "hargeisa": {
@@ -2770,6 +3000,7 @@ var citymap=
     "co2": 395.7847443719705, 
     "dust": 0.00015677032934036106, 
     "lw_flux": -75.22865295410156, 
+    "sw_flux": 205.84291076660156, 
     "wikipedia": "Hargeisa"
   }, 
   "hatyai": {
@@ -2782,6 +3013,7 @@ var citymap=
     "co2": 396.9128247782854, 
     "dust": 1.1401101801311597e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Hat_Yai"
   }, 
   "havana": {
@@ -2794,6 +3026,7 @@ var citymap=
     "co2": 397.4251972190482, 
     "dust": 1.7870353985927068e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Havana"
   }, 
   "helsinki": {
@@ -2806,6 +3039,7 @@ var citymap=
     "co2": 397.4373898624132, 
     "dust": 1.8765469576464966e-05, 
     "lw_flux": -46.89762878417969, 
+    "sw_flux": 92.92811584472656, 
     "wikipedia": "Helsinki"
   }, 
   "hilo": {
@@ -2818,6 +3052,7 @@ var citymap=
     "co2": 395.87697363458574, 
     "dust": 1.1003024155797902e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Hilo,_Hawaii"
   }, 
   "hiroshima": {
@@ -2830,6 +3065,7 @@ var citymap=
     "co2": 397.2749272361398, 
     "dust": 5.0016213208436966e-05, 
     "lw_flux": -39.11256408691406, 
+    "sw_flux": 129.89520263671875, 
     "wikipedia": "Hiroshima"
   }, 
   "hobart": {
@@ -2842,6 +3078,7 @@ var citymap=
     "co2": 396.52227113644284, 
     "dust": 1.0958388884318992e-05, 
     "lw_flux": -48.40993118286133, 
+    "sw_flux": 136.48997497558594, 
     "wikipedia": "Hobart"
   }, 
   "hochiminhcity": {
@@ -2854,6 +3091,7 @@ var citymap=
     "co2": 396.0449888016766, 
     "dust": 9.922128811012954e-06, 
     "lw_flux": -48.05653762817383, 
+    "sw_flux": 201.6853790283203, 
     "wikipedia": "Ho_Chi_Minh_City"
   }, 
   "hongkong": {
@@ -2866,6 +3104,7 @@ var citymap=
     "co2": 396.49385183332237, 
     "dust": 2.2176587663125247e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Hong Kong"
   }, 
   "honiara": {
@@ -2878,6 +3117,7 @@ var citymap=
     "co2": 397.00625108695294, 
     "dust": 1.1816954383903067e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Honiara"
   }, 
   "honolulu": {
@@ -2890,6 +3130,7 @@ var citymap=
     "co2": 396.2865953023235, 
     "dust": 1.2528403203759808e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Honolulu"
   }, 
   "horta": {
@@ -2902,6 +3143,7 @@ var citymap=
     "co2": 396.93668911543983, 
     "dust": 1.8625469238031656e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Horta_(Azores)"
   }, 
   "houston": {
@@ -2914,6 +3156,7 @@ var citymap=
     "co2": 397.1724518729995, 
     "dust": 2.092947397613898e-05, 
     "lw_flux": -54.99138259887695, 
+    "sw_flux": 167.4978485107422, 
     "wikipedia": "Houston"
   }, 
   "hu%e1%ba%bf": {
@@ -2926,6 +3169,7 @@ var citymap=
     "co2": 396.35806122631135, 
     "dust": 1.4098272913543042e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Hu%E1%BA%BF"
   }, 
   "hyderabad": {
@@ -2938,6 +3182,7 @@ var citymap=
     "co2": 395.5815805803373, 
     "dust": 9.462671732762828e-05, 
     "lw_flux": -65.9629135131836, 
+    "sw_flux": 185.06085205078125, 
     "wikipedia": "Hyderabad,_Andhra_Pradesh"
   }, 
   "ibadan": {
@@ -2950,6 +3195,7 @@ var citymap=
     "co2": 395.3670242776138, 
     "dust": 0.0004079582868143916, 
     "lw_flux": -54.72844314575195, 
+    "sw_flux": 183.84458923339844, 
     "wikipedia": "Ibadan"
   }, 
   "ibiza": {
@@ -2962,6 +3208,7 @@ var citymap=
     "co2": 397.64728823987144, 
     "dust": 6.984542415011674e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Ibiza"
   }, 
   "ilh%c3%a9us": {
@@ -2974,6 +3221,7 @@ var citymap=
     "co2": 395.28382709249854, 
     "dust": 6.319003659882583e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Ilh%C3%A9us"
   }, 
   "iloilocity": {
@@ -2986,6 +3234,7 @@ var citymap=
     "co2": 397.2953516593505, 
     "dust": 4.463859113457147e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Iloilo_City"
   }, 
   "incheon": {
@@ -2998,6 +3247,7 @@ var citymap=
     "co2": 398.0711378001918, 
     "dust": 6.819107511546463e-05, 
     "lw_flux": -58.0788459777832, 
+    "sw_flux": 139.40692138671875, 
     "wikipedia": "Incheon"
   }, 
   "indianapolis": {
@@ -3010,6 +3260,7 @@ var citymap=
     "co2": 397.78724817248684, 
     "dust": 2.393249815213494e-05, 
     "lw_flux": -51.61336898803711, 
+    "sw_flux": 129.97628784179688, 
     "wikipedia": "Indianapolis"
   }, 
   "innsbruck": {
@@ -3022,6 +3273,7 @@ var citymap=
     "co2": 397.57639247303206, 
     "dust": 2.7229682018514723e-05, 
     "lw_flux": -42.0955696105957, 
+    "sw_flux": 99.21045684814453, 
     "wikipedia": "Innsbruck"
   }, 
   "invercargill": {
@@ -3034,6 +3286,7 @@ var citymap=
     "co2": 395.8959234911214, 
     "dust": 7.869046385167167e-06, 
     "lw_flux": -47.199337005615234, 
+    "sw_flux": 133.92420959472656, 
     "wikipedia": "Invercargill"
   }, 
   "ipoh": {
@@ -3046,6 +3299,7 @@ var citymap=
     "co2": 396.7137085529019, 
     "dust": 7.773938705213368e-06, 
     "lw_flux": -34.0450325012207, 
+    "sw_flux": 180.24900817871094, 
     "wikipedia": "Ipoh"
   }, 
   "iqaluit": {
@@ -3058,6 +3312,7 @@ var citymap=
     "co2": 399.5532884693924, 
     "dust": 1.2884318493888713e-05, 
     "lw_flux": -45.300941467285156, 
+    "sw_flux": 58.17816925048828, 
     "wikipedia": "Iqaluit"
   }, 
   "iquique": {
@@ -3070,6 +3325,7 @@ var citymap=
     "co2": 395.78519479963126, 
     "dust": 1.923067611642182e-05, 
     "lw_flux": -95.2769775390625, 
+    "sw_flux": 224.29164123535156, 
     "wikipedia": "Iquique"
   }, 
   "iquitos": {
@@ -3082,6 +3338,7 @@ var citymap=
     "co2": 395.3660869350036, 
     "dust": 1.0503781595616601e-05, 
     "lw_flux": -33.762332916259766, 
+    "sw_flux": 184.36961364746094, 
     "wikipedia": "Iquitos"
   }, 
   "islamabad": {
@@ -3094,6 +3351,7 @@ var citymap=
     "co2": 396.7289010541061, 
     "dust": 0.0001955892366822809, 
     "lw_flux": -76.5243911743164, 
+    "sw_flux": 180.7139129638672, 
     "wikipedia": "Islamabad"
   }, 
   "istanbul": {
@@ -3106,6 +3364,7 @@ var citymap=
     "co2": 398.1083309433113, 
     "dust": 6.934858538443223e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Istanbul"
   }, 
   "jacksonville": {
@@ -3118,6 +3377,7 @@ var citymap=
     "co2": 397.7137431502342, 
     "dust": 1.6802394384285435e-05, 
     "lw_flux": -52.966739654541016, 
+    "sw_flux": 172.8096466064453, 
     "wikipedia": "Jacksonville,_Florida"
   }, 
   "jaipur": {
@@ -3130,6 +3390,7 @@ var citymap=
     "co2": 397.1471835231771, 
     "dust": 0.0002154949033865705, 
     "lw_flux": -84.22489929199219, 
+    "sw_flux": 177.4793243408203, 
     "wikipedia": "Jaipur"
   }, 
   "jakarta": {
@@ -3142,6 +3403,7 @@ var citymap=
     "co2": 396.03747011694526, 
     "dust": 4.187140802969225e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Jakarta"
   }, 
   "jamestown": {
@@ -3154,6 +3416,7 @@ var citymap=
     "co2": 394.61995164553326, 
     "dust": 1.096563573810272e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Jamestown,_Saint_Helena"
   }, 
   "jayapura": {
@@ -3166,6 +3429,7 @@ var citymap=
     "co2": 397.08128826680115, 
     "dust": 1.5695810589022585e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Jayapura"
   }, 
   "jeddah": {
@@ -3178,6 +3442,7 @@ var citymap=
     "co2": 396.6483427211642, 
     "dust": 0.00034737293026410043, 
     "lw_flux": -110.53450012207031, 
+    "sw_flux": 223.13978576660156, 
     "wikipedia": "Jeddah"
   }, 
   "jerseycity": {
@@ -3190,6 +3455,7 @@ var citymap=
     "co2": 397.594920747603, 
     "dust": 2.024467357841786e-05, 
     "lw_flux": -51.83448791503906, 
+    "sw_flux": 137.70529174804688, 
     "wikipedia": "Jersey_City,_New_Jersey"
   }, 
   "jerusalem": {
@@ -3202,6 +3468,7 @@ var citymap=
     "co2": 397.4798364409556, 
     "dust": 0.00016438099555671215, 
     "lw_flux": -80.96764373779297, 
+    "sw_flux": 168.09117126464844, 
     "wikipedia": "Jerusalem"
   }, 
   "jinan": {
@@ -3214,6 +3481,7 @@ var citymap=
     "co2": 398.44752366965014, 
     "dust": 9.591811976861209e-05, 
     "lw_flux": -59.746456146240234, 
+    "sw_flux": 136.83877563476562, 
     "wikipedia": "Jinan"
   }, 
   "johannesburg": {
@@ -3226,6 +3494,7 @@ var citymap=
     "co2": 395.978504869466, 
     "dust": 7.770513548166491e-06, 
     "lw_flux": -90.5897216796875, 
+    "sw_flux": 213.72592163085938, 
     "wikipedia": "Johannesburg"
   }, 
   "johorbahru": {
@@ -3238,6 +3507,7 @@ var citymap=
     "co2": 396.79549750871956, 
     "dust": 6.107037279434735e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Johor_Bahru"
   }, 
   "juneau": {
@@ -3250,6 +3520,7 @@ var citymap=
     "co2": 396.6839816515661, 
     "dust": 1.6053127183113247e-05, 
     "lw_flux": -43.268829345703125, 
+    "sw_flux": 76.04232025146484, 
     "wikipedia": "Juneau,_Alaska"
   }, 
   "kabul": {
@@ -3262,6 +3533,7 @@ var citymap=
     "co2": 397.4617361867179, 
     "dust": 0.00012641829380299896, 
     "lw_flux": -58.62922286987305, 
+    "sw_flux": 160.57614135742188, 
     "wikipedia": "Kabul"
   }, 
   "kaesong": {
@@ -3274,6 +3546,7 @@ var citymap=
     "co2": 398.0711378001918, 
     "dust": 6.766383012291044e-05, 
     "lw_flux": -49.74241256713867, 
+    "sw_flux": 136.84060668945312, 
     "wikipedia": "Kaesong"
   }, 
   "kaliningrad": {
@@ -3286,6 +3559,7 @@ var citymap=
     "co2": 397.6729636391004, 
     "dust": 2.5667945010354742e-05, 
     "lw_flux": -50.070587158203125, 
+    "sw_flux": 106.72075653076172, 
     "wikipedia": "Kaliningrad"
   }, 
   "kandahar": {
@@ -3298,6 +3572,7 @@ var citymap=
     "co2": 397.0857019469674, 
     "dust": 0.00020071282051503658, 
     "lw_flux": -100.42349243164062, 
+    "sw_flux": 189.6449432373047, 
     "wikipedia": "Kandahar"
   }, 
   "kandy": {
@@ -3310,6 +3585,7 @@ var citymap=
     "co2": 396.52681332209136, 
     "dust": 3.919407390640117e-05, 
     "lw_flux": -54.644981384277344, 
+    "sw_flux": 199.60523986816406, 
     "wikipedia": "Kandy"
   }, 
   "kano": {
@@ -3322,6 +3598,7 @@ var citymap=
     "co2": 396.1871159230162, 
     "dust": 0.0005844744737260044, 
     "lw_flux": -89.27538299560547, 
+    "sw_flux": 185.36050415039062, 
     "wikipedia": "Kano"
   }, 
   "kanpur": {
@@ -3334,6 +3611,7 @@ var citymap=
     "co2": 396.40691991533254, 
     "dust": 0.00020352323190309107, 
     "lw_flux": -78.91801452636719, 
+    "sw_flux": 173.92398071289062, 
     "wikipedia": "Kanpur"
   }, 
   "kansascity": {
@@ -3346,6 +3624,7 @@ var citymap=
     "co2": 398.1844471612324, 
     "dust": 2.6831581635633484e-05, 
     "lw_flux": -53.992000579833984, 
+    "sw_flux": 142.57261657714844, 
     "wikipedia": "Kansas_City,_Missouri"
   }, 
   "kaohsiung": {
@@ -3358,6 +3637,7 @@ var citymap=
     "co2": 396.338347707422, 
     "dust": 1.5949439330142923e-05, 
     "lw_flux": -45.847923278808594, 
+    "sw_flux": 161.10670471191406, 
     "wikipedia": "Kaohsiung"
   }, 
   "karachi": {
@@ -3370,6 +3650,7 @@ var citymap=
     "co2": 396.9083375356514, 
     "dust": 0.00031905455398373306, 
     "lw_flux": -88.23066711425781, 
+    "sw_flux": 178.9130096435547, 
     "wikipedia": "Karachi"
   }, 
   "kathmandu": {
@@ -3382,6 +3663,7 @@ var citymap=
     "co2": 395.27802520232007, 
     "dust": 5.2883606258546934e-05, 
     "lw_flux": -33.558998107910156, 
+    "sw_flux": 171.41859436035156, 
     "wikipedia": "Kathmandu"
   }, 
   "kawasaki": {
@@ -3394,6 +3676,7 @@ var citymap=
     "co2": 397.5787925689171, 
     "dust": 4.4570431782631204e-05, 
     "lw_flux": -51.36966323852539, 
+    "sw_flux": 139.77987670898438, 
     "wikipedia": "Kawasaki,_Kanagawa"
   }, 
   "kharkiv": {
@@ -3406,6 +3689,7 @@ var citymap=
     "co2": 397.6717474870384, 
     "dust": 5.0840746553149074e-05, 
     "lw_flux": -51.4565315246582, 
+    "sw_flux": 106.54132080078125, 
     "wikipedia": "Kharkiv"
   }, 
   "khartoum": {
@@ -3418,6 +3702,7 @@ var citymap=
     "co2": 395.90703746513793, 
     "dust": 0.00042565324110910296, 
     "lw_flux": -110.19690704345703, 
+    "sw_flux": 204.43226623535156, 
     "wikipedia": "Khartoum"
   }, 
   "kiev": {
@@ -3430,6 +3715,7 @@ var citymap=
     "co2": 397.6076616284748, 
     "dust": 3.9189704693853855e-05, 
     "lw_flux": -51.55746078491211, 
+    "sw_flux": 103.82420349121094, 
     "wikipedia": "Kiev"
   }, 
   "kigali": {
@@ -3442,6 +3728,7 @@ var citymap=
     "co2": 395.91962893216595, 
     "dust": 4.013802026747726e-05, 
     "lw_flux": -51.59851837158203, 
+    "sw_flux": 178.08059692382812, 
     "wikipedia": "Kigali"
   }, 
   "kingston": {
@@ -3454,6 +3741,7 @@ var citymap=
     "co2": 396.8708127892266, 
     "dust": 7.0821820372657385e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Kingston,_Norfolk_Island"
   }, 
   "kingstown": {
@@ -3466,6 +3754,7 @@ var citymap=
     "co2": 396.5708155495425, 
     "dust": 6.0918177041457966e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Kingstown"
   }, 
   "kinshasa": {
@@ -3478,6 +3767,7 @@ var citymap=
     "co2": 395.4249476858725, 
     "dust": 6.342631240841001e-05, 
     "lw_flux": -47.24542999267578, 
+    "sw_flux": 171.1526336669922, 
     "wikipedia": "Kinshasa"
   }, 
   "kobe": {
@@ -3490,6 +3780,7 @@ var citymap=
     "co2": 397.10640247600776, 
     "dust": 4.7554327466059476e-05, 
     "lw_flux": -36.96119689941406, 
+    "sw_flux": 127.98677825927734, 
     "wikipedia": "Kobe"
   }, 
   "kolkata": {
@@ -3502,6 +3793,7 @@ var citymap=
     "co2": 396.0808360716328, 
     "dust": 0.00010696689423639327, 
     "lw_flux": -65.817138671875, 
+    "sw_flux": 176.74752807617188, 
     "wikipedia": "Kolkata"
   }, 
   "konya": {
@@ -3514,6 +3806,7 @@ var citymap=
     "co2": 397.6184277174373, 
     "dust": 6.664682587143034e-05, 
     "lw_flux": -70.39147186279297, 
+    "sw_flux": 144.62371826171875, 
     "wikipedia": "Konya"
   }, 
   "koror": {
@@ -3526,6 +3819,7 @@ var citymap=
     "co2": 397.37171421104387, 
     "dust": 2.4372307052544784e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Koror"
   }, 
   "kotabharu": {
@@ -3538,6 +3832,7 @@ var citymap=
     "co2": 396.9128247782854, 
     "dust": 9.769757525646128e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Kota_Bharu"
   }, 
   "kotakinabalu": {
@@ -3550,6 +3845,7 @@ var citymap=
     "co2": 396.7514765807553, 
     "dust": 4.488743797992356e-06, 
     "lw_flux": -34.800865173339844, 
+    "sw_flux": 197.21556091308594, 
     "wikipedia": "Kota_Kinabalu"
   }, 
   "koulikoro": {
@@ -3562,6 +3858,7 @@ var citymap=
     "co2": 396.0110611531067, 
     "dust": 0.00039943106821738183, 
     "lw_flux": -81.65918731689453, 
+    "sw_flux": 198.51988220214844, 
     "wikipedia": "Koulikoro"
   }, 
   "krak%c3%b3w": {
@@ -3574,6 +3871,7 @@ var citymap=
     "co2": 398.0317102589955, 
     "dust": 3.181424835929647e-05, 
     "lw_flux": -51.28345489501953, 
+    "sw_flux": 98.74034118652344, 
     "wikipedia": "Krak%C3%B3w"
   }, 
   "kualalumpur": {
@@ -3586,6 +3884,7 @@ var citymap=
     "co2": 396.2070953314872, 
     "dust": 7.344821369770216e-06, 
     "lw_flux": -39.75375747680664, 
+    "sw_flux": 161.5365447998047, 
     "wikipedia": "Kuala_Lumpur"
   }, 
   "kuching": {
@@ -3598,6 +3897,7 @@ var citymap=
     "co2": 396.19002491235733, 
     "dust": 4.600271950039314e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Kuching"
   }, 
   "kunming": {
@@ -3610,6 +3910,7 @@ var citymap=
     "co2": 396.27838879823685, 
     "dust": 2.486113407940138e-05, 
     "lw_flux": -61.667362213134766, 
+    "sw_flux": 161.98573303222656, 
     "wikipedia": "Kunming"
   }, 
   "kuwaitcity": {
@@ -3622,6 +3923,7 @@ var citymap=
     "co2": 396.82166632855126, 
     "dust": 0.000554731406737119, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Kuwait_City"
   }, 
   "kyoto": {
@@ -3634,6 +3936,7 @@ var citymap=
     "co2": 397.10640247600776, 
     "dust": 4.704019374912605e-05, 
     "lw_flux": -43.509422302246094, 
+    "sw_flux": 125.50579071044922, 
     "wikipedia": "Kyoto"
   }, 
   "labasa": {
@@ -3646,6 +3949,7 @@ var citymap=
     "co2": "error", 
     "dust": 1.9305064142827177e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Labasa"
   }, 
   "lagos": {
@@ -3658,6 +3962,7 @@ var citymap=
     "co2": 395.3670242776138, 
     "dust": 0.00039851784822531044, 
     "lw_flux": -54.4764404296875, 
+    "sw_flux": 181.40948486328125, 
     "wikipedia": "Lagos"
   }, 
   "lahore": {
@@ -3670,6 +3975,7 @@ var citymap=
     "co2": 397.90799524376376, 
     "dust": 0.0003084633208345622, 
     "lw_flux": -98.96283721923828, 
+    "sw_flux": 189.60064697265625, 
     "wikipedia": "Lahore"
   }, 
   "lanzhou": {
@@ -3682,6 +3988,7 @@ var citymap=
     "co2": 398.2314142253804, 
     "dust": 0.000158064576680772, 
     "lw_flux": -74.56575012207031, 
+    "sw_flux": 141.05914306640625, 
     "wikipedia": "Lanzhou"
   }, 
   "lapaz": {
@@ -3694,6 +4001,7 @@ var citymap=
     "co2": 395.2658777901282, 
     "dust": 4.420009645400569e-06, 
     "lw_flux": -58.772010803222656, 
+    "sw_flux": 192.56004333496094, 
     "wikipedia": "La_Paz"
   }, 
   "laserena": {
@@ -3706,6 +4014,7 @@ var citymap=
     "co2": 396.2949709966779, 
     "dust": 1.2746503671223763e-05, 
     "lw_flux": -94.56227111816406, 
+    "sw_flux": 212.63011169433594, 
     "wikipedia": "La_Serena,_Chile"
   }, 
   "laspalmasdegrancanaria": {
@@ -3718,6 +4027,7 @@ var citymap=
     "co2": 396.744511090219, 
     "dust": 0.00013285661407280713, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Las_Palmas_de_Gran_Canaria"
   }, 
   "lasvegas": {
@@ -3730,6 +4040,7 @@ var citymap=
     "co2": 397.17007350797456, 
     "dust": 3.737099177669734e-05, 
     "lw_flux": -101.96636199951172, 
+    "sw_flux": 174.3388671875, 
     "wikipedia": "Las_Vegas,_Nevada"
   }, 
   "leeds": {
@@ -3742,6 +4053,7 @@ var citymap=
     "co2": 397.56538211116316, 
     "dust": 1.7151001884485595e-05, 
     "lw_flux": -44.33318328857422, 
+    "sw_flux": 86.64561462402344, 
     "wikipedia": "Leeds"
   }, 
   "leipzig": {
@@ -3754,6 +4066,7 @@ var citymap=
     "co2": 397.67524329562707, 
     "dust": 2.654992749739904e-05, 
     "lw_flux": -50.55183029174805, 
+    "sw_flux": 96.12411499023438, 
     "wikipedia": "Leipzig"
   }, 
   "lhasa": {
@@ -3766,6 +4079,7 @@ var citymap=
     "co2": 394.8377969209105, 
     "dust": 2.56990097113885e-05, 
     "lw_flux": -63.903282165527344, 
+    "sw_flux": 171.62060546875, 
     "wikipedia": "Lhasa"
   }, 
   "libreville": {
@@ -3778,6 +4092,7 @@ var citymap=
     "co2": 395.69698148281185, 
     "dust": 0.00014142903091851622, 
     "lw_flux": -39.56782150268555, 
+    "sw_flux": 178.3518524169922, 
     "wikipedia": "Libreville"
   }, 
   "lilongwe": {
@@ -3790,6 +4105,7 @@ var citymap=
     "co2": 394.70705630568165, 
     "dust": 8.548230653104838e-06, 
     "lw_flux": -74.13492584228516, 
+    "sw_flux": 205.70823669433594, 
     "wikipedia": "Lilongwe"
   }, 
   "lima": {
@@ -3802,6 +4118,7 @@ var citymap=
     "co2": 394.3315072368981, 
     "dust": 4.278243795852177e-05, 
     "lw_flux": -40.16841125488281, 
+    "sw_flux": 191.3095245361328, 
     "wikipedia": "Lima"
   }, 
   "linz": {
@@ -3814,6 +4131,7 @@ var citymap=
     "co2": 397.8449214870731, 
     "dust": 3.0069828426348977e-05, 
     "lw_flux": -48.292728424072266, 
+    "sw_flux": 106.20380401611328, 
     "wikipedia": "Linz"
   }, 
   "lisbon": {
@@ -3826,6 +4144,7 @@ var citymap=
     "co2": 397.48868594566983, 
     "dust": 4.1368548409081995e-05, 
     "lw_flux": -60.661582946777344, 
+    "sw_flux": 153.5765380859375, 
     "wikipedia": "Lisbon"
   }, 
   "liverpool": {
@@ -3838,6 +4157,7 @@ var citymap=
     "co2": 397.2692201690127, 
     "dust": 1.6806456187623553e-05, 
     "lw_flux": -49.10346603393555, 
+    "sw_flux": 93.23284912109375, 
     "wikipedia": "Liverpool"
   }, 
   "livingstone": {
@@ -3850,6 +4170,7 @@ var citymap=
     "co2": 395.22419644305734, 
     "dust": 7.897015166236088e-06, 
     "lw_flux": -78.33934783935547, 
+    "sw_flux": 211.64212036132812, 
     "wikipedia": "Livingstone,_Zambia"
   }, 
   "ljubljana": {
@@ -3862,6 +4183,7 @@ var citymap=
     "co2": 397.5377173628658, 
     "dust": 3.6053395888302475e-05, 
     "lw_flux": -47.39558792114258, 
+    "sw_flux": 116.48889923095703, 
     "wikipedia": "Ljubljana"
   }, 
   "lobamba": {
@@ -3874,6 +4196,7 @@ var citymap=
     "co2": 396.53901825658977, 
     "dust": 7.2540101427875925e-06, 
     "lw_flux": -66.1231460571289, 
+    "sw_flux": 188.78341674804688, 
     "wikipedia": "Lobamba"
   }, 
   "lom%c3%a9": {
@@ -3886,6 +4209,7 @@ var citymap=
     "co2": 395.6052935554659, 
     "dust": 0.0003725182614289224, 
     "lw_flux": -58.76047897338867, 
+    "sw_flux": 186.37667846679688, 
     "wikipedia": "Lom%C3%A9"
   }, 
   "london": {
@@ -3898,6 +4222,7 @@ var citymap=
     "co2": 397.6665340470956, 
     "dust": 2.043344284174964e-05, 
     "lw_flux": -49.38941955566406, 
+    "sw_flux": 94.74651336669922, 
     "wikipedia": "London"
   }, 
   "longyearbyen": {
@@ -3910,6 +4235,7 @@ var citymap=
     "co2": 395.9251278560729, 
     "dust": 1.1841510968224611e-05, 
     "lw_flux": -25.872201919555664, 
+    "sw_flux": 15.441609382629395, 
     "wikipedia": "Longyearbyen"
   }, 
   "losangeles": {
@@ -3922,6 +4248,7 @@ var citymap=
     "co2": 397.9632433038205, 
     "dust": 2.4641760319354944e-05, 
     "lw_flux": -88.22698211669922, 
+    "sw_flux": 192.4979705810547, 
     "wikipedia": "Los_Angeles"
   }, 
   "louisville": {
@@ -3934,6 +4261,7 @@ var citymap=
     "co2": 397.78724817248684, 
     "dust": 2.318841688975226e-05, 
     "lw_flux": -52.768917083740234, 
+    "sw_flux": 139.300048828125, 
     "wikipedia": "Louisville,_Kentucky"
   }, 
   "luanda": {
@@ -3946,6 +4274,7 @@ var citymap=
     "co2": 395.26397983233136, 
     "dust": 3.973196726292372e-05, 
     "lw_flux": -56.03406524658203, 
+    "sw_flux": 193.06866455078125, 
     "wikipedia": "Luanda"
   }, 
   "lubumbashi": {
@@ -3958,6 +4287,7 @@ var citymap=
     "co2": 394.91413238768774, 
     "dust": 1.052960487868404e-05, 
     "lw_flux": -74.0274429321289, 
+    "sw_flux": 214.2432098388672, 
     "wikipedia": "Lubumbashi"
   }, 
   "lucknow": {
@@ -3970,6 +4300,7 @@ var citymap=
     "co2": 396.40691991533254, 
     "dust": 0.00020704571215901524, 
     "lw_flux": -84.73726654052734, 
+    "sw_flux": 186.04103088378906, 
     "wikipedia": "Lucknow"
   }, 
   "ludhiana": {
@@ -3982,6 +4313,7 @@ var citymap=
     "co2": 396.49443823617656, 
     "dust": 0.0002716249437071383, 
     "lw_flux": -98.34968566894531, 
+    "sw_flux": 193.88046264648438, 
     "wikipedia": "Ludhiana"
   }, 
   "lusaka": {
@@ -3994,6 +4326,7 @@ var citymap=
     "co2": 395.0335380310814, 
     "dust": 8.335313395946287e-06, 
     "lw_flux": -75.88443756103516, 
+    "sw_flux": 218.15931701660156, 
     "wikipedia": "Lusaka"
   }, 
   "luxembourg": {
@@ -4006,6 +4339,7 @@ var citymap=
     "co2": 397.5271429711332, 
     "dust": 2.3910077288746834e-05, 
     "lw_flux": -45.620365142822266, 
+    "sw_flux": 97.05699157714844, 
     "wikipedia": "Luxembourg_(city)"
   }, 
   "luxor": {
@@ -4018,6 +4352,7 @@ var citymap=
     "co2": 397.0124451223308, 
     "dust": 0.0002509407058823854, 
     "lw_flux": -110.24535369873047, 
+    "sw_flux": 210.5452423095703, 
     "wikipedia": "Luxor"
   }, 
   "lviv": {
@@ -4030,6 +4365,7 @@ var citymap=
     "co2": 397.65915639388066, 
     "dust": 3.59600962838158e-05, 
     "lw_flux": -50.21128463745117, 
+    "sw_flux": 99.63675689697266, 
     "wikipedia": "Lviv"
   }, 
   "lyon": {
@@ -4042,6 +4378,7 @@ var citymap=
     "co2": 397.79650590692955, 
     "dust": 3.261349047534168e-05, 
     "lw_flux": -50.888431549072266, 
+    "sw_flux": 114.58419799804688, 
     "wikipedia": "Lyon"
   }, 
   "m%c3%a1laga": {
@@ -4054,6 +4391,7 @@ var citymap=
     "co2": 397.4867394814889, 
     "dust": 7.903067307779565e-05, 
     "lw_flux": -65.01934051513672, 
+    "sw_flux": 158.83135986328125, 
     "wikipedia": "M%C3%A1laga"
   }, 
   "m%c3%a9rida": {
@@ -4066,6 +4404,7 @@ var citymap=
     "co2": 397.0487556904806, 
     "dust": 1.7502025002613664e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "M%C3%A9rida,_Yucat%C3%A1n"
   }, 
   "macap%c3%a1": {
@@ -4078,6 +4417,7 @@ var citymap=
     "co2": 396.2407889775932, 
     "dust": 2.0908701117150486e-05, 
     "lw_flux": -48.43437194824219, 
+    "sw_flux": 190.7606964111328, 
     "wikipedia": "Macap%C3%A1"
   }, 
   "macau": {
@@ -4090,6 +4430,7 @@ var citymap=
     "co2": 396.49385183332237, 
     "dust": 2.303955079696607e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Macau"
   }, 
   "macei%c3%b3": {
@@ -4102,6 +4443,7 @@ var citymap=
     "co2": 394.70026657606167, 
     "dust": 9.35839216253953e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Macei%C3%B3"
   }, 
   "madrid": {
@@ -4114,6 +4456,7 @@ var citymap=
     "co2": 397.6575770260145, 
     "dust": 3.8445079553639516e-05, 
     "lw_flux": -72.93177032470703, 
+    "sw_flux": 147.8238983154297, 
     "wikipedia": "Madrid"
   }, 
   "magadan": {
@@ -4126,6 +4469,7 @@ var citymap=
     "co2": 397.49607793055475, 
     "dust": 2.2788695787312463e-05, 
     "lw_flux": -44.52396774291992, 
+    "sw_flux": 66.3449478149414, 
     "wikipedia": "Magadan"
   }, 
   "majuro": {
@@ -4138,6 +4482,7 @@ var citymap=
     "co2": 397.01800638188917, 
     "dust": 2.0797535853489535e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Majuro"
   }, 
   "makassar": {
@@ -4150,6 +4495,7 @@ var citymap=
     "co2": 396.4763725687387, 
     "dust": 7.713878403592389e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Makassar"
   }, 
   "makaticity": {
@@ -4162,6 +4508,7 @@ var citymap=
     "co2": 396.68296494087434, 
     "dust": 5.70070051253424e-06, 
     "lw_flux": -36.68859100341797, 
+    "sw_flux": 168.85198974609375, 
     "wikipedia": "Makati_City"
   }, 
   "mal%c3%a9": {
@@ -4174,6 +4521,7 @@ var citymap=
     "co2": 396.39438850141755, 
     "dust": 3.867841951432638e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Mal%C3%A9"
   }, 
   "malabo": {
@@ -4186,6 +4534,7 @@ var citymap=
     "co2": 395.87006707537313, 
     "dust": 0.0002832497993949801, 
     "lw_flux": -46.250465393066406, 
+    "sw_flux": 162.64718627929688, 
     "wikipedia": "Malabo"
   }, 
   "malaccatown": {
@@ -4198,6 +4547,7 @@ var citymap=
     "co2": 396.2070953314872, 
     "dust": 7.135261512303259e-06, 
     "lw_flux": -38.43539047241211, 
+    "sw_flux": 154.9566192626953, 
     "wikipedia": "Malacca_Town"
   }, 
   "malang": {
@@ -4210,6 +4560,7 @@ var citymap=
     "co2": 396.8677350452968, 
     "dust": 6.46805665382999e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Malang"
   }, 
   "malm%c3%b6": {
@@ -4222,6 +4573,7 @@ var citymap=
     "co2": 397.46269350871444, 
     "dust": 2.0708197553176433e-05, 
     "lw_flux": -50.452064514160156, 
+    "sw_flux": 102.8539810180664, 
     "wikipedia": "Malm%C3%B6"
   }, 
   "mamoudzou": {
@@ -4234,6 +4586,7 @@ var citymap=
     "co2": 395.82892243439954, 
     "dust": 8.871463251125533e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Mamoudzou"
   }, 
   "managua": {
@@ -4246,6 +4599,7 @@ var citymap=
     "co2": 395.6293917695262, 
     "dust": 1.2800393960787915e-05, 
     "lw_flux": -47.15216064453125, 
+    "sw_flux": 198.6703338623047, 
     "wikipedia": "Managua"
   }, 
   "manama": {
@@ -4258,6 +4612,7 @@ var citymap=
     "co2": 397.2877174432219, 
     "dust": 0.00044556407374329865, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Manama"
   }, 
   "manaus": {
@@ -4270,6 +4625,7 @@ var citymap=
     "co2": 395.50167935279507, 
     "dust": 1.845547194534447e-05, 
     "lw_flux": -41.20325469970703, 
+    "sw_flux": 187.5907440185547, 
     "wikipedia": "Manaus"
   }, 
   "manchester": {
@@ -4282,6 +4638,7 @@ var citymap=
     "co2": 397.56538211116316, 
     "dust": 1.6923117073019966e-05, 
     "lw_flux": -45.75823974609375, 
+    "sw_flux": 86.77875518798828, 
     "wikipedia": "Manchester"
   }, 
   "mandurah": {
@@ -4294,6 +4651,7 @@ var citymap=
     "co2": 396.81046347444254, 
     "dust": 1.3747418961429503e-05, 
     "lw_flux": -72.30115509033203, 
+    "sw_flux": 183.78414916992188, 
     "wikipedia": "Mandurah"
   }, 
   "manila": {
@@ -4306,6 +4664,7 @@ var citymap=
     "co2": 396.68296494087434, 
     "dust": 5.70070051253424e-06, 
     "lw_flux": -36.68859100341797, 
+    "sw_flux": 168.85198974609375, 
     "wikipedia": "Manila"
   }, 
   "manzini": {
@@ -4318,6 +4677,7 @@ var citymap=
     "co2": 396.53901825658977, 
     "dust": 7.702360562689137e-06, 
     "lw_flux": -66.1231460571289, 
+    "sw_flux": 188.78341674804688, 
     "wikipedia": "Manzini,_Swaziland"
   }, 
   "maputo": {
@@ -4330,6 +4690,7 @@ var citymap=
     "co2": 396.2326286515842, 
     "dust": 7.670008926652372e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Maputo"
   }, 
   "maracaibo": {
@@ -4342,6 +4703,7 @@ var citymap=
     "co2": 395.12361205803853, 
     "dust": 9.405270247953013e-06, 
     "lw_flux": -43.336097717285156, 
+    "sw_flux": 176.2764129638672, 
     "wikipedia": "Maracaibo"
   }, 
   "marrakech": {
@@ -4354,6 +4716,7 @@ var citymap=
     "co2": 397.4073694553226, 
     "dust": 0.00015458134294021875, 
     "lw_flux": -91.00413513183594, 
+    "sw_flux": 175.40028381347656, 
     "wikipedia": "Marrakech"
   }, 
   "marseille": {
@@ -4366,6 +4729,7 @@ var citymap=
     "co2": 397.6863238494843, 
     "dust": 4.333574906922877e-05, 
     "lw_flux": -61.7681999206543, 
+    "sw_flux": 151.67153930664062, 
     "wikipedia": "Marseille"
   }, 
   "maseru": {
@@ -4378,6 +4742,7 @@ var citymap=
     "co2": 396.2159195604424, 
     "dust": 8.925680049287621e-06, 
     "lw_flux": -88.62347412109375, 
+    "sw_flux": 200.87460327148438, 
     "wikipedia": "Maseru"
   }, 
   "mashhad": {
@@ -4390,6 +4755,7 @@ var citymap=
     "co2": 397.7513250939497, 
     "dust": 0.00022875177091918886, 
     "lw_flux": -87.83267211914062, 
+    "sw_flux": 157.62416076660156, 
     "wikipedia": "Mashhad"
   }, 
   "matautu": {
@@ -4402,6 +4768,7 @@ var citymap=
     "co2": 396.788669702899, 
     "dust": 1.4604681837226963e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Mata-Utu"
   }, 
   "mbabane": {
@@ -4414,6 +4781,7 @@ var citymap=
     "co2": 396.53901825658977, 
     "dust": 7.2540101427875925e-06, 
     "lw_flux": -66.1231460571289, 
+    "sw_flux": 188.78341674804688, 
     "wikipedia": "Mbabane"
   }, 
   "mecca": {
@@ -4426,6 +4794,7 @@ var citymap=
     "co2": 396.6483427211642, 
     "dust": 0.00032244788599200547, 
     "lw_flux": -92.9117431640625, 
+    "sw_flux": 205.8247528076172, 
     "wikipedia": "Mecca"
   }, 
   "medan": {
@@ -4438,6 +4807,7 @@ var citymap=
     "co2": 397.0232379238902, 
     "dust": 1.064173375198152e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Medan"
   }, 
   "medell%c3%adn": {
@@ -4450,6 +4820,7 @@ var citymap=
     "co2": 396.5111429958294, 
     "dust": 1.2780593351635616e-05, 
     "lw_flux": -21.831233978271484, 
+    "sw_flux": 181.67466735839844, 
     "wikipedia": "Medell%C3%ADn"
   }, 
   "medina": {
@@ -4462,6 +4833,7 @@ var citymap=
     "co2": 396.78434155600735, 
     "dust": 0.00027156982105225325, 
     "lw_flux": -113.31304931640625, 
+    "sw_flux": 212.12985229492188, 
     "wikipedia": "Medina"
   }, 
   "melbourne": {
@@ -4474,6 +4846,7 @@ var citymap=
     "co2": 397.2127385592709, 
     "dust": 1.7430475054425187e-05, 
     "lw_flux": -50.03375244140625, 
+    "sw_flux": 153.8519744873047, 
     "wikipedia": "Melbourne"
   }, 
   "melekeok": {
@@ -4486,6 +4859,7 @@ var citymap=
     "co2": 397.37171421104387, 
     "dust": 2.4372307052544784e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Melekeok"
   }, 
   "memphis": {
@@ -4498,6 +4872,7 @@ var citymap=
     "co2": 397.76558775417004, 
     "dust": 2.217961082351394e-05, 
     "lw_flux": -54.99024200439453, 
+    "sw_flux": 152.48623657226562, 
     "wikipedia": "Memphis,_Tennessee"
   }, 
   "mendoza": {
@@ -4510,6 +4885,7 @@ var citymap=
     "co2": 397.2771542612463, 
     "dust": 3.380931957508437e-05, 
     "lw_flux": -94.69047546386719, 
+    "sw_flux": 200.895751953125, 
     "wikipedia": "Mendoza,_Argentina"
   }, 
   "mersin": {
@@ -4522,6 +4898,7 @@ var citymap=
     "co2": 397.56462948086363, 
     "dust": 0.00010978054342558607, 
     "lw_flux": -70.5556869506836, 
+    "sw_flux": 167.76820373535156, 
     "wikipedia": "Mersin"
   }, 
   "mexicali": {
@@ -4534,6 +4911,7 @@ var citymap=
     "co2": 398.01610644743147, 
     "dust": 6.2685037846677e-05, 
     "lw_flux": -99.94695281982422, 
+    "sw_flux": 186.0978240966797, 
     "wikipedia": "Mexicali"
   }, 
   "mexicocity": {
@@ -4546,6 +4924,7 @@ var citymap=
     "co2": 395.9309895678113, 
     "dust": 4.692802122008288e-06, 
     "lw_flux": -58.01836395263672, 
+    "sw_flux": 200.50381469726562, 
     "wikipedia": "Mexico_City"
   }, 
   "miami": {
@@ -4558,6 +4937,7 @@ var citymap=
     "co2": 397.4544683781763, 
     "dust": 1.684237940935418e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Miami"
   }, 
   "milan": {
@@ -4570,6 +4950,7 @@ var citymap=
     "co2": 397.17737624111277, 
     "dust": 4.057354817632586e-05, 
     "lw_flux": -65.93004608154297, 
+    "sw_flux": 123.46534729003906, 
     "wikipedia": "Milan"
   }, 
   "milwaukee": {
@@ -4582,6 +4963,7 @@ var citymap=
     "co2": 397.60289157179426, 
     "dust": 1.9738939954550005e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Milwaukee"
   }, 
   "minneapolis": {
@@ -4594,6 +4976,7 @@ var citymap=
     "co2": 398.10502358401817, 
     "dust": 2.3328901079366915e-05, 
     "lw_flux": -51.194061279296875, 
+    "sw_flux": 123.37605285644531, 
     "wikipedia": "Minneapolis"
   }, 
   "minsk": {
@@ -4606,6 +4989,7 @@ var citymap=
     "co2": 397.6067854091525, 
     "dust": 3.0066446925047785e-05, 
     "lw_flux": -50.869503021240234, 
+    "sw_flux": 94.30935668945312, 
     "wikipedia": "Minsk"
   }, 
   "miri": {
@@ -4618,6 +5002,7 @@ var citymap=
     "co2": 397.4231512984261, 
     "dust": 5.212816631683381e-06, 
     "lw_flux": -38.4119873046875, 
+    "sw_flux": 185.55799865722656, 
     "wikipedia": "Miri"
   }, 
   "mogadishu": {
@@ -4630,6 +5015,7 @@ var citymap=
     "co2": 396.24715340323746, 
     "dust": 8.718916069483384e-05, 
     "lw_flux": -70.71849060058594, 
+    "sw_flux": 207.4842071533203, 
     "wikipedia": "Mogadishu"
   }, 
   "monaco": {
@@ -4642,6 +5028,7 @@ var citymap=
     "co2": 397.6863238494843, 
     "dust": 3.718458901857957e-05, 
     "lw_flux": -45.97643280029297, 
+    "sw_flux": 118.6340103149414, 
     "wikipedia": "Monaco"
   }, 
   "monrovia": {
@@ -4654,6 +5041,7 @@ var citymap=
     "co2": 395.544128647695, 
     "dust": 0.0002552952500991523, 
     "lw_flux": -46.05134201049805, 
+    "sw_flux": 177.0137481689453, 
     "wikipedia": "Monrovia"
   }, 
   "monterrey": {
@@ -4666,6 +5054,7 @@ var citymap=
     "co2": 396.82630100287497, 
     "dust": 1.7478796507930383e-05, 
     "lw_flux": -78.97416687011719, 
+    "sw_flux": 183.0078582763672, 
     "wikipedia": "Monterrey"
   }, 
   "montevideo": {
@@ -4678,6 +5067,7 @@ var citymap=
     "co2": 397.5029813591391, 
     "dust": 3.567161184037104e-05, 
     "lw_flux": -56.31290817260742, 
+    "sw_flux": 172.6881866455078, 
     "wikipedia": "Montevideo"
   }, 
   "montreal": {
@@ -4690,6 +5080,7 @@ var citymap=
     "co2": 397.6100213670482, 
     "dust": 1.7980388292926364e-05, 
     "lw_flux": -50.87180709838867, 
+    "sw_flux": 112.23092651367188, 
     "wikipedia": "Montreal"
   }, 
   "moroni": {
@@ -4702,6 +5093,7 @@ var citymap=
     "co2": 395.5491721474876, 
     "dust": 1.0602344445942435e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Moroni,_Comoros"
   }, 
   "moscow": {
@@ -4714,6 +5106,7 @@ var citymap=
     "co2": 397.41334311353665, 
     "dust": 3.274228947702795e-05, 
     "lw_flux": -50.57820129394531, 
+    "sw_flux": 91.35670471191406, 
     "wikipedia": "Moscow"
   }, 
   "multan": {
@@ -4726,6 +5119,7 @@ var citymap=
     "co2": 397.8395663131641, 
     "dust": 0.00036197202280163765, 
     "lw_flux": -97.46527099609375, 
+    "sw_flux": 176.45367431640625, 
     "wikipedia": "Multan"
   }, 
   "mumbai": {
@@ -4738,6 +5132,7 @@ var citymap=
     "co2": 395.51631540662663, 
     "dust": 0.00013098241470288485, 
     "lw_flux": -76.31504821777344, 
+    "sw_flux": 189.86033630371094, 
     "wikipedia": "Mumbai"
   }, 
   "munich": {
@@ -4750,6 +5145,7 @@ var citymap=
     "co2": 397.5373956685265, 
     "dust": 2.9056907806079835e-05, 
     "lw_flux": -51.395442962646484, 
+    "sw_flux": 103.15220642089844, 
     "wikipedia": "Munich"
   }, 
   "murmansk": {
@@ -4762,6 +5158,7 @@ var citymap=
     "co2": 395.993025214862, 
     "dust": 1.4324729818326887e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Murmansk"
   }, 
   "muscat": {
@@ -4774,6 +5171,7 @@ var citymap=
     "co2": 396.64403030959267, 
     "dust": 0.0003673669707495719, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Muscat,_Oman"
   }, 
   "mwanza": {
@@ -4786,6 +5184,7 @@ var citymap=
     "co2": 395.0928302947432, 
     "dust": 3.778706377488561e-05, 
     "lw_flux": -60.557735443115234, 
+    "sw_flux": 205.7486114501953, 
     "wikipedia": "Mwanza"
   }, 
   "n%27djamena": {
@@ -4798,6 +5197,7 @@ var citymap=
     "co2": 396.54292218535596, 
     "dust": 0.000537120271474123, 
     "lw_flux": -90.99919128417969, 
+    "sw_flux": 183.80758666992188, 
     "wikipedia": "N%27Djamena"
   }, 
   "nagoya": {
@@ -4810,6 +5210,7 @@ var citymap=
     "co2": 397.10640247600776, 
     "dust": 4.29616920882836e-05, 
     "lw_flux": -45.269020080566406, 
+    "sw_flux": 139.28330993652344, 
     "wikipedia": "Nagoya"
   }, 
   "nagpur": {
@@ -4822,6 +5223,7 @@ var citymap=
     "co2": 395.7118132714627, 
     "dust": 0.00012357402010820806, 
     "lw_flux": -75.35596466064453, 
+    "sw_flux": 187.46127319335938, 
     "wikipedia": "Nagpur"
   }, 
   "nairobi": {
@@ -4834,6 +5236,7 @@ var citymap=
     "co2": 395.2396649401635, 
     "dust": 3.0763960239710286e-05, 
     "lw_flux": -56.54941940307617, 
+    "sw_flux": 189.806396484375, 
     "wikipedia": "Nairobi"
   }, 
   "nakhonratchasima": {
@@ -4846,6 +5249,7 @@ var citymap=
     "co2": 395.6076625795306, 
     "dust": 1.7006077541736886e-05, 
     "lw_flux": -59.639442443847656, 
+    "sw_flux": 178.0613555908203, 
     "wikipedia": "Nakhon_Ratchasima"
   }, 
   "namangan": {
@@ -4858,6 +5262,7 @@ var citymap=
     "co2": 397.63695870836574, 
     "dust": 9.543518535792828e-05, 
     "lw_flux": -44.75392150878906, 
+    "sw_flux": 125.96385192871094, 
     "wikipedia": "Namangan"
   }, 
   "nanjing": {
@@ -4870,6 +5275,7 @@ var citymap=
     "co2": 397.7170950025065, 
     "dust": 7.352494867518544e-05, 
     "lw_flux": -50.87249755859375, 
+    "sw_flux": 132.6358642578125, 
     "wikipedia": "Nanjing"
   }, 
   "nanning": {
@@ -4882,6 +5288,7 @@ var citymap=
     "co2": 396.3720068956415, 
     "dust": 2.9310705940588377e-05, 
     "lw_flux": -39.47623825073242, 
+    "sw_flux": 119.51988983154297, 
     "wikipedia": "Nanning"
   }, 
   "nantes": {
@@ -4894,6 +5301,7 @@ var citymap=
     "co2": 397.67720193291706, 
     "dust": 2.4067581762210466e-05, 
     "lw_flux": -48.7945671081543, 
+    "sw_flux": 106.84375, 
     "wikipedia": "Nantes"
   }, 
   "naples": {
@@ -4906,6 +5314,7 @@ var citymap=
     "co2": 397.84310734830797, 
     "dust": 6.685869448119774e-05, 
     "lw_flux": -47.6214714050293, 
+    "sw_flux": 137.25094604492188, 
     "wikipedia": "Naples"
   }, 
   "nashville": {
@@ -4918,6 +5327,7 @@ var citymap=
     "co2": 397.96153361896506, 
     "dust": 2.1567286239587702e-05, 
     "lw_flux": -54.25699996948242, 
+    "sw_flux": 146.9365234375, 
     "wikipedia": "Nashville,_Tennessee"
   }, 
   "nassau": {
@@ -4930,6 +5340,7 @@ var citymap=
     "co2": 397.3158697287242, 
     "dust": 1.763569889590144e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Nassau,_Bahamas"
   }, 
   "naypyidaw": {
@@ -4942,6 +5353,7 @@ var citymap=
     "co2": 395.4479860266487, 
     "dust": 3.649969585239887e-05, 
     "lw_flux": -65.64166259765625, 
+    "sw_flux": 203.50828552246094, 
     "wikipedia": "Naypyidaw"
   }, 
   "ndola": {
@@ -4954,6 +5366,7 @@ var citymap=
     "co2": 394.8510985355824, 
     "dust": 9.3807429948356e-06, 
     "lw_flux": -80.00830078125, 
+    "sw_flux": 221.5135040283203, 
     "wikipedia": "Ndola"
   }, 
   "newcastle": {
@@ -4966,6 +5379,7 @@ var citymap=
     "co2": 397.2828151502957, 
     "dust": 1.4269459825300146e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Newcastle,_New_South_Wales"
   }, 
   "newdelhi": {
@@ -4978,6 +5392,7 @@ var citymap=
     "co2": 397.49142190773193, 
     "dust": 0.0002603831817395985, 
     "lw_flux": -87.05543518066406, 
+    "sw_flux": 190.46336364746094, 
     "wikipedia": "New_Delhi"
   }, 
   "neworleans": {
@@ -4990,6 +5405,7 @@ var citymap=
     "co2": 397.36730812708976, 
     "dust": 1.907956539071165e-05, 
     "lw_flux": -55.25040817260742, 
+    "sw_flux": 168.59609985351562, 
     "wikipedia": "New_Orleans"
   }, 
   "newyorkcity": {
@@ -5002,6 +5418,7 @@ var citymap=
     "co2": 397.594920747603, 
     "dust": 2.1054138414910994e-05, 
     "lw_flux": -51.83448791503906, 
+    "sw_flux": 137.70529174804688, 
     "wikipedia": "New_York_City"
   }, 
   "niamey": {
@@ -5014,6 +5431,7 @@ var citymap=
     "co2": 395.8976365179873, 
     "dust": 0.0006165400263853371, 
     "lw_flux": -97.6023941040039, 
+    "sw_flux": 191.50289916992188, 
     "wikipedia": "Niamey"
   }, 
   "nice": {
@@ -5026,6 +5444,7 @@ var citymap=
     "co2": 397.6863238494843, 
     "dust": 3.718458901857957e-05, 
     "lw_flux": -45.97643280029297, 
+    "sw_flux": 118.6340103149414, 
     "wikipedia": "Nice"
   }, 
   "nicosia": {
@@ -5038,6 +5457,7 @@ var citymap=
     "co2": 398.2389035324256, 
     "dust": 0.00011455280764494091, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Nicosia"
   }, 
   "nizhnynovgorod": {
@@ -5050,6 +5470,7 @@ var citymap=
     "co2": 397.29091998500127, 
     "dust": 3.8246787880780175e-05, 
     "lw_flux": -47.93111801147461, 
+    "sw_flux": 91.41755676269531, 
     "wikipedia": "Nizhny_Novgorod"
   }, 
   "norilsk": {
@@ -5062,6 +5483,7 @@ var citymap=
     "co2": 397.88451128212427, 
     "dust": 2.1495254259207286e-05, 
     "lw_flux": -41.060916900634766, 
+    "sw_flux": 53.9980583190918, 
     "wikipedia": "Norilsk"
   }, 
   "nouakchott": {
@@ -5074,6 +5496,7 @@ var citymap=
     "co2": 396.1444930460508, 
     "dust": 0.0006466914783231914, 
     "lw_flux": -85.02613067626953, 
+    "sw_flux": 149.64959716796875, 
     "wikipedia": "Nouakchott"
   }, 
   "noum%c3%a9a": {
@@ -5086,6 +5509,7 @@ var citymap=
     "co2": 396.27743302844465, 
     "dust": 4.952315521222772e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Noum%C3%A9a"
   }, 
   "novosibirsk": {
@@ -5098,6 +5522,7 @@ var citymap=
     "co2": 397.30758289806545, 
     "dust": 4.207668825984001e-05, 
     "lw_flux": -51.260498046875, 
+    "sw_flux": 100.6537094116211, 
     "wikipedia": "Novosibirsk"
   }, 
   "nuku%ca%bbalofa": {
@@ -5110,6 +5535,7 @@ var citymap=
     "co2": 396.19125115374726, 
     "dust": 2.973934215333429e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Nuku%CA%BBalofa"
   }, 
   "nukulaelae": {
@@ -5122,6 +5548,7 @@ var citymap=
     "co2": "error", 
     "dust": "error", 
     "lw_flux": "error", 
+    "sw_flux": "error", 
     "wikipedia": "Nukulaelae"
   }, 
   "nukus": {
@@ -5134,6 +5561,7 @@ var citymap=
     "co2": 397.99425983801484, 
     "dust": 0.00027356663485988975, 
     "lw_flux": -81.64817810058594, 
+    "sw_flux": 141.52484130859375, 
     "wikipedia": "Nukus"
   }, 
   "nuuk": {
@@ -5146,6 +5574,7 @@ var citymap=
     "co2": 398.01424302692925, 
     "dust": 1.2184092156530824e-05, 
     "lw_flux": -40.19618225097656, 
+    "sw_flux": 55.52469253540039, 
     "wikipedia": "Nuuk"
   }, 
   "odessa": {
@@ -5158,6 +5587,7 @@ var citymap=
     "co2": 398.1053503230214, 
     "dust": 5.2596846217056736e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Odessa"
   }, 
   "okinawa": {
@@ -5170,6 +5600,7 @@ var citymap=
     "co2": 396.83994581948406, 
     "dust": 2.6964966309606098e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Okinawa,_Okinawa"
   }, 
   "oklahomacity": {
@@ -5182,6 +5613,7 @@ var citymap=
     "co2": 398.3783399841438, 
     "dust": 2.6162741050939076e-05, 
     "lw_flux": -63.87447738647461, 
+    "sw_flux": 163.84950256347656, 
     "wikipedia": "Oklahoma_City"
   }, 
   "omdurman": {
@@ -5194,6 +5626,7 @@ var citymap=
     "co2": 396.3681954411331, 
     "dust": 0.0004552530008368194, 
     "lw_flux": -108.86721801757812, 
+    "sw_flux": 193.6372528076172, 
     "wikipedia": "Omdurman"
   }, 
   "omsk": {
@@ -5206,6 +5639,7 @@ var citymap=
     "co2": 397.37889387955266, 
     "dust": 4.574469858198427e-05, 
     "lw_flux": -50.719940185546875, 
+    "sw_flux": 100.97161102294922, 
     "wikipedia": "Omsk"
   }, 
   "oranjestad": {
@@ -5218,6 +5652,7 @@ var citymap=
     "co2": 396.8384291511029, 
     "dust": 4.137095675105229e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Oranjestad,_Aruba"
   }, 
   "osaka": {
@@ -5230,6 +5665,7 @@ var citymap=
     "co2": 397.10640247600776, 
     "dust": 4.7554327466059476e-05, 
     "lw_flux": -36.96119689941406, 
+    "sw_flux": 127.98677825927734, 
     "wikipedia": "Osaka"
   }, 
   "oslo": {
@@ -5242,6 +5678,7 @@ var citymap=
     "co2": 396.9668385202754, 
     "dust": 1.5741874449304305e-05, 
     "lw_flux": -48.12812805175781, 
+    "sw_flux": 87.03314971923828, 
     "wikipedia": "Oslo"
   }, 
   "ottawa": {
@@ -5254,6 +5691,7 @@ var citymap=
     "co2": 397.7005075042446, 
     "dust": 1.825637082220055e-05, 
     "lw_flux": -47.262237548828125, 
+    "sw_flux": 113.15315246582031, 
     "wikipedia": "Ottawa"
   }, 
   "ouagadougou": {
@@ -5266,6 +5704,7 @@ var citymap=
     "co2": 395.99475591482286, 
     "dust": 0.00048218315350823104, 
     "lw_flux": -86.38841247558594, 
+    "sw_flux": 192.42172241210938, 
     "wikipedia": "Ouagadougou"
   }, 
   "padang": {
@@ -5278,6 +5717,7 @@ var citymap=
     "co2": 395.6416330765933, 
     "dust": 4.6476734496536665e-06, 
     "lw_flux": -27.743526458740234, 
+    "sw_flux": 183.05523681640625, 
     "wikipedia": "Padang,_Indonesia"
   }, 
   "pagopago": {
@@ -5290,6 +5730,7 @@ var citymap=
     "co2": 396.64098527282476, 
     "dust": 1.402917973791773e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Pago_Pago"
   }, 
   "palembang": {
@@ -5302,6 +5743,7 @@ var citymap=
     "co2": 396.4345406243348, 
     "dust": 4.238756446284242e-06, 
     "lw_flux": -38.163063049316406, 
+    "sw_flux": 158.221435546875, 
     "wikipedia": "Palembang"
   }, 
   "palikir": {
@@ -5314,6 +5756,7 @@ var citymap=
     "co2": 396.89920338181156, 
     "dust": 1.8826577843356063e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Palikir"
   }, 
   "palma": {
@@ -5326,6 +5769,7 @@ var citymap=
     "co2": 397.89631225479144, 
     "dust": 7.115061453077942e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Palma,_Majorca"
   }, 
   "panamacity": {
@@ -5338,6 +5782,7 @@ var citymap=
     "co2": 396.6658884504189, 
     "dust": 1.9108614651486278e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Panama_City"
   }, 
   "papeete": {
@@ -5350,6 +5795,7 @@ var citymap=
     "co2": 396.09985309652984, 
     "dust": 1.748767999742995e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Papeete"
   }, 
   "paramaribo": {
@@ -5362,6 +5808,7 @@ var citymap=
     "co2": 396.1805285265048, 
     "dust": 4.165642531006597e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Paramaribo"
   }, 
   "paris": {
@@ -5374,6 +5821,7 @@ var citymap=
     "co2": 397.6190462708473, 
     "dust": 2.4764072804828174e-05, 
     "lw_flux": -47.710731506347656, 
+    "sw_flux": 98.63516998291016, 
     "wikipedia": "Paris"
   }, 
   "patna": {
@@ -5386,6 +5834,7 @@ var citymap=
     "co2": 396.70329149683107, 
     "dust": 0.00016081376816146076, 
     "lw_flux": -84.93920135498047, 
+    "sw_flux": 186.91796875, 
     "wikipedia": "Patna"
   }, 
   "pattaya": {
@@ -5398,6 +5847,7 @@ var citymap=
     "co2": 396.36634842756746, 
     "dust": 1.45902604344883e-05, 
     "lw_flux": -49.29562759399414, 
+    "sw_flux": 169.23582458496094, 
     "wikipedia": "Pattaya"
   }, 
   "pekanbaru": {
@@ -5410,6 +5860,7 @@ var citymap=
     "co2": 396.16131421958875, 
     "dust": 6.316443887044443e-06, 
     "lw_flux": -39.02803039550781, 
+    "sw_flux": 160.2054901123047, 
     "wikipedia": "Pekanbaru"
   }, 
   "pelotas": {
@@ -5422,6 +5873,7 @@ var citymap=
     "co2": 396.96208434179425, 
     "dust": 2.3596729079145007e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Pelotas"
   }, 
   "perm": {
@@ -5434,6 +5886,7 @@ var citymap=
     "co2": 397.3900099905829, 
     "dust": 3.930601087631658e-05, 
     "lw_flux": -47.555030822753906, 
+    "sw_flux": 91.17159271240234, 
     "wikipedia": "Perm"
   }, 
   "perth": {
@@ -5446,6 +5899,7 @@ var citymap=
     "co2": 396.86078663500075, 
     "dust": 1.4898893823556136e-05, 
     "lw_flux": -75.2824935913086, 
+    "sw_flux": 180.713134765625, 
     "wikipedia": "Perth,_Western_Australia"
   }, 
   "peshawar": {
@@ -5458,6 +5912,7 @@ var citymap=
     "co2": 397.8755501318826, 
     "dust": 0.0002607764326967299, 
     "lw_flux": -98.99935913085938, 
+    "sw_flux": 188.44549560546875, 
     "wikipedia": "Peshawar"
   }, 
   "petropavlovskkamchatsky": {
@@ -5470,6 +5925,7 @@ var citymap=
     "co2": 397.17713190003525, 
     "dust": 2.5129978894256055e-05, 
     "lw_flux": -46.364662170410156, 
+    "sw_flux": 80.54713439941406, 
     "wikipedia": "Petropavlovsk-Kamchatsky"
   }, 
   "philadelphia": {
@@ -5482,6 +5938,7 @@ var citymap=
     "co2": 397.64124124524864, 
     "dust": 2.2304928279481828e-05, 
     "lw_flux": -55.122230529785156, 
+    "sw_flux": 136.7252655029297, 
     "wikipedia": "Philadelphia"
   }, 
   "phnompenh": {
@@ -5494,6 +5951,7 @@ var citymap=
     "co2": 396.21413539427874, 
     "dust": 1.1690749488479923e-05, 
     "lw_flux": -50.7142333984375, 
+    "sw_flux": 199.4506378173828, 
     "wikipedia": "Phnom_Penh"
   }, 
   "phoenix": {
@@ -5506,6 +5964,7 @@ var citymap=
     "co2": 396.61405452837545, 
     "dust": 4.441423880052753e-05, 
     "lw_flux": -104.43350219726562, 
+    "sw_flux": 197.35281372070312, 
     "wikipedia": "Phoenix,_Arizona"
   }, 
   "phuket": {
@@ -5518,6 +5977,7 @@ var citymap=
     "co2": 396.67672050806385, 
     "dust": 1.1908216038136743e-05, 
     "lw_flux": -35.94597625732422, 
+    "sw_flux": 181.893798828125, 
     "wikipedia": "Phuket_(city)"
   }, 
   "pittsburgh": {
@@ -5530,6 +5990,7 @@ var citymap=
     "co2": 397.26971959074336, 
     "dust": 2.1152729459572583e-05, 
     "lw_flux": -51.74170684814453, 
+    "sw_flux": 128.66961669921875, 
     "wikipedia": "Pittsburgh"
   }, 
   "podgorica": {
@@ -5542,6 +6003,7 @@ var citymap=
     "co2": 397.84053767410416, 
     "dust": 4.92337676405441e-05, 
     "lw_flux": -47.781978607177734, 
+    "sw_flux": 133.9245147705078, 
     "wikipedia": "Podgorica"
   }, 
   "pontadelgada": {
@@ -5554,6 +6016,7 @@ var citymap=
     "co2": 396.8093148432672, 
     "dust": 2.089832014462445e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Ponta_Delgada,_S%C3%A3o_Miguel_Island"
   }, 
   "pontianak": {
@@ -5566,6 +6029,7 @@ var citymap=
     "co2": 395.84569398581675, 
     "dust": 4.171755335846683e-06, 
     "lw_flux": -37.88832092285156, 
+    "sw_flux": 177.5017547607422, 
     "wikipedia": "Pontianak,_Indonesia"
   }, 
   "portauprince": {
@@ -5578,6 +6042,7 @@ var citymap=
     "co2": 396.6365250137945, 
     "dust": 2.95453592116246e-05, 
     "lw_flux": -57.09318161010742, 
+    "sw_flux": 206.74017333984375, 
     "wikipedia": "Port-au-Prince"
   }, 
   "portblair": {
@@ -5590,6 +6055,7 @@ var citymap=
     "co2": 396.89877217717685, 
     "dust": 2.3520446120528504e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Port_Blair"
   }, 
   "portelizabeth": {
@@ -5602,6 +6068,7 @@ var citymap=
     "co2": 396.92791799704236, 
     "dust": 1.0869905963772908e-05, 
     "lw_flux": -59.66200256347656, 
+    "sw_flux": 183.081787109375, 
     "wikipedia": "Port_Elizabeth"
   }, 
   "porthedland": {
@@ -5614,6 +6081,7 @@ var citymap=
     "co2": 396.1662920967986, 
     "dust": 2.500777191016823e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Port_Hedland,_Western_Australia"
   }, 
   "portland": {
@@ -5626,6 +6094,7 @@ var citymap=
     "co2": 397.62924425303936, 
     "dust": 2.085615233227145e-05, 
     "lw_flux": -51.41261672973633, 
+    "sw_flux": 129.51539611816406, 
     "wikipedia": "Portland,_Oregon"
   }, 
   "portlouis": {
@@ -5638,6 +6107,7 @@ var citymap=
     "co2": 395.90097692174214, 
     "dust": 4.509500740823569e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Port_Louis"
   }, 
   "portmoresby": {
@@ -5650,6 +6120,7 @@ var citymap=
     "co2": 395.93604297907507, 
     "dust": 1.9699132280948106e-06, 
     "lw_flux": -28.03129005432129, 
+    "sw_flux": 178.03797912597656, 
     "wikipedia": "Port_Moresby"
   }, 
   "porto": {
@@ -5662,6 +6133,7 @@ var citymap=
     "co2": 397.5889113886903, 
     "dust": 2.7729443900170736e-05, 
     "lw_flux": -57.623043060302734, 
+    "sw_flux": 155.73280334472656, 
     "wikipedia": "Porto"
   }, 
   "portoalegre": {
@@ -5674,6 +6146,7 @@ var citymap=
     "co2": 396.9368493805329, 
     "dust": 1.827240521379281e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Porto_Alegre"
   }, 
   "portofspain": {
@@ -5686,6 +6159,7 @@ var citymap=
     "co2": 396.51770881998044, 
     "dust": 5.305540616973303e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Port_of_Spain"
   }, 
   "portonovo": {
@@ -5698,6 +6172,7 @@ var citymap=
     "co2": 395.3670242776138, 
     "dust": 0.00039434549398720264, 
     "lw_flux": -54.4764404296875, 
+    "sw_flux": 181.40948486328125, 
     "wikipedia": "Porto-Novo"
   }, 
   "portovelho": {
@@ -5710,6 +6185,7 @@ var citymap=
     "co2": 395.35924249018234, 
     "dust": 1.6627389413770288e-05, 
     "lw_flux": -46.52836227416992, 
+    "sw_flux": 192.1373291015625, 
     "wikipedia": "Porto_Velho"
   }, 
   "portsaid": {
@@ -5722,6 +6198,7 @@ var citymap=
     "co2": 397.8184890002012, 
     "dust": 0.00016031185805331916, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Port_Said"
   }, 
   "portvila": {
@@ -5734,6 +6211,7 @@ var citymap=
     "co2": 396.01608495266265, 
     "dust": 2.9117850317561533e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Port_Vila"
   }, 
   "prague": {
@@ -5746,6 +6224,7 @@ var citymap=
     "co2": 397.622586072733, 
     "dust": 2.8366524929879233e-05, 
     "lw_flux": -50.611331939697266, 
+    "sw_flux": 101.36722564697266, 
     "wikipedia": "Prague"
   }, 
   "praia": {
@@ -5758,6 +6237,7 @@ var citymap=
     "co2": 395.8702894548575, 
     "dust": 0.00032333299168385565, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Praia"
   }, 
   "pretoria": {
@@ -5770,6 +6250,7 @@ var citymap=
     "co2": 396.02166119342047, 
     "dust": 7.6242654358793516e-06, 
     "lw_flux": -90.5897216796875, 
+    "sw_flux": 213.72592163085938, 
     "wikipedia": "Pretoria"
   }, 
   "pristina": {
@@ -5782,6 +6263,7 @@ var citymap=
     "co2": 397.98233735685545, 
     "dust": 4.893514051218517e-05, 
     "lw_flux": -53.86494445800781, 
+    "sw_flux": 121.32324981689453, 
     "wikipedia": "Pristina"
   }, 
   "providence": {
@@ -5794,6 +6276,7 @@ var citymap=
     "co2": 397.72877789800987, 
     "dust": 1.8719365471042693e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Providence,_Rhode_Island"
   }, 
   "puebla": {
@@ -5806,6 +6289,7 @@ var citymap=
     "co2": 395.9309895678113, 
     "dust": 4.859701220993884e-06, 
     "lw_flux": -50.74507522583008, 
+    "sw_flux": 199.6802520751953, 
     "wikipedia": "Puebla,_Puebla"
   }, 
   "puertowilliams": {
@@ -5818,6 +6302,7 @@ var citymap=
     "co2": 397.52592093081796, 
     "dust": 1.4045246643945575e-05, 
     "lw_flux": -44.45150375366211, 
+    "sw_flux": 80.0267105102539, 
     "wikipedia": "Puerto_Williams"
   }, 
   "pune": {
@@ -5830,6 +6315,7 @@ var citymap=
     "co2": 395.51631540662663, 
     "dust": 0.0001084555042325519, 
     "lw_flux": -77.71240234375, 
+    "sw_flux": 196.84646606445312, 
     "wikipedia": "Pune"
   }, 
   "puntaarenas": {
@@ -5842,6 +6328,7 @@ var citymap=
     "co2": 395.40454642573263, 
     "dust": 5.662313014909159e-06, 
     "lw_flux": -56.78398895263672, 
+    "sw_flux": 107.1742172241211, 
     "wikipedia": "Punta_Arenas,_Chile"
   }, 
   "pyongyang": {
@@ -5854,6 +6341,7 @@ var citymap=
     "co2": 398.10561924241483, 
     "dust": 6.528911035275087e-05, 
     "lw_flux": -54.409332275390625, 
+    "sw_flux": 139.85614013671875, 
     "wikipedia": "Pyongyang"
   }, 
   "qingdao": {
@@ -5866,6 +6354,7 @@ var citymap=
     "co2": 397.8037590009941, 
     "dust": 8.458620141027495e-05, 
     "lw_flux": -54.53477478027344, 
+    "sw_flux": 136.95957946777344, 
     "wikipedia": "Qingdao"
   }, 
   "quebeccity": {
@@ -5878,6 +6367,7 @@ var citymap=
     "co2": 397.29091300008196, 
     "dust": 1.6462799976579845e-05, 
     "lw_flux": -38.387874603271484, 
+    "sw_flux": 101.53440856933594, 
     "wikipedia": "Quebec_City"
   }, 
   "quetzaltenango": {
@@ -5890,6 +6380,7 @@ var citymap=
     "co2": 395.9129548942049, 
     "dust": 5.115280146128498e-06, 
     "lw_flux": -37.756446838378906, 
+    "sw_flux": 212.11746215820312, 
     "wikipedia": "Quetzaltenango"
   }, 
   "quezoncity": {
@@ -5902,6 +6393,7 @@ var citymap=
     "co2": 396.68296494087434, 
     "dust": 5.70070051253424e-06, 
     "lw_flux": -36.68859100341797, 
+    "sw_flux": 168.85198974609375, 
     "wikipedia": "Quezon_City"
   }, 
   "quito": {
@@ -5914,6 +6406,7 @@ var citymap=
     "co2": 395.1146298398574, 
     "dust": 4.648258709494257e-06, 
     "lw_flux": -29.891149520874023, 
+    "sw_flux": 145.7819061279297, 
     "wikipedia": "Quito"
   }, 
   "rabat": {
@@ -5926,6 +6419,7 @@ var citymap=
     "co2": 397.4984159382681, 
     "dust": 0.00012013284140266478, 
     "lw_flux": -66.4541015625, 
+    "sw_flux": 178.0872802734375, 
     "wikipedia": "Rabat"
   }, 
   "rabiisland": {
@@ -5938,6 +6432,7 @@ var citymap=
     "co2": 395.60812525451183, 
     "dust": 0.00015801007975824177, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Rabi_Island"
   }, 
   "raleigh": {
@@ -5950,6 +6445,7 @@ var citymap=
     "co2": 397.93731254600993, 
     "dust": 1.9818164219032042e-05, 
     "lw_flux": -53.9081916809082, 
+    "sw_flux": 153.20616149902344, 
     "wikipedia": "Raleigh,_North_Carolina"
   }, 
   "rawalpindi": {
@@ -5962,6 +6458,7 @@ var citymap=
     "co2": 396.7289010541061, 
     "dust": 0.0001955892366822809, 
     "lw_flux": -76.5243911743164, 
+    "sw_flux": 180.7139129638672, 
     "wikipedia": "Rawalpindi"
   }, 
   "recife": {
@@ -5974,6 +6471,7 @@ var citymap=
     "co2": 394.82098538428545, 
     "dust": 1.1607794476731215e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Recife"
   }, 
   "regina": {
@@ -5986,6 +6484,7 @@ var citymap=
     "co2": 398.4236690060546, 
     "dust": 2.0275194401619956e-05, 
     "lw_flux": -60.99436950683594, 
+    "sw_flux": 114.69786071777344, 
     "wikipedia": "Regina,_Saskatchewan"
   }, 
   "reykjav%c3%adk": {
@@ -5998,6 +6497,7 @@ var citymap=
     "co2": 396.8241579823898, 
     "dust": 1.1555806850083172e-05, 
     "lw_flux": -46.04411315917969, 
+    "sw_flux": 72.5310287475586, 
     "wikipedia": "Reykjav%C3%ADk"
   }, 
   "riga": {
@@ -6010,6 +6510,7 @@ var citymap=
     "co2": 397.1453454043414, 
     "dust": 2.4063463570200838e-05, 
     "lw_flux": -52.024681091308594, 
+    "sw_flux": 100.08119201660156, 
     "wikipedia": "Riga"
   }, 
   "riobranco": {
@@ -6022,6 +6523,7 @@ var citymap=
     "co2": 395.2562083334972, 
     "dust": 1.1583175364648923e-05, 
     "lw_flux": -43.293296813964844, 
+    "sw_flux": 187.71429443359375, 
     "wikipedia": "Rio_Branco"
   }, 
   "riodejaneiro": {
@@ -6034,6 +6536,7 @@ var citymap=
     "co2": 395.8782836950074, 
     "dust": 8.437945325567853e-06, 
     "lw_flux": -41.99164581298828, 
+    "sw_flux": 176.63165283203125, 
     "wikipedia": "Rio_de_Janeiro"
   }, 
   "riverside": {
@@ -6046,6 +6549,7 @@ var citymap=
     "co2": 398.01610644743147, 
     "dust": 2.4088612917694263e-05, 
     "lw_flux": -94.1326675415039, 
+    "sw_flux": 185.39720153808594, 
     "wikipedia": "Riverside,_California"
   }, 
   "riyadh": {
@@ -6058,6 +6562,7 @@ var citymap=
     "co2": 396.83608970928776, 
     "dust": 0.00046288687735795975, 
     "lw_flux": -101.40095520019531, 
+    "sw_flux": 158.97425842285156, 
     "wikipedia": "Riyadh"
   }, 
   "roadtown": {
@@ -6070,6 +6575,7 @@ var citymap=
     "co2": 396.4713111054152, 
     "dust": 4.45804835180752e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Road_Town"
   }, 
   "rochester": {
@@ -6082,6 +6588,7 @@ var citymap=
     "co2": 397.7098416847487, 
     "dust": 2.001366920012515e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Rochester,_New_York"
   }, 
   "rockhampton": {
@@ -6094,6 +6601,7 @@ var citymap=
     "co2": 396.20536340711016, 
     "dust": 1.3794252481602598e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Rockhampton"
   }, 
   "rome": {
@@ -6106,6 +6614,7 @@ var citymap=
     "co2": 397.74982336287695, 
     "dust": 6.117230077506974e-05, 
     "lw_flux": -59.24040222167969, 
+    "sw_flux": 144.03543090820312, 
     "wikipedia": "Rome"
   }, 
   "rosario": {
@@ -6118,6 +6627,7 @@ var citymap=
     "co2": 397.6113799338539, 
     "dust": 4.0991290006786585e-05, 
     "lw_flux": -61.28563690185547, 
+    "sw_flux": 176.0920867919922, 
     "wikipedia": "Rosario,_Santa_Fe"
   }, 
   "roseau": {
@@ -6130,6 +6640,7 @@ var citymap=
     "co2": 396.44322474487126, 
     "dust": 5.638196671498008e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Roseau"
   }, 
   "rotterdam": {
@@ -6142,6 +6653,7 @@ var citymap=
     "co2": 397.6196690928191, 
     "dust": 2.28734097618144e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Rotterdam"
   }, 
   "s%c3%a3ojos%c3%a9doscampos": {
@@ -6154,6 +6666,7 @@ var citymap=
     "co2": 395.6521290820092, 
     "dust": 8.73434419190744e-06, 
     "lw_flux": -51.233116149902344, 
+    "sw_flux": 187.93515014648438, 
     "wikipedia": "S%C3%A3o_Jos%C3%A9_dos_Campos"
   }, 
   "s%c3%a3opaulo": {
@@ -6166,6 +6679,7 @@ var citymap=
     "co2": 395.6521290820092, 
     "dust": 9.699028851173352e-06, 
     "lw_flux": -48.089927673339844, 
+    "sw_flux": 168.89627075195312, 
     "wikipedia": "S%C3%A3o_Paulo"
   }, 
   "s%c3%a3otom%c3%a9": {
@@ -6178,6 +6692,7 @@ var citymap=
     "co2": 395.75353929811246, 
     "dust": 0.0001364995405310765, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "S%C3%A3o_Tom%C3%A9"
   }, 
   "sabha": {
@@ -6190,6 +6705,7 @@ var citymap=
     "co2": 397.4638502522548, 
     "dust": 0.00035282786120660603, 
     "lw_flux": -97.02852630615234, 
+    "sw_flux": 161.6033477783203, 
     "wikipedia": "Sabha,_Libya"
   }, 
   "sacramento": {
@@ -6202,6 +6718,7 @@ var citymap=
     "co2": 397.21511614819366, 
     "dust": 3.0049082852201536e-05, 
     "lw_flux": -77.3355941772461, 
+    "sw_flux": 192.3170623779297, 
     "wikipedia": "Sacramento,_California"
   }, 
   "saintdenis": {
@@ -6214,6 +6731,7 @@ var citymap=
     "co2": 395.90097692174214, 
     "dust": 4.622959750122391e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Saint-Denis,_R%C3%A9union"
   }, 
   "saintjohn": {
@@ -6226,6 +6744,7 @@ var citymap=
     "co2": 397.855305817683, 
     "dust": 1.6252222849288955e-05, 
     "lw_flux": -39.80048751831055, 
+    "sw_flux": 117.3944091796875, 
     "wikipedia": "Saint_John,_New_Brunswick"
   }, 
   "saintpetersburg": {
@@ -6238,6 +6757,7 @@ var citymap=
     "co2": 397.3025591888775, 
     "dust": 2.1578762243734673e-05, 
     "lw_flux": -49.06226348876953, 
+    "sw_flux": 90.5374526977539, 
     "wikipedia": "Saint_Petersburg"
   }, 
   "saintpierre": {
@@ -6250,6 +6770,7 @@ var citymap=
     "co2": 397.3368722064471, 
     "dust": 1.5055835319799371e-05, 
     "lw_flux": -36.884647369384766, 
+    "sw_flux": 92.59014892578125, 
     "wikipedia": "Saint-Pierre,_Saint_Pierre_and_Miquelon"
   }, 
   "saipan": {
@@ -6262,6 +6783,7 @@ var citymap=
     "co2": 396.6411345204137, 
     "dust": 5.7275151448266115e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Saipan"
   }, 
   "saltlakecity": {
@@ -6274,6 +6796,7 @@ var citymap=
     "co2": 396.63514820858836, 
     "dust": 2.712145578698255e-05, 
     "lw_flux": -71.3499984741211, 
+    "sw_flux": 155.3085479736328, 
     "wikipedia": "Salt_Lake_City"
   }, 
   "salzburg": {
@@ -6286,6 +6809,7 @@ var citymap=
     "co2": 397.5377173628658, 
     "dust": 3.056005880353041e-05, 
     "lw_flux": -48.234825134277344, 
+    "sw_flux": 101.92440032958984, 
     "wikipedia": "Salzburg"
   }, 
   "samara": {
@@ -6298,6 +6822,7 @@ var citymap=
     "co2": 397.44292735122144, 
     "dust": 5.940115079283714e-05, 
     "lw_flux": -49.88331985473633, 
+    "sw_flux": 97.49256134033203, 
     "wikipedia": "Samara,_Russia"
   }, 
   "sana%27a": {
@@ -6310,6 +6835,7 @@ var citymap=
     "co2": 395.7729647263989, 
     "dust": 0.0002530156052671373, 
     "lw_flux": -81.6628646850586, 
+    "sw_flux": 214.6650848388672, 
     "wikipedia": "Sana%27a"
   }, 
   "sanantonio": {
@@ -6322,6 +6848,7 @@ var citymap=
     "co2": 397.5782686999689, 
     "dust": 2.1919979189988226e-05, 
     "lw_flux": -63.47372817993164, 
+    "sw_flux": 172.50340270996094, 
     "wikipedia": "San_Antonio"
   }, 
   "sancarlosdebariloche": {
@@ -6334,6 +6861,7 @@ var citymap=
     "co2": 397.2206187124054, 
     "dust": 1.1866950444527902e-05, 
     "lw_flux": -81.55303192138672, 
+    "sw_flux": 183.8476104736328, 
     "wikipedia": "San_Carlos_de_Bariloche"
   }, 
   "sandiego": {
@@ -6346,6 +6874,7 @@ var citymap=
     "co2": 398.01610644743147, 
     "dust": 2.6025412807939574e-05, 
     "lw_flux": -85.39559936523438, 
+    "sw_flux": 192.00462341308594, 
     "wikipedia": "San_Diego"
   }, 
   "sanfernando": {
@@ -6358,6 +6887,7 @@ var citymap=
     "co2": 396.51770881998044, 
     "dust": 4.999354496248998e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "San_Fernando,_Trinidad_and_Tobago"
   }, 
   "sanfrancisco": {
@@ -6370,6 +6900,7 @@ var citymap=
     "co2": 397.1307200845331, 
     "dust": 3.00185929518193e-05, 
     "lw_flux": -86.8052978515625, 
+    "sw_flux": 179.10104370117188, 
     "wikipedia": "San_Francisco"
   }, 
   "sanjos%c3%a9": {
@@ -6382,6 +6913,7 @@ var citymap=
     "co2": 396.34516928344965, 
     "dust": 8.396415978495497e-06, 
     "lw_flux": -38.39223098754883, 
+    "sw_flux": 155.1527862548828, 
     "wikipedia": "San_Jos%C3%A9,_Costa_Rica"
   }, 
   "sanjuan": {
@@ -6394,6 +6926,7 @@ var citymap=
     "co2": 396.86145454955596, 
     "dust": 4.229717524140142e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "San_Juan,_Puerto_Rico"
   }, 
   "sansalvador": {
@@ -6406,6 +6939,7 @@ var citymap=
     "co2": 395.83589144361514, 
     "dust": 1.0960005056404043e-05, 
     "lw_flux": -46.1834602355957, 
+    "sw_flux": 204.4240264892578, 
     "wikipedia": "San_Salvador"
   }, 
   "santacruzdelasierra": {
@@ -6418,6 +6952,7 @@ var citymap=
     "co2": 395.44236147776246, 
     "dust": 2.0271578250685707e-05, 
     "lw_flux": -54.39497756958008, 
+    "sw_flux": 183.9832763671875, 
     "wikipedia": "Santa_Cruz_de_la_Sierra"
   }, 
   "santacruzdetenerife": {
@@ -6430,6 +6965,7 @@ var citymap=
     "co2": 396.744511090219, 
     "dust": 0.00010659234249033034, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Santa_Cruz_de_Tenerife"
   }, 
   "santiago": {
@@ -6442,6 +6978,7 @@ var citymap=
     "co2": 396.32055032180267, 
     "dust": 7.53124913899228e-06, 
     "lw_flux": -80.28308868408203, 
+    "sw_flux": 205.76763916015625, 
     "wikipedia": "Santiago,_Chile"
   }, 
   "santiagodecuba": {
@@ -6454,6 +6991,7 @@ var citymap=
     "co2": 397.2851499801854, 
     "dust": 2.4090066290227696e-05, 
     "lw_flux": -50.63723373413086, 
+    "sw_flux": 193.5761260986328, 
     "wikipedia": "Santiago_de_Cuba"
   }, 
   "santodomingo": {
@@ -6466,6 +7004,7 @@ var citymap=
     "co2": 397.0150521490723, 
     "dust": 3.71869646187406e-05, 
     "lw_flux": -45.16511535644531, 
+    "sw_flux": 186.47439575195312, 
     "wikipedia": "Santo_Domingo"
   }, 
   "sapporo": {
@@ -6478,6 +7017,7 @@ var citymap=
     "co2": 396.76058494175476, 
     "dust": 4.000504486612044e-05, 
     "lw_flux": -32.84930419921875, 
+    "sw_flux": 102.840087890625, 
     "wikipedia": "Sapporo"
   }, 
   "sarajevo": {
@@ -6490,6 +7030,7 @@ var citymap=
     "co2": 397.84053767410416, 
     "dust": 4.246406751917675e-05, 
     "lw_flux": -46.9584846496582, 
+    "sw_flux": 114.51531982421875, 
     "wikipedia": "Sarajevo"
   }, 
   "saskatoon": {
@@ -6502,6 +7043,7 @@ var citymap=
     "co2": 397.6796315206836, 
     "dust": 1.8967506548506208e-05, 
     "lw_flux": -58.110897064208984, 
+    "sw_flux": 109.14456176757812, 
     "wikipedia": "Saskatoon"
   }, 
   "seattle": {
@@ -6514,6 +7056,7 @@ var citymap=
     "co2": 397.33560600628454, 
     "dust": 1.947316195582971e-05, 
     "lw_flux": -45.39472579956055, 
+    "sw_flux": 104.90849304199219, 
     "wikipedia": "Seattle"
   }, 
   "semarang": {
@@ -6526,6 +7069,7 @@ var citymap=
     "co2": 396.80172173705483, 
     "dust": 5.440004315460101e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Semarang"
   }, 
   "seoul": {
@@ -6538,6 +7082,7 @@ var citymap=
     "co2": 398.0711378001918, 
     "dust": 6.443054007831961e-05, 
     "lw_flux": -49.74241256713867, 
+    "sw_flux": 136.84060668945312, 
     "wikipedia": "Seoul"
   }, 
   "serekunda": {
@@ -6550,6 +7095,7 @@ var citymap=
     "co2": 396.20289765617315, 
     "dust": 0.00043561478378251195, 
     "lw_flux": -73.19841766357422, 
+    "sw_flux": 203.50390625, 
     "wikipedia": "Serekunda"
   }, 
   "seville": {
@@ -6562,6 +7108,7 @@ var citymap=
     "co2": 397.6505249738693, 
     "dust": 6.831476639490575e-05, 
     "lw_flux": -77.03984832763672, 
+    "sw_flux": 167.44851684570312, 
     "wikipedia": "Seville"
   }, 
   "shanghai": {
@@ -6574,6 +7121,7 @@ var citymap=
     "co2": 397.80049071949276, 
     "dust": 6.388248584698886e-05, 
     "lw_flux": -50.4706916809082, 
+    "sw_flux": 129.46669006347656, 
     "wikipedia": "Shanghai"
   }, 
   "shenyang": {
@@ -6586,6 +7134,7 @@ var citymap=
     "co2": 397.7547966254254, 
     "dust": 6.778072565793991e-05, 
     "lw_flux": -54.255210876464844, 
+    "sw_flux": 132.8594512939453, 
     "wikipedia": "Shenyang"
   }, 
   "shenzhen": {
@@ -6598,6 +7147,7 @@ var citymap=
     "co2": 396.49385183332237, 
     "dust": 2.3343696739175357e-05, 
     "lw_flux": -44.26869201660156, 
+    "sw_flux": 137.54986572265625, 
     "wikipedia": "Shenzhen"
   }, 
   "shigatse": {
@@ -6610,6 +7160,7 @@ var citymap=
     "co2": 394.2069476276326, 
     "dust": 2.375410076638218e-05, 
     "lw_flux": -88.26859283447266, 
+    "sw_flux": 202.36837768554688, 
     "wikipedia": "Shigatse"
   }, 
   "shijiazhuang": {
@@ -6622,6 +7173,7 @@ var citymap=
     "co2": 397.64505888645846, 
     "dust": 0.00011107793397968635, 
     "lw_flux": -67.65552520751953, 
+    "sw_flux": 138.47715759277344, 
     "wikipedia": "Shijiazhuang"
   }, 
   "shillong": {
@@ -6634,6 +7186,7 @@ var citymap=
     "co2": 396.37656614964675, 
     "dust": 7.618542440468445e-05, 
     "lw_flux": -79.9333267211914, 
+    "sw_flux": 178.12623596191406, 
     "wikipedia": "Shillong"
   }, 
   "siemreap": {
@@ -6646,6 +7199,7 @@ var citymap=
     "co2": 395.78308444132733, 
     "dust": 1.371941834804602e-05, 
     "lw_flux": -55.946311950683594, 
+    "sw_flux": 198.1947479248047, 
     "wikipedia": "Siem_Reap"
   }, 
   "simferopol": {
@@ -6658,6 +7212,7 @@ var citymap=
     "co2": 398.4316931261371, 
     "dust": 5.864704507985152e-05, 
     "lw_flux": -52.65229415893555, 
+    "sw_flux": 130.26820373535156, 
     "wikipedia": "Simferopol"
   }, 
   "singapore": {
@@ -6670,6 +7225,7 @@ var citymap=
     "co2": 396.79549750871956, 
     "dust": 5.872981546417577e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Singapore"
   }, 
   "sitka": {
@@ -6682,6 +7238,7 @@ var citymap=
     "co2": 396.777198074159, 
     "dust": 1.6980458894977346e-05, 
     "lw_flux": -38.069480895996094, 
+    "sw_flux": 79.6744384765625, 
     "wikipedia": "Sitka,_Alaska"
   }, 
   "skopje": {
@@ -6694,6 +7251,7 @@ var citymap=
     "co2": 397.93726134424406, 
     "dust": 5.273560600471683e-05, 
     "lw_flux": -54.51252365112305, 
+    "sw_flux": 124.49535369873047, 
     "wikipedia": "Skopje"
   }, 
   "sofia": {
@@ -6706,6 +7264,7 @@ var citymap=
     "co2": 397.9025746230036, 
     "dust": 4.996759525965899e-05, 
     "lw_flux": -56.45210266113281, 
+    "sw_flux": 123.22541809082031, 
     "wikipedia": "Sofia"
   }, 
   "southtarawa": {
@@ -6718,6 +7277,7 @@ var citymap=
     "co2": 397.11904380080364, 
     "dust": 1.014119220599241e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "South_Tarawa"
   }, 
   "split": {
@@ -6730,6 +7290,7 @@ var citymap=
     "co2": 397.6026701275259, 
     "dust": 4.9106409278465435e-05, 
     "lw_flux": -54.85167694091797, 
+    "sw_flux": 145.21157836914062, 
     "wikipedia": "Split_(city)"
   }, 
   "srijayawardenapurakotte": {
@@ -6742,6 +7303,7 @@ var citymap=
     "co2": 396.2844166879172, 
     "dust": 4.052982330904342e-05, 
     "lw_flux": -48.951229095458984, 
+    "sw_flux": 206.49305725097656, 
     "wikipedia": "Sri_Jayawardenapura-Kotte"
   }, 
   "srinagar": {
@@ -6754,6 +7316,7 @@ var citymap=
     "co2": 397.2250999371246, 
     "dust": 7.21396500011906e-05, 
     "lw_flux": -43.63716506958008, 
+    "sw_flux": 132.4679718017578, 
     "wikipedia": "Srinagar"
   }, 
   "st.george%27s": {
@@ -6766,6 +7329,7 @@ var citymap=
     "co2": 396.5708155495425, 
     "dust": 5.788208363810554e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "St._George%27s,_Grenada"
   }, 
   "st.john%27s": {
@@ -6778,6 +7342,7 @@ var citymap=
     "co2": 397.50928818379384, 
     "dust": 1.479445563745685e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "St._John%27s,_Newfoundland_and_Labrador"
   }, 
   "st.louis": {
@@ -6790,6 +7355,7 @@ var citymap=
     "co2": 398.3161792469521, 
     "dust": 2.4843719074851833e-05, 
     "lw_flux": -52.584068298339844, 
+    "sw_flux": 139.28903198242188, 
     "wikipedia": "St._Louis,_Missouri"
   }, 
   "stanley": {
@@ -6802,6 +7368,7 @@ var citymap=
     "co2": 397.38494432268953, 
     "dust": 1.38586337925517e-05, 
     "lw_flux": -41.0982666015625, 
+    "sw_flux": 84.23306274414062, 
     "wikipedia": "Stanley,_Falkland_Islands"
   }, 
   "stepanakert": {
@@ -6814,6 +7381,7 @@ var citymap=
     "co2": 398.18097059040855, 
     "dust": 0.0001592774933669716, 
     "lw_flux": -75.51717376708984, 
+    "sw_flux": 137.8560028076172, 
     "wikipedia": "Stepanakert"
   }, 
   "stockholm": {
@@ -6826,6 +7394,7 @@ var citymap=
     "co2": 396.81263008052866, 
     "dust": 1.780721140676178e-05, 
     "lw_flux": -50.83231735229492, 
+    "sw_flux": 101.50257110595703, 
     "wikipedia": "Stockholm"
   }, 
   "strasbourg": {
@@ -6838,6 +7407,7 @@ var citymap=
     "co2": 397.5011932197958, 
     "dust": 2.7354346457286738e-05, 
     "lw_flux": -51.66478729248047, 
+    "sw_flux": 101.41973876953125, 
     "wikipedia": "Strasbourg"
   }, 
   "stuttgart": {
@@ -6850,6 +7420,7 @@ var citymap=
     "co2": 397.5011932197958, 
     "dust": 2.7457970645627938e-05, 
     "lw_flux": -47.46319580078125, 
+    "sw_flux": 102.07946014404297, 
     "wikipedia": "Stuttgart"
   }, 
   "sucre": {
@@ -6862,6 +7433,7 @@ var citymap=
     "co2": 395.33541770651937, 
     "dust": 7.426354386552703e-06, 
     "lw_flux": -77.49327087402344, 
+    "sw_flux": 223.89764404296875, 
     "wikipedia": "Sucre"
   }, 
   "suez": {
@@ -6874,6 +7446,7 @@ var citymap=
     "co2": 397.0944178743391, 
     "dust": 0.00020560722623486072, 
     "lw_flux": -79.00460052490234, 
+    "sw_flux": 154.0402374267578, 
     "wikipedia": "Suez"
   }, 
   "sukhumi": {
@@ -6886,6 +7459,7 @@ var citymap=
     "co2": 398.0148931323374, 
     "dust": 6.997732998570427e-05, 
     "lw_flux": -31.753509521484375, 
+    "sw_flux": 119.01769256591797, 
     "wikipedia": "Sukhumi"
   }, 
   "surabaya": {
@@ -6898,6 +7472,7 @@ var citymap=
     "co2": 396.8677350452968, 
     "dust": 6.404351552191656e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Surabaya"
   }, 
   "surat": {
@@ -6910,6 +7485,7 @@ var citymap=
     "co2": 395.8581869750667, 
     "dust": 0.00016430210962425917, 
     "lw_flux": -79.30896759033203, 
+    "sw_flux": 193.3152618408203, 
     "wikipedia": "Surat,_Gujarat"
   }, 
   "suratthani": {
@@ -6922,6 +7498,7 @@ var citymap=
     "co2": 396.8457483848476, 
     "dust": 1.1803654160758015e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Surat_Thani"
   }, 
   "suva": {
@@ -6934,6 +7511,7 @@ var citymap=
     "co2": "error", 
     "dust": 2.421307272015838e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Suva"
   }, 
   "sydney": {
@@ -6946,6 +7524,7 @@ var citymap=
     "co2": 397.2828151502957, 
     "dust": 1.4319522051664535e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Sydney"
   }, 
   "t%c3%b3rshavn": {
@@ -6958,6 +7537,7 @@ var citymap=
     "co2": 397.3708785644037, 
     "dust": 1.359543875878444e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "T%C3%B3rshavn"
   }, 
   "tabriz": {
@@ -6970,6 +7550,7 @@ var citymap=
     "co2": 398.18097059040855, 
     "dust": 0.0001288938510697335, 
     "lw_flux": -75.57283782958984, 
+    "sw_flux": 165.93881225585938, 
     "wikipedia": "Tabriz"
   }, 
   "tagbilaran": {
@@ -6982,6 +7563,7 @@ var citymap=
     "co2": 397.11462458187384, 
     "dust": 4.309796167945024e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Tagbilaran"
   }, 
   "taichung": {
@@ -6994,6 +7576,7 @@ var citymap=
     "co2": 396.5984908736324, 
     "dust": 1.676930878602434e-05, 
     "lw_flux": -28.168317794799805, 
+    "sw_flux": 156.60708618164062, 
     "wikipedia": "Taichung"
   }, 
   "taipei": {
@@ -7006,6 +7589,7 @@ var citymap=
     "co2": 396.5984908736324, 
     "dust": 2.666694126673974e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Taipei"
   }, 
   "taiyuan": {
@@ -7018,6 +7602,7 @@ var citymap=
     "co2": 398.3314028785874, 
     "dust": 0.00010039428161690012, 
     "lw_flux": -61.44993209838867, 
+    "sw_flux": 150.32675170898438, 
     "wikipedia": "Taiyuan"
   }, 
   "tallinn": {
@@ -7030,6 +7615,7 @@ var citymap=
     "co2": 397.4117327645119, 
     "dust": 2.0081222828594036e-05, 
     "lw_flux": -52.31098175048828, 
+    "sw_flux": 99.7818374633789, 
     "wikipedia": "Tallinn"
   }, 
   "tamale": {
@@ -7042,6 +7628,7 @@ var citymap=
     "co2": 395.60730092240215, 
     "dust": 0.00043797053513117135, 
     "lw_flux": -76.51506805419922, 
+    "sw_flux": 201.13485717773438, 
     "wikipedia": "Tamale,_Ghana"
   }, 
   "tampa": {
@@ -7054,6 +7641,7 @@ var citymap=
     "co2": 397.3284484042476, 
     "dust": 1.6262940334854648e-05, 
     "lw_flux": -59.85613250732422, 
+    "sw_flux": 178.4688262939453, 
     "wikipedia": "Tampa,_Florida"
   }, 
   "tampere": {
@@ -7066,6 +7654,7 @@ var citymap=
     "co2": 397.4373898624132, 
     "dust": 1.7401689547114074e-05, 
     "lw_flux": -48.77186584472656, 
+    "sw_flux": 92.97676849365234, 
     "wikipedia": "Tampere"
   }, 
   "tartu": {
@@ -7078,6 +7667,7 @@ var citymap=
     "co2": 397.23956608213484, 
     "dust": 2.1896190446568653e-05, 
     "lw_flux": -50.893367767333984, 
+    "sw_flux": 95.33688354492188, 
     "wikipedia": "Tartu"
   }, 
   "tashkent": {
@@ -7090,6 +7680,7 @@ var citymap=
     "co2": 397.8955733268899, 
     "dust": 0.00017266035138163716, 
     "lw_flux": -79.12467193603516, 
+    "sw_flux": 147.07427978515625, 
     "wikipedia": "Tashkent"
   }, 
   "tbilisi": {
@@ -7102,6 +7693,7 @@ var citymap=
     "co2": 397.72827139434713, 
     "dust": 9.630173008190468e-05, 
     "lw_flux": -35.41036605834961, 
+    "sw_flux": 126.30809020996094, 
     "wikipedia": "Tbilisi"
   }, 
   "tegucigalpa": {
@@ -7114,6 +7706,7 @@ var citymap=
     "co2": 396.65694038073224, 
     "dust": 1.0941415894194506e-05, 
     "lw_flux": -52.05897903442383, 
+    "sw_flux": 191.18356323242188, 
     "wikipedia": "Tegucigalpa"
   }, 
   "tehran": {
@@ -7126,6 +7719,7 @@ var citymap=
     "co2": 397.61431103776374, 
     "dust": 0.0001296589762205258, 
     "lw_flux": -41.80678176879883, 
+    "sw_flux": 146.37478637695312, 
     "wikipedia": "Tehran"
   }, 
   "telaviv": {
@@ -7138,6 +7732,7 @@ var citymap=
     "co2": 398.05143179061514, 
     "dust": 0.00015342010010499507, 
     "lw_flux": -80.96764373779297, 
+    "sw_flux": 168.09117126464844, 
     "wikipedia": "Tel_Aviv"
   }, 
   "thehague": {
@@ -7150,6 +7745,7 @@ var citymap=
     "co2": 397.1510101109743, 
     "dust": 2.163537465094123e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "The_Hague"
   }, 
   "thessaloniki": {
@@ -7162,6 +7758,7 @@ var citymap=
     "co2": 397.94613801253337, 
     "dust": 6.274399493122473e-05, 
     "lw_flux": -57.171844482421875, 
+    "sw_flux": 141.83651733398438, 
     "wikipedia": "Thessaloniki"
   }, 
   "thevalley": {
@@ -7174,6 +7771,7 @@ var citymap=
     "co2": 396.4713111054152, 
     "dust": 4.746616104966961e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "The_Valley,_Anguilla"
   }, 
   "thi%c3%a8s": {
@@ -7186,6 +7784,7 @@ var citymap=
     "co2": 395.77470050898154, 
     "dust": 0.0005091312923468649, 
     "lw_flux": -70.5980453491211, 
+    "sw_flux": 174.17178344726562, 
     "wikipedia": "Thi%C3%A8s"
   }, 
   "thimphu": {
@@ -7198,6 +7797,7 @@ var citymap=
     "co2": 394.95370583608747, 
     "dust": 3.5566681617638096e-05, 
     "lw_flux": -39.298187255859375, 
+    "sw_flux": 157.99114990234375, 
     "wikipedia": "Thimphu"
   }, 
   "tianjin": {
@@ -7210,6 +7810,7 @@ var citymap=
     "co2": 398.28238581928116, 
     "dust": 9.676839545136318e-05, 
     "lw_flux": -64.39303588867188, 
+    "sw_flux": 144.50294494628906, 
     "wikipedia": "Tianjin"
   }, 
   "tijuana": {
@@ -7222,6 +7823,7 @@ var citymap=
     "co2": 398.01610644743147, 
     "dust": 2.6025412807939574e-05, 
     "lw_flux": -85.39559936523438, 
+    "sw_flux": 192.00462341308594, 
     "wikipedia": "Tijuana"
   }, 
   "timbuktu": {
@@ -7234,6 +7836,7 @@ var citymap=
     "co2": 396.00574718996774, 
     "dust": 0.0006758885574527085, 
     "lw_flux": -93.64531707763672, 
+    "sw_flux": 162.06979370117188, 
     "wikipedia": "Timbuktu"
   }, 
   "tirana": {
@@ -7246,6 +7849,7 @@ var citymap=
     "co2": 397.60388278712827, 
     "dust": 5.65921982342843e-05, 
     "lw_flux": -49.831939697265625, 
+    "sw_flux": 139.97271728515625, 
     "wikipedia": "Tirana"
   }, 
   "tiraspol": {
@@ -7258,6 +7862,7 @@ var citymap=
     "co2": 397.67872852583724, 
     "dust": 4.791106766788289e-05, 
     "lw_flux": -53.53609085083008, 
+    "sw_flux": 122.9307632446289, 
     "wikipedia": "Tiraspol"
   }, 
   "tokyo": {
@@ -7270,6 +7875,7 @@ var citymap=
     "co2": 397.5787925689171, 
     "dust": 4.4570431782631204e-05, 
     "lw_flux": -51.36966323852539, 
+    "sw_flux": 139.77987670898438, 
     "wikipedia": "Tokyo"
   }, 
   "toronto": {
@@ -7282,6 +7888,7 @@ var citymap=
     "co2": 397.7098416847487, 
     "dust": 1.9696653907885775e-05, 
     "lw_flux": -48.387264251708984, 
+    "sw_flux": 118.26831817626953, 
     "wikipedia": "Toronto"
   }, 
   "toulouse": {
@@ -7294,6 +7901,7 @@ var citymap=
     "co2": 397.85464759916067, 
     "dust": 3.5311961255501956e-05, 
     "lw_flux": -55.42906188964844, 
+    "sw_flux": 124.69415283203125, 
     "wikipedia": "Toulouse"
   }, 
   "townsville": {
@@ -7306,6 +7914,7 @@ var citymap=
     "co2": 396.14546578377485, 
     "dust": 1.4722953892487567e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Townsville"
   }, 
   "tripoli": {
@@ -7318,6 +7927,7 @@ var citymap=
     "co2": 397.69304799847305, 
     "dust": 0.000227516662562266, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Tripoli"
   }, 
   "tskhinvali": {
@@ -7330,6 +7940,7 @@ var citymap=
     "co2": 398.1160077052443, 
     "dust": 5.845116902492009e-05, 
     "lw_flux": -38.91277313232422, 
+    "sw_flux": 123.65632629394531, 
     "wikipedia": "Tskhinvali"
   }, 
   "tucson": {
@@ -7342,6 +7953,7 @@ var citymap=
     "co2": 396.61405452837545, 
     "dust": 2.8219470550538972e-05, 
     "lw_flux": -94.69039916992188, 
+    "sw_flux": 192.5283966064453, 
     "wikipedia": "Tucson,_Arizona"
   }, 
   "tunis": {
@@ -7354,6 +7966,7 @@ var citymap=
     "co2": 397.6837134299179, 
     "dust": 0.0001271499349968508, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Tunis"
   }, 
   "turin": {
@@ -7366,6 +7979,7 @@ var citymap=
     "co2": 397.17737624111277, 
     "dust": 3.5254044632893056e-05, 
     "lw_flux": -63.12617874145508, 
+    "sw_flux": 124.69316101074219, 
     "wikipedia": "Turin"
   }, 
   "udonthani": {
@@ -7378,6 +7992,7 @@ var citymap=
     "co2": 395.91126713073913, 
     "dust": 2.1027521142968908e-05, 
     "lw_flux": -60.426918029785156, 
+    "sw_flux": 174.26377868652344, 
     "wikipedia": "Udon_Thani"
   }, 
   "ulanbator": {
@@ -7390,6 +8005,7 @@ var citymap=
     "co2": 396.5488984249532, 
     "dust": 4.308702045818791e-05, 
     "lw_flux": -51.079246520996094, 
+    "sw_flux": 132.40611267089844, 
     "wikipedia": "Ulan_Bator"
   }, 
   "ushuaia": {
@@ -7402,6 +8018,7 @@ var citymap=
     "co2": 394.8105599688874, 
     "dust": 5.162173238204559e-06, 
     "lw_flux": -53.64485549926758, 
+    "sw_flux": 105.95896911621094, 
     "wikipedia": "Ushuaia"
   }, 
   "vaduz": {
@@ -7414,6 +8031,7 @@ var citymap=
     "co2": 397.47893577441573, 
     "dust": 2.6820096536539495e-05, 
     "lw_flux": -41.76127624511719, 
+    "sw_flux": 98.33203887939453, 
     "wikipedia": "Vaduz"
   }, 
   "valdivia": {
@@ -7426,6 +8044,7 @@ var citymap=
     "co2": 397.238777562355, 
     "dust": 9.799203326110728e-06, 
     "lw_flux": -64.56272888183594, 
+    "sw_flux": 160.83267211914062, 
     "wikipedia": "Valdivia,_Chile"
   }, 
   "valencia": {
@@ -7438,6 +8057,7 @@ var citymap=
     "co2": 397.69449465287227, 
     "dust": 6.591463170479983e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Valencia,_Spain"
   }, 
   "valletta": {
@@ -7450,6 +8070,7 @@ var citymap=
     "co2": 397.94311043806374, 
     "dust": 0.0001316436828346923, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Valletta"
   }, 
   "valpara%c3%adso": {
@@ -7462,6 +8083,7 @@ var citymap=
     "co2": 396.32055032180267, 
     "dust": 9.47453281696653e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Valpara%C3%ADso"
   }, 
   "vancouver": {
@@ -7474,6 +8096,7 @@ var citymap=
     "co2": 396.977443791305, 
     "dust": 1.811459515010938e-05, 
     "lw_flux": -54.491703033447266, 
+    "sw_flux": 117.79910278320312, 
     "wikipedia": "Vancouver"
   }, 
   "vaticancity": {
@@ -7486,6 +8109,7 @@ var citymap=
     "co2": 397.74982336287695, 
     "dust": 6.117230077506974e-05, 
     "lw_flux": -59.24040222167969, 
+    "sw_flux": 144.03543090820312, 
     "wikipedia": "Vatican_City"
   }, 
   "veracruz": {
@@ -7498,6 +8122,7 @@ var citymap=
     "co2": 396.62839379161596, 
     "dust": 1.6065159798017703e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Veracruz,_Veracruz"
   }, 
   "victoria": {
@@ -7510,6 +8135,7 @@ var citymap=
     "co2": 396.15126443095505, 
     "dust": 1.7043839761754498e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Victoria,_Seychelles"
   }, 
   "vienna": {
@@ -7522,6 +8148,7 @@ var citymap=
     "co2": 397.62076960566145, 
     "dust": 3.505322092678398e-05, 
     "lw_flux": -50.855979919433594, 
+    "sw_flux": 109.14588165283203, 
     "wikipedia": "Vienna"
   }, 
   "vientiane": {
@@ -7534,6 +8161,7 @@ var citymap=
     "co2": 395.91126713073913, 
     "dust": 2.1583704437944107e-05, 
     "lw_flux": -54.98866271972656, 
+    "sw_flux": 165.7382049560547, 
     "wikipedia": "Vientiane"
   }, 
   "vilnius": {
@@ -7546,6 +8174,7 @@ var citymap=
     "co2": 397.6543767688175, 
     "dust": 2.770605351543054e-05, 
     "lw_flux": -52.205265045166016, 
+    "sw_flux": 98.66797637939453, 
     "wikipedia": "Vilnius"
   }, 
   "virginiabeach": {
@@ -7558,6 +8187,7 @@ var citymap=
     "co2": 397.863455194359, 
     "dust": 2.0530580513877794e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Virginia_Beach"
   }, 
   "vit%c3%b3ria": {
@@ -7570,6 +8200,7 @@ var citymap=
     "co2": 395.95164940692484, 
     "dust": 7.045592155918712e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Vit%C3%B3ria,_Brazil"
   }, 
   "vladivostok": {
@@ -7582,6 +8213,7 @@ var citymap=
     "co2": 397.460435051471, 
     "dust": 4.789767262991518e-05, 
     "lw_flux": -45.49120330810547, 
+    "sw_flux": 123.79241180419922, 
     "wikipedia": "Vladivostok"
   }, 
   "warsaw": {
@@ -7594,6 +8226,7 @@ var citymap=
     "co2": 397.6407173763004, 
     "dust": 3.046216443181038e-05, 
     "lw_flux": -48.51810073852539, 
+    "sw_flux": 94.58077239990234, 
     "wikipedia": "Warsaw"
   }, 
   "washington": {
@@ -7606,6 +8239,7 @@ var citymap=
     "co2": 397.64124124524864, 
     "dust": 2.2159349100547843e-05, 
     "lw_flux": -51.98869705200195, 
+    "sw_flux": 137.93063354492188, 
     "wikipedia": "Washington,_D.C."
   }, 
   "wellington": {
@@ -7618,6 +8252,7 @@ var citymap=
     "co2": 396.88118330731584, 
     "dust": 7.367610123765189e-06, 
     "lw_flux": -46.97105407714844, 
+    "sw_flux": 146.13125610351562, 
     "wikipedia": "Wellington"
   }, 
   "weno": {
@@ -7630,6 +8265,7 @@ var citymap=
     "co2": 396.9782606388132, 
     "dust": 2.0331106043158798e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Weno"
   }, 
   "whitehorse": {
@@ -7642,6 +8278,7 @@ var citymap=
     "co2": 396.57749584876, 
     "dust": 1.4945528164389543e-05, 
     "lw_flux": -50.32297134399414, 
+    "sw_flux": 92.80673217773438, 
     "wikipedia": "Whitehorse,_Yukon"
   }, 
   "wichita": {
@@ -7654,6 +8291,7 @@ var citymap=
     "co2": 398.15534100246924, 
     "dust": 2.6765796064864844e-05, 
     "lw_flux": -58.57144546508789, 
+    "sw_flux": 153.6215362548828, 
     "wikipedia": "Wichita,_Kansas"
   }, 
   "willemstad": {
@@ -7666,6 +8304,7 @@ var citymap=
     "co2": 396.80790117320913, 
     "dust": 4.259090928826481e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Willemstad"
   }, 
   "winnipeg": {
@@ -7678,6 +8317,7 @@ var citymap=
     "co2": 397.79416595896083, 
     "dust": 2.0626495825126767e-05, 
     "lw_flux": -51.05606460571289, 
+    "sw_flux": 115.87413024902344, 
     "wikipedia": "Winnipeg"
   }, 
   "wollongong": {
@@ -7690,6 +8330,7 @@ var citymap=
     "co2": 397.04214400813186, 
     "dust": 1.4275537978392094e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Wollongong"
   }, 
   "wonsan": {
@@ -7702,6 +8343,7 @@ var citymap=
     "co2": 398.10561924241483, 
     "dust": 6.406620377674699e-05, 
     "lw_flux": -57.603633880615234, 
+    "sw_flux": 134.7761993408203, 
     "wikipedia": "Wonsan"
   }, 
   "wuhan": {
@@ -7714,6 +8356,7 @@ var citymap=
     "co2": 397.8470293175731, 
     "dust": 7.327892672037706e-05, 
     "lw_flux": -44.74040985107422, 
+    "sw_flux": 123.29952239990234, 
     "wikipedia": "Wuhan"
   }, 
   "xi%27an": {
@@ -7726,6 +8369,7 @@ var citymap=
     "co2": 397.82015311003136, 
     "dust": 0.00012371687626000494, 
     "lw_flux": -62.70675277709961, 
+    "sw_flux": 127.69982147216797, 
     "wikipedia": "Xi%27an"
   }, 
   "xining": {
@@ -7738,6 +8382,7 @@ var citymap=
     "co2": 397.51982044739026, 
     "dust": 9.664917160989717e-05, 
     "lw_flux": -54.135772705078125, 
+    "sw_flux": 140.45428466796875, 
     "wikipedia": "Xining"
   }, 
   "yakutsk": {
@@ -7750,6 +8395,7 @@ var citymap=
     "co2": 397.6767263949326, 
     "dust": 2.341974868613761e-05, 
     "lw_flux": -46.38241958618164, 
+    "sw_flux": 95.30912780761719, 
     "wikipedia": "Yakutsk"
   }, 
   "yamoussoukro": {
@@ -7762,6 +8408,7 @@ var citymap=
     "co2": 395.85371150924647, 
     "dust": 0.00030609770328737795, 
     "lw_flux": -65.33271789550781, 
+    "sw_flux": 186.13265991210938, 
     "wikipedia": "Yamoussoukro"
   }, 
   "yangon": {
@@ -7774,6 +8421,7 @@ var citymap=
     "co2": 395.77208937973614, 
     "dust": 3.5257598938187584e-05, 
     "lw_flux": -62.31412887573242, 
+    "sw_flux": 187.3750762939453, 
     "wikipedia": "Yangon"
   }, 
   "yaound%c3%a9": {
@@ -7786,6 +8434,7 @@ var citymap=
     "co2": 395.7544344106085, 
     "dust": 0.0002060049446299672, 
     "lw_flux": -52.08546829223633, 
+    "sw_flux": 192.29246520996094, 
     "wikipedia": "Yaound%C3%A9"
   }, 
   "yarendistrict": {
@@ -7798,6 +8447,7 @@ var citymap=
     "co2": 397.10197676401083, 
     "dust": 8.99775727702945e-07, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Yaren_District"
   }, 
   "yekaterinburg": {
@@ -7810,6 +8460,7 @@ var citymap=
     "co2": 397.1934654416416, 
     "dust": 3.912691681762226e-05, 
     "lw_flux": -46.32099533081055, 
+    "sw_flux": 87.2767562866211, 
     "wikipedia": "Yekaterinburg"
   }, 
   "yellowknife": {
@@ -7822,6 +8473,7 @@ var citymap=
     "co2": 396.2031316828646, 
     "dust": 1.629174039408099e-05, 
     "lw_flux": -55.319515228271484, 
+    "sw_flux": 96.94373321533203, 
     "wikipedia": "Yellowknife"
   }, 
   "yerevan": {
@@ -7834,6 +8486,7 @@ var citymap=
     "co2": 397.72827139434713, 
     "dust": 8.353148587048054e-05, 
     "lw_flux": -48.82724380493164, 
+    "sw_flux": 136.91127014160156, 
     "wikipedia": "Yerevan"
   }, 
   "yogyakarta": {
@@ -7846,6 +8499,7 @@ var citymap=
     "co2": 396.80172173705483, 
     "dust": 5.415611667558551e-06, 
     "lw_flux": -40.624324798583984, 
+    "sw_flux": 176.1376190185547, 
     "wikipedia": "Yogyakarta_(city)"
   }, 
   "yokohama": {
@@ -7858,6 +8512,7 @@ var citymap=
     "co2": 397.5787925689171, 
     "dust": 4.418918979354203e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Yokohama"
   }, 
   "z%c3%bcrich": {
@@ -7870,6 +8525,7 @@ var citymap=
     "co2": 397.47893577441573, 
     "dust": 2.8255002689547837e-05, 
     "lw_flux": -44.50192642211914, 
+    "sw_flux": 94.31787872314453, 
     "wikipedia": "Z%C3%BCrich"
   }, 
   "zagreb": {
@@ -7882,6 +8538,7 @@ var citymap=
     "co2": 397.99531766523916, 
     "dust": 4.2728705011541024e-05, 
     "lw_flux": -49.427608489990234, 
+    "sw_flux": 116.77053833007812, 
     "wikipedia": "Zagreb"
   }, 
   "zamboangacity": {
@@ -7894,6 +8551,7 @@ var citymap=
     "co2": 397.08411380048994, 
     "dust": 4.517701654549455e-06, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Zamboanga_City"
   }, 
   "zanzibarcity": {
@@ -7906,6 +8564,7 @@ var citymap=
     "co2": 395.75571815172833, 
     "dust": 2.8961298085050657e-05, 
     "lw_flux": null, 
+    "sw_flux": null, 
     "wikipedia": "Zanzibar_City"
   }, 
   "zapopan": {
@@ -7918,6 +8577,7 @@ var citymap=
     "co2": 395.44492106263834, 
     "dust": 6.4382065829704516e-06, 
     "lw_flux": -87.07559967041016, 
+    "sw_flux": 213.65402221679688, 
     "wikipedia": "Zapopan,_Jalisco"
   }, 
   "zhengzhou": {
@@ -7930,6 +8590,7 @@ var citymap=
     "co2": 398.2203233062063, 
     "dust": 0.00010856955486815423, 
     "lw_flux": -58.030113220214844, 
+    "sw_flux": 130.43038940429688, 
     "wikipedia": "Zhengzhou"
   }
 }

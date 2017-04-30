@@ -58,7 +58,7 @@ Reference: [Giovanni - The Bridge Between Data and Science v 4.21.6](https://gio
 * variable: M2TMNXCHM_5_12_4_COEM
 * attr: co
 * python: --nc=pollution-data/g4.timeAvgMap.M2TMNXCHM_5_12_4_COEM.20101130-20170130.180W_90S_180E_90N.nc --variable=M2TMNXCHM_5_12_4_COEM --attr=co
-## Carbon Dioxide, Mole Fraction in Free Troposphere, IR-Only
+### Carbon Dioxide, Mole Fraction in Free Troposphere, IR-Only
 
 ![Carbon Dioxide, Mole Fraction in Free Troposphere, IR-Only](/images/co2.png "Carbon Dioxide, Mole Fraction in Free Troposphere, IR-Only")
 
@@ -69,7 +69,7 @@ Reference: [Giovanni - The Bridge Between Data and Science v 4.21.6](https://gio
 * attr: co2
 * python: --nc=pollution-data/g4.timeAvgMap.AIRS3C2M_005_mole_fraction_of_carbon_dioxide_in_free_troposphere.20101130-20170130.180W_60S_180E_90N.nc --variable=AIRS3C2M_005_mole_fraction_of_carbon_dioxide_in_free_troposphere --attr=co2
 
-## Dust Column Mass Density
+### Dust Column Mass Density
 
 ![Dust Column Mass Density](/images/dust.png "Dust Column Mass Density")
 
@@ -79,3 +79,17 @@ Reference: [Giovanni - The Bridge Between Data and Science v 4.21.6](https://gio
 * variable: M2TMNXAER_5_12_4_DUCMASS
 * attr: Dust
 * python: --nc=pollution-data/g4.timeAvgMap.M2TMNXAER_5_12_4_DUCMASS.20101130-20170130.180W_90S_180E_90N.nc --variable=M2TMNXAER_5_12_4_DUCMASS --attr=dust
+
+## WebSite - MAPSPOL -
+
+En la carpeta MAPSPOL podemos encontrar el sitio web (index.html). si cargamos la web en un navegador poremos observar un mapa mundial con las principales ciudades marcadas y si seleccionamos una ciudad nos mostrara toda la información disponible con respecto a esa ciudad tal y como muestra siguiente imagen.
+
+![init-map](/images/mapa-inicial.png "Init map")
+
+Tambien, podemos aplicar varios filtros para poder mostrar información en nuestro mapa.
+* Net longwave radiation flux
+* CO Emissions
+* Carbon Dioxide, Mole Fraction in Free Troposphere, IR-Only
+
+
+Además de los filtros anteriormente citados, hemos añadido una capa extra para mostrar las zonas en las que actualmente esta ocurriendo un terremoto.
