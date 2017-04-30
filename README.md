@@ -1,5 +1,10 @@
 # spaceapp
 
+## JSON Pollution cities results
+
+    https://raw.githubusercontent.com/alejandrorueda/spaceapp/master/pollution-cities/pollution-by-city.json
+    https://raw.githubusercontent.com/alejandrorueda/spaceapp/master/pollution-cities/pollution-by-city.js
+
 ## City conversion
 
     cd cities
