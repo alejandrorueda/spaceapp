@@ -1,6 +1,7 @@
 #!/bin/bash
 
 cityfile=cities-biteam.json
+#cityfile=cities-test.json
 cp cities/$cityfile pollution-cities/pollution-by-city.json
 folder=pollution-cities
 script="pollution-city.py --cities=$folder/pollution-by-city.json --output=$folder/pollution-by-city.json"
