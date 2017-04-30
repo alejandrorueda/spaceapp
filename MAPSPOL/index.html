@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Earth Diagnosis</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="style/w3.css">
+		<link rel="stylesheet" href="css/main_style.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+		<link rel="stylesheet" href="style/font_awesome/css/font-awesome.min.css">
+		
+		<script async defer src="https://maps.googleapis.com/maps/api/js?libraries=places&sensor=false?key=AIzaSyBLeAxeOcZUKeYQAlvj739VQvT1_Y9-Tl0&callback=initMap"></script>
+		
+		<script src="scripts/map_script.js"></script>
+		
+	</head>
+	
+	<body>
+		<!--Splash Screen-->
+		<div id="splash-screen" class="w3-card-4">
+			<span id="title-splash">Earth Diagnosis</span>
+			<div class="loader"></div>
+			<div id="author-title">Created by BITeam.</div>
+		</div>
+		
+		<!--Search box-->
+		<input id="nav-search-box" placeholder="Enter a location..." class="w3-input w3-border w3-round-xxlarge w3-col w3-rest controls" type="text" autocomplete="on">
+		<button id="btn-menu" onclick="toggle_buttons()" class="w3-btn w3-circle w3-blue w3-col round-btn-main w3-white controls">
+			<i id="btn-menu-icon" class="fa fa-bars w3-large" aria-hidden="true"></i>
+		</button>
+		<button id="location-btn" title="Your location" onclick="find_location()" class="w3-btn w3-circle w3-white w3-col round-btn-search controls">
+			<i class="fa fa-map-marker" aria-hidden="true"></i>
+		</button>
+		<div id="co2-filter-btn-container" class="round-btn-container">
+			<button id="co2-filter-btn" title="CO2" class="w3-btn w3-circle w3-blue w3-col round-btn controls" onclick="load_co2()">
+				<img id="co2-btn-img" class="btn-icon" src="icons/co2_icon.svg"/>
+			</button>
+		</div>
+		<div id="earthquake-filter-btn-container" class="round-btn-container">
+			<button id="earthquake-filter-btn" title="Earthquakes" class="w3-btn w3-circle w3-col round-btn controls" onclick="load_earthquakes()">
+				<img class="btn-icon" src="icons/earthquake_icon.svg"/>
+			</button>
+		</div>
+		
+		
+		<!--Map-->
+		<div id="map"></div>
+		
+	</body>
+</html>
