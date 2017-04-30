@@ -61,7 +61,6 @@ def percentlocation(city, limit):
             city[attr+'_per'] = abs(((city[attr] - limit['min']) * 100) / (limit['max'] - limit['min']))
         else :
             city[attr+'_per'] = 100
-        print city[attr] + ' ' + city[attr+'_per']
 
 for city in cities.values():
     location(city, limit)

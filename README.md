@@ -26,6 +26,10 @@ Bash script
 
 Reference: [Giovanni - The Bridge Between Data and Science v 4.21.6](https://giovanni.gsfc.nasa.gov/giovanni)
 
+![Panoply netCDF, HDF and GRIB Data Viewer](/images/panoply.png "Panoply netCDF, HDF and GRIB Data Viewer")
+
+Procesamiento de datos netCDF4 con [Panoply netCDF, HDF and GRIB Data Viewer](https://www.giss.nasa.gov/tools/panoply/)
+
 ### Net longwave radiation flux
 
 ![Net longwave radiation flux](/images/net_longwave_flux.png "Net longwave radiation flux")
@@ -77,8 +81,30 @@ Reference: [Giovanni - The Bridge Between Data and Science v 4.21.6](https://gio
 * quantity_type: Dust
 * nc: g4.timeAvgMap.M2TMNXAER_5_12_4_DUCMASS.20101130-20170130.180W_90S_180E_90N.nc
 * variable: M2TMNXAER_5_12_4_DUCMASS
-* attr: Dust
+* attr: dust
 * python: --nc=pollution-data/g4.timeAvgMap.M2TMNXAER_5_12_4_DUCMASS.20101130-20170130.180W_90S_180E_90N.nc --variable=M2TMNXAER_5_12_4_DUCMASS --attr=dust
+
+### NO2 tropospheric column density, screened for CloudFraction < 30%
+
+![NO2 tropospheric column density, screened for CloudFraction < 30%](/images/no2.png "NO2 tropospheric column density, screened for CloudFraction < 30%")
+
+* unit: 1/cm2
+* quantity_type: NO2
+* nc: g4.timeAvgMap.OMNO2d_003_ColumnAmountNO2TropCloudScreened.20101130-20170130.180W_90S_180E_90N.nc
+* variable: OMNO2d_003_ColumnAmountNO2TropCloudScreened
+* attr: no2
+* python: --nc=pollution-data/g4.timeAvgMap.OMNO2d_003_ColumnAmountNO2TropCloudScreened.20101130-20170130.180W_90S_180E_90N.nc --variable=OMNO2d_003_ColumnAmountNO2TropCloudScreened --attr=no2
+
+### Methane Total Column (Daytime/Ascending)
+
+![Methane Total Column (Daytime/Ascending)](/images/ch4.png "Methane Total Column (Daytime/Ascending)")
+
+* unit: mol/cm2
+* quantity_type: CH4
+* nc: g4.timeAvgMap.AIRX3STD_006_TotCH4_A.20020830-20160922.180W_90S_180E_90N.nc
+* variable: AIRX3STD_006_TotCH4_A
+* attr: ch4
+* python: --nc=pollution-data/g4.timeAvgMap.AIRX3STD_006_TotCH4_A.20020830-20160922.180W_90S_180E_90N.nc --variable=AIRX3STD_006_TotCH4_A --attr=ch4
 
 ## WebSite - MAPSPOL -
 
