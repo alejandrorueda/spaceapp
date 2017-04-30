@@ -22,6 +22,10 @@ Bash script
 
 ## Data pollution
 
+![Giovanni - Atmosphere Chemistry](/images/giovanni.png "Giovanni - Atmosphere Chemistry")
+
+Reference: [Giovanni - The Bridge Between Data and Science v 4.21.6](https://giovanni.gsfc.nasa.gov/giovanni)
+
 ### Net longwave radiation flux
 
 ![Net longwave radiation flux](/images/net_longwave_flux.png "Net longwave radiation flux")
@@ -32,6 +36,18 @@ Bash script
 * variable: GLDAS_NOAH10_M_2_1_Lwnet_tavg
 * attr: lw_flux
 * python: --nc=pollution-data/g4.timeAvgMap.GLDAS_NOAH10_M_2_1_Lwnet_tavg.20101130-20170130.180W_60S_180E_90N.nc --variable=GLDAS_NOAH10_M_2_1_Lwnet_tavg --attr=lw_flux
+
+### Net shortwave radiation flux
+
+![Net shortwave radiation flux](/images/net_shortwave_flux.png "Net shortwave radiation flux")
+
+* unit: W m-2
+* quantity_type: Radiation, Net
+* nc: g4.timeAvgMap.GLDAS_NOAH10_M_2_1_Swnet_tavg.20101130-20170130.180W_60S_180E_90N.nc
+* variable: GLDAS_NOAH10_M_2_1_Swnet_tavg
+* attr: lw_flux
+* python: --nc=pollution-data/g4.timeAvgMap.GLDAS_NOAH10_M_2_1_Swnet_tavg.20101130-20170130.180W_60S_180E_90N.nc --variable=GLDAS_NOAH10_M_2_1_Swnet_tavg --attr=sw_flux
+
 ### CO Emissions
 
 ![CO Emissions](/images/co.png "CO Emissions")
