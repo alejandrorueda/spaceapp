@@ -124,13 +124,16 @@ function load_earthquakes(){
 }
 
 function colorGradiente(porcentaje){
+	if(porcentaje == undefined) return '#EEE';
+
 	var red = 'FF0000'
 	var lime = '00FF00'
-	var ratio = 0.5
+	var ratio = porcentaje/100;
 	var r = Math.ceil(parseInt(red.substring(0,2), 16) * ratio + parseInt(lime.substring(0,2), 16) * (1-ratio));
 	var g = Math.ceil(parseInt(red.substring(2,4), 16) * ratio + parseInt(lime.substring(2,4), 16) * (1-ratio));
 	var b = Math.ceil(parseInt(red.substring(4,6), 16) * ratio + parseInt(lime.substring(4,6), 16) * (1-ratio));
-	return hexCode(r)+hexCode(g)+hexCode(b);
+	var hex = hexCode(r)+hexCode(g)+hexCode(b);
+	return '#'+hex;
 }
 
 function hexCode(x){
@@ -182,10 +185,10 @@ function load_no(){
 	for (var city in citymap) {
 		// Add the circle for this city to the map.
 		var cityCircle = new google.maps.Circle({
-		strokeColor: colorGradiente(citymap[city].no_per),
+		strokeColor: colorGradiente(citymap[city].no2_per),
 		strokeOpacity: 0.8,
 		strokeWeight: 2,
-		fillColor: colorGradiente(citymap[city].no_per),
+		fillColor: colorGradiente(citymap[city].no2_per),
 		fillOpacity: 0.35,
 		map: map,
 		center: citymap[city].center,
@@ -262,6 +265,7 @@ function load_information(){
 		var lng = citymap[key].center.lng;
 		var _co2 = citymap[key].co2;
 		var _co = citymap[key].co;
+		var _no2 = citymap[key].no2;
 		var _dust = citymap[key].dust;
 		var _lw_flux = citymap[key].lw_flux;
 		var _sw_flux = citymap[key].sw_flux;
@@ -281,7 +285,11 @@ function load_information(){
 		}
 
 		if(_dust !== null){
-			str_dust = '<p><strong>Dust:</strong> '+_dust+'</p>';
+			str_no2 = '<p><strong>Dust:</strong> '+_dust+'</p>';
+		}
+
+		if(_no2 !== null){
+			str_dust = '<p><strong>NO2:</strong> '+_no2+'</p>';
 		}
 
 		if(_lw_flux !== null){
