@@ -46,6 +46,6 @@ for city in cities.values():
     location(city)
 
 with open(output, 'w') as outfile:
-    json.dump(cities, outfile)
+    json.dump(cities, outfile, sort_keys=True, indent=2)
 
 dataset.close()

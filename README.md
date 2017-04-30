@@ -12,7 +12,13 @@
 
 ## City pollution data
 
+Python example
+
     python pollution-city.py --nc=pollution-data/g4.timeAvgMap.AIRS3C2M_005_mole_fraction_of_carbon_dioxide_in_free_troposphere.20101130-20170130.180W_60S_180E_90N.nc --variable=AIRS3C2M_005_mole_fraction_of_carbon_dioxide_in_free_troposphere --cities=cities/cities-test.json --attr=co2 --output=pollution-cities/biteam-co2.json
+
+Bash script
+
+    sh pollution-city-all-data.sh
 
 ## Data pollution
 
@@ -46,3 +52,14 @@
 * variable: AIRS3C2M_005_mole_fraction_of_carbon_dioxide_in_free_troposphere
 * attr: co2
 * python: --nc=pollution-data/g4.timeAvgMap.AIRS3C2M_005_mole_fraction_of_carbon_dioxide_in_free_troposphere.20101130-20170130.180W_60S_180E_90N.nc --variable=AIRS3C2M_005_mole_fraction_of_carbon_dioxide_in_free_troposphere --attr=co2
+
+## Dust Column Mass Density
+
+![Dust Column Mass Density](/images/dust.png "Dust Column Mass Density")
+
+* unit: kg m-2
+* quantity_type: Dust
+* nc: g4.timeAvgMap.M2TMNXAER_5_12_4_DUCMASS.20101130-20170130.180W_90S_180E_90N.nc
+* variable: M2TMNXAER_5_12_4_DUCMASS
+* attr: Dust
+* python: --nc=pollution-data/g4.timeAvgMap.M2TMNXAER_5_12_4_DUCMASS.20101130-20170130.180W_90S_180E_90N.nc --variable=M2TMNXAER_5_12_4_DUCMASS --attr=dust
