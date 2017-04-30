@@ -5,6 +5,31 @@
     https://raw.githubusercontent.com/alejandrorueda/spaceapp/master/pollution-cities/pollution-by-city.json
     https://raw.githubusercontent.com/alejandrorueda/spaceapp/master/pollution-cities/pollution-by-city.js
 
+## JSON Data example
+
+    "manchester": {
+      "center": {
+        "lat": 53.467,
+        "lng": -2.233
+      },
+      "ch4": 3.779105907159125e+19,
+      "ch4_per": 95.51937264091019,
+      "city": "Manchester",
+      "co": 5.537136305022727e-10,
+      "co2": 397.56538211116316,
+      "co2_per": 63.18718816857975,
+      "co_per": 3.005560852106043,
+      "dust": 1.6923117073019966e-05,
+      "dust_per": 2.3738678003459066, 
+      "lw_flux": -45.75823974609375,
+      "lw_flux_per": 77.03036410685885,
+      "no2": 4823121035001856.0,
+      "no2_per": 24.110171253212517,
+      "sw_flux": 86.77875518798828,
+      "sw_flux_per": 31.76687690180772,
+      "wikipedia": "Manchester"
+    }
+
 ## City conversion
 
     cd cities
