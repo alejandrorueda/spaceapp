@@ -24,7 +24,7 @@
     * nc: g4.timeAvgMap.M2TMNXCHM_5_12_4_COEM.20101130-20170130.180W_90S_180E_90N.nc
     * variable: M2TMNXCHM_5_12_4_COEM
     * attr: co
-    * python: --nc=pollution-data/g4.timeAvgMap.M2TMNXCHM_5_12_4_COEM.20101130-20170130.180W_90S_180E_90N.nc --variable=M2TMNXCHM_5_12_4_COEM_tavg --attr=co
+    * python: --nc=pollution-data/g4.timeAvgMap.M2TMNXCHM_5_12_4_COEM.20101130-20170130.180W_90S_180E_90N.nc --variable=M2TMNXCHM_5_12_4_COEM --attr=co
 * Carbon Dioxide, Mole Fraction in Free Troposphere, IR-Only
     * unit:
     * quantity_type: CO2
