@@ -1,11 +1,11 @@
-# spaceapp
+# Earth diagnosis
 
 ## JSON Pollution cities results
 
     https://raw.githubusercontent.com/alejandrorueda/spaceapp/master/pollution-cities/pollution-by-city.json
     https://raw.githubusercontent.com/alejandrorueda/spaceapp/master/pollution-cities/pollution-by-city.js
 
-## JSON Data example
+## JSON Data of generated data
 
     "manchester": {
       "center": {
@@ -20,7 +20,7 @@
       "co2_per": 63.18718816857975,
       "co_per": 3.005560852106043,
       "dust": 1.6923117073019966e-05,
-      "dust_per": 2.3738678003459066, 
+      "dust_per": 2.3738678003459066,
       "lw_flux": -45.75823974609375,
       "lw_flux_per": 77.03036410685885,
       "no2": 4823121035001856.0,
@@ -47,7 +47,7 @@ Python example
 
     python pollution-city.py --nc=pollution-data/g4.timeAvgMap.AIRS3C2M_005_mole_fraction_of_carbon_dioxide_in_free_troposphere.20101130-20170130.180W_60S_180E_90N.nc --variable=AIRS3C2M_005_mole_fraction_of_carbon_dioxide_in_free_troposphere --cities=cities/cities-test.json --attr=co2 --output=pollution-cities/biteam-co2.json
 
-Bash script
+Bash script para generar json
 
     sh pollution-city-all-data.sh
 
