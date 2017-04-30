@@ -140,16 +140,9 @@ Procesamiento de datos netCDF4 con [Panoply netCDF, HDF and GRIB Data Viewer](ht
 * attr: ch4
 * python: --nc=pollution-data/g4.timeAvgMap.AIRX3STD_006_TotCH4_A.20020830-20160922.180W_90S_180E_90N.nc --variable=AIRX3STD_006_TotCH4_A --attr=ch4
 
-## WebSite - MAPSPOL -
+## WebSite - Earth diagnosis -
 
-En la carpeta MAPSPOL podemos encontrar el sitio web (index.html). si cargamos la web en un navegador poremos observar un mapa mundial con las principales ciudades marcadas y si seleccionamos una ciudad nos mostrara toda la información disponible con respecto a esa ciudad tal y como muestra siguiente imagen.
+Under 'Earth Diagnosis' directory you find out a website. This website show you a WorldMap with selective cities and theirs relevant pollution data.
+Also, you can select between several filters such as 'CO2', 'CO', Radiation and near real-time earthquake information.
 
-![init-map](/images/mapa-inicial.png "Init map")
-
-Tambien, podemos aplicar varios filtros para poder mostrar información en nuestro mapa.
-* Net longwave radiation flux
-* CO Emissions
-* Carbon Dioxide, Mole Fraction in Free Troposphere, IR-Only
-
-
-Además de los filtros anteriormente citados, hemos añadido una capa extra para mostrar las zonas en las que actualmente esta ocurriendo un terremoto.
+![init-map](/images/mapa-co.png "CO Earth Diagnosis")
