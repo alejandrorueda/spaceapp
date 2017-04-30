@@ -38,7 +38,7 @@ def location(city):
     for latitud in lat1:
         if latitud < center['lat']:
             indlat+=1
-    print city['city']
+    print variable + ' ' + city['city']
     if indlon < lon1[:].size and indlat < lat1[:].size :
         city[attr]=dataset.variables[variable][indlat][indlon].tolist()
 
